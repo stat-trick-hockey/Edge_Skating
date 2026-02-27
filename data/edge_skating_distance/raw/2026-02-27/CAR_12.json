@@ -1,0 +1,1481 @@
+{
+  "skatingDistanceLast10": [
+    {
+      "gameCenterLink": "/gamecenter/tbl-vs-car/2026/02/26/2025020923",
+      "gameDate": "2026-02-26",
+      "isHomeTeam": true,
+      "toiAll": 17874,
+      "distanceSkatedAll": {
+        "imperial": 45.9881,
+        "metric": 74.0105
+      },
+      "toiEven": 16600,
+      "distanceSkatedEven": {
+        "imperial": 43.2414,
+        "metric": 69.59
+      },
+      "toiPP": 770,
+      "distanceSkatedPP": {
+        "imperial": 1.8144,
+        "metric": 2.9199
+      },
+      "toiPK": 504,
+      "distanceSkatedPK": {
+        "imperial": 0.9324,
+        "metric": 1.5006
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Hurricanes"
+        },
+        "placeNameWithPreposition": {
+          "default": "Carolina",
+          "fr": "de la Caroline"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Lightning"
+        },
+        "placeNameWithPreposition": {
+          "default": "Tampa Bay",
+          "fr": "de Tampa Bay"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/TBL_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/TBL_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/car-vs-nyr/2026/02/05/2025020906",
+      "gameDate": "2026-02-05",
+      "isHomeTeam": false,
+      "toiAll": 17763,
+      "distanceSkatedAll": {
+        "imperial": 44.1724,
+        "metric": 71.0885
+      },
+      "toiEven": 15120,
+      "distanceSkatedEven": {
+        "imperial": 38.5691,
+        "metric": 62.0708
+      },
+      "toiPP": 1683,
+      "distanceSkatedPP": {
+        "imperial": 3.4166,
+        "metric": 5.4984
+      },
+      "toiPK": 960,
+      "distanceSkatedPK": {
+        "imperial": 2.1868,
+        "metric": 3.5193
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Rangers"
+        },
+        "placeNameWithPreposition": {
+          "default": "New York",
+          "fr": "de New York"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/NYR_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Hurricanes"
+        },
+        "placeNameWithPreposition": {
+          "default": "Carolina",
+          "fr": "de la Caroline"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/ott-vs-car/2026/02/03/2025020890",
+      "gameDate": "2026-02-03",
+      "isHomeTeam": true,
+      "toiAll": 17794,
+      "distanceSkatedAll": {
+        "imperial": 45.8729,
+        "metric": 73.825
+      },
+      "toiEven": 16340,
+      "distanceSkatedEven": {
+        "imperial": 42.5333,
+        "metric": 68.4505
+      },
+      "toiPP": 630,
+      "distanceSkatedPP": {
+        "imperial": 1.5248,
+        "metric": 2.454
+      },
+      "toiPK": 824,
+      "distanceSkatedPK": {
+        "imperial": 1.8147,
+        "metric": 2.9205
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Hurricanes"
+        },
+        "placeNameWithPreposition": {
+          "default": "Carolina",
+          "fr": "de la Caroline"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Senators",
+          "fr": "Sénateurs"
+        },
+        "placeNameWithPreposition": {
+          "default": "Ottawa",
+          "fr": "d'Ottawa"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/OTT_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/lak-vs-car/2026/02/01/2025020874",
+      "gameDate": "2026-02-01",
+      "isHomeTeam": true,
+      "toiAll": 17775,
+      "distanceSkatedAll": {
+        "imperial": 45.8945,
+        "metric": 73.8598
+      },
+      "toiEven": 15283,
+      "distanceSkatedEven": {
+        "imperial": 39.7432,
+        "metric": 63.9604
+      },
+      "toiPP": 1660,
+      "distanceSkatedPP": {
+        "imperial": 4.217,
+        "metric": 6.7866
+      },
+      "toiPK": 832,
+      "distanceSkatedPK": {
+        "imperial": 1.9342,
+        "metric": 3.1129
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Hurricanes"
+        },
+        "placeNameWithPreposition": {
+          "default": "Carolina",
+          "fr": "de la Caroline"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Kings"
+        },
+        "placeNameWithPreposition": {
+          "default": "Los Angeles",
+          "fr": "de Los Angeles"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/LAK_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/car-vs-wsh/2026/01/31/2025020864",
+      "gameDate": "2026-01-31",
+      "isHomeTeam": false,
+      "toiAll": 17826,
+      "distanceSkatedAll": {
+        "imperial": 45.2157,
+        "metric": 72.7674
+      },
+      "toiEven": 15558,
+      "distanceSkatedEven": {
+        "imperial": 40.4691,
+        "metric": 65.1285
+      },
+      "toiPP": 572,
+      "distanceSkatedPP": {
+        "imperial": 1.1037,
+        "metric": 1.7762
+      },
+      "toiPK": 1696,
+      "distanceSkatedPK": {
+        "imperial": 3.6429,
+        "metric": 5.8627
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Capitals"
+        },
+        "placeNameWithPreposition": {
+          "default": "Washington",
+          "fr": "de Washington"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/WSH_secondary_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/WSH_secondary_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Hurricanes"
+        },
+        "placeNameWithPreposition": {
+          "default": "Carolina",
+          "fr": "de la Caroline"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/uta-vs-car/2026/01/29/2025020851",
+      "gameDate": "2026-01-29",
+      "isHomeTeam": true,
+      "toiAll": 17819,
+      "distanceSkatedAll": {
+        "imperial": 45.619,
+        "metric": 73.4165
+      },
+      "toiEven": 14325,
+      "distanceSkatedEven": {
+        "imperial": 37.0494,
+        "metric": 59.6251
+      },
+      "toiPP": 2534,
+      "distanceSkatedPP": {
+        "imperial": 6.4563,
+        "metric": 10.3903
+      },
+      "toiPK": 960,
+      "distanceSkatedPK": {
+        "imperial": 2.1133,
+        "metric": 3.4011
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Hurricanes"
+        },
+        "placeNameWithPreposition": {
+          "default": "Carolina",
+          "fr": "de la Caroline"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Mammoth"
+        },
+        "placeNameWithPreposition": {
+          "default": "Utah",
+          "fr": "de l'Utah"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/UTA_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/UTA_dark.svg?season=20252026"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/car-vs-ott/2026/01/24/2025020813",
+      "gameDate": "2026-01-24",
+      "isHomeTeam": false,
+      "toiAll": 17520,
+      "distanceSkatedAll": {
+        "imperial": 44.306,
+        "metric": 71.3034
+      },
+      "toiEven": 13750,
+      "distanceSkatedEven": {
+        "imperial": 35.2004,
+        "metric": 56.6494
+      },
+      "toiPP": 1850,
+      "distanceSkatedPP": {
+        "imperial": 5.0325,
+        "metric": 8.0991
+      },
+      "toiPK": 1920,
+      "distanceSkatedPK": {
+        "imperial": 4.0731,
+        "metric": 6.555
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Senators",
+          "fr": "Sénateurs"
+        },
+        "placeNameWithPreposition": {
+          "default": "Ottawa",
+          "fr": "d'Ottawa"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/OTT_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Hurricanes"
+        },
+        "placeNameWithPreposition": {
+          "default": "Carolina",
+          "fr": "de la Caroline"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/chi-vs-car/2026/01/22/2025020796",
+      "gameDate": "2026-01-22",
+      "isHomeTeam": true,
+      "toiAll": 18791,
+      "distanceSkatedAll": {
+        "imperial": 49.5874,
+        "metric": 79.803
+      },
+      "toiEven": 15311,
+      "distanceSkatedEven": {
+        "imperial": 41.0173,
+        "metric": 66.0108
+      },
+      "toiPP": 3000,
+      "distanceSkatedPP": {
+        "imperial": 7.4251,
+        "metric": 11.9495
+      },
+      "toiPK": 480,
+      "distanceSkatedPK": {
+        "imperial": 1.145,
+        "metric": 1.8427
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Hurricanes"
+        },
+        "placeNameWithPreposition": {
+          "default": "Carolina",
+          "fr": "de la Caroline"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Blackhawks"
+        },
+        "placeNameWithPreposition": {
+          "default": "Chicago",
+          "fr": "de Chicago"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CHI_dark.svg?season=20252026"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/buf-vs-car/2026/01/19/2025020770",
+      "gameDate": "2026-01-19",
+      "isHomeTeam": true,
+      "toiAll": 17676,
+      "distanceSkatedAll": {
+        "imperial": 45.7673,
+        "metric": 73.6552
+      },
+      "toiEven": 16561,
+      "distanceSkatedEven": {
+        "imperial": 43.0746,
+        "metric": 69.3217
+      },
+      "toiPP": 635,
+      "distanceSkatedPP": {
+        "imperial": 1.5195,
+        "metric": 2.4454
+      },
+      "toiPK": 480,
+      "distanceSkatedPK": {
+        "imperial": 1.1732,
+        "metric": 1.8881
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Hurricanes"
+        },
+        "placeNameWithPreposition": {
+          "default": "Carolina",
+          "fr": "de la Caroline"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Sabres"
+        },
+        "placeNameWithPreposition": {
+          "default": "Buffalo",
+          "fr": "de Buffalo"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/BUF_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/BUF_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/car-vs-njd/2026/01/17/2025020759",
+      "gameDate": "2026-01-17",
+      "isHomeTeam": false,
+      "toiAll": 17577,
+      "distanceSkatedAll": {
+        "imperial": 44.8102,
+        "metric": 72.1149
+      },
+      "toiEven": 15253,
+      "distanceSkatedEven": {
+        "imperial": 39.152,
+        "metric": 63.0089
+      },
+      "toiPP": 600,
+      "distanceSkatedPP": {
+        "imperial": 1.6449,
+        "metric": 2.6472
+      },
+      "toiPK": 1724,
+      "distanceSkatedPK": {
+        "imperial": 4.0134,
+        "metric": 6.4588
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Devils"
+        },
+        "placeNameWithPreposition": {
+          "default": "New Jersey",
+          "fr": "du New Jersey"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/NJD_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Hurricanes"
+        },
+        "placeNameWithPreposition": {
+          "default": "Carolina",
+          "fr": "de la Caroline"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg"
+        }
+      }
+    }
+  ],
+  "skatingDistanceDetails": [
+    {
+      "strengthCode": "all",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 2675.7317,
+        "metric": 4305.9626,
+        "rank": 10,
+        "leagueAvg": {
+          "imperial": 2635.0394,
+          "metric": 4240.4779
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.2827,
+        "metric": 14.9383,
+        "rank": 7,
+        "leagueAvg": {
+          "imperial": 9.1605,
+          "metric": 14.7418
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 50.8812,
+        "metric": 81.8814,
+        "rank": 2,
+        "leagueAvg": {
+          "imperial": 49.2112,
+          "metric": 79.1939
+        },
+        "overlay": {
+          "gameDate": "2025-12-13",
+          "awayTeam": {
+            "abbrev": "CAR",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "PHI",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 16.5104,
+        "metric": 26.5697,
+        "rank": 21,
+        "leagueAvg": {
+          "imperial": 16.5631,
+          "metric": 26.6545
+        },
+        "overlay": {
+          "gameDate": "2025-11-14",
+          "awayTeam": {
+            "abbrev": "VAN",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "CAR",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "all",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 1703.8222,
+        "metric": 2741.9022,
+        "rank": 8,
+        "leagueAvg": {
+          "imperial": 1678.9327,
+          "metric": 2701.8485
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.7389,
+        "metric": 15.6725,
+        "rank": 8,
+        "leagueAvg": {
+          "imperial": 9.599,
+          "metric": 15.4473
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 32.5378,
+        "metric": 52.3619,
+        "rank": 3,
+        "leagueAvg": {
+          "imperial": 31.5501,
+          "metric": 50.7724
+        },
+        "overlay": {
+          "gameDate": "2025-12-13",
+          "awayTeam": {
+            "abbrev": "CAR",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "PHI",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 10.5901,
+        "metric": 17.0424,
+        "rank": 23,
+        "leagueAvg": {
+          "imperial": 10.7472,
+          "metric": 17.2952
+        },
+        "overlay": {
+          "gameDate": "2025-12-09",
+          "awayTeam": {
+            "abbrev": "CBJ",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "CAR",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "all",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 971.9095,
+        "metric": 1564.0604,
+        "rank": 6,
+        "leagueAvg": {
+          "imperial": 956.1066,
+          "metric": 1538.6294
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.5782,
+        "metric": 13.8047,
+        "rank": 8,
+        "leagueAvg": {
+          "imperial": 8.4804,
+          "metric": 13.6472
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 18.6639,
+        "metric": 30.0352,
+        "rank": 2,
+        "leagueAvg": {
+          "imperial": 18.1817,
+          "metric": 29.2592
+        },
+        "overlay": {
+          "gameDate": "2025-11-14",
+          "awayTeam": {
+            "abbrev": "VAN",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "CAR",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 6.1987,
+        "metric": 9.9754,
+        "rank": 16,
+        "leagueAvg": {
+          "imperial": 6.2208,
+          "metric": 10.0109
+        },
+        "overlay": {
+          "gameDate": "2025-12-27",
+          "awayTeam": {
+            "abbrev": "DET",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "CAR",
+            "score": 5
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 211.9006,
+        "metric": 341.0043,
+        "rank": 7,
+        "leagueAvg": {
+          "imperial": 195.5346,
+          "metric": 314.6671
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.8245,
+        "metric": 14.201,
+        "rank": 2,
+        "leagueAvg": {
+          "imperial": 8.3771,
+          "metric": 13.481
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 8.305,
+        "metric": 13.3649,
+        "rank": 12,
+        "leagueAvg": {
+          "imperial": 8.1572,
+          "metric": 13.1272
+        },
+        "overlay": {
+          "gameDate": "2025-12-06",
+          "awayTeam": {
+            "abbrev": "NSH",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "CAR",
+            "score": 6
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 5.6451,
+        "metric": 9.0845,
+        "rank": 5,
+        "leagueAvg": {
+          "imperial": 4.8248,
+          "metric": 7.7644
+        },
+        "overlay": {
+          "gameDate": "2025-12-06",
+          "awayTeam": {
+            "abbrev": "NSH",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "CAR",
+            "score": 6
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 162.0565,
+        "metric": 260.792,
+        "rank": 7,
+        "leagueAvg": {
+          "imperial": 149.9372,
+          "metric": 241.2888
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.7655,
+        "metric": 14.106,
+        "rank": 2,
+        "leagueAvg": {
+          "imperial": 8.2497,
+          "metric": 13.2759
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 6.5552,
+        "metric": 10.5491,
+        "rank": 10,
+        "leagueAvg": {
+          "imperial": 6.2995,
+          "metric": 10.1376
+        },
+        "overlay": {
+          "gameDate": "2025-12-06",
+          "awayTeam": {
+            "abbrev": "NSH",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "CAR",
+            "score": 6
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 4.5015,
+        "metric": 7.2441,
+        "rank": 4,
+        "leagueAvg": {
+          "imperial": 3.7113,
+          "metric": 5.9726
+        },
+        "overlay": {
+          "gameDate": "2025-12-06",
+          "awayTeam": {
+            "abbrev": "NSH",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "CAR",
+            "score": 6
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 49.8441,
+        "metric": 80.2124,
+        "rank": 11,
+        "leagueAvg": {
+          "imperial": 45.5974,
+          "metric": 73.3784
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.022,
+        "metric": 14.5188,
+        "rank": 8,
+        "leagueAvg": {
+          "imperial": 8.8253,
+          "metric": 14.2022
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 1.9854,
+        "metric": 3.1951,
+        "rank": 16,
+        "leagueAvg": {
+          "imperial": 2.0082,
+          "metric": 3.2318
+        },
+        "overlay": {
+          "gameDate": "2025-11-11",
+          "awayTeam": {
+            "abbrev": "WSH",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "CAR",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 1.3403,
+        "metric": 2.1569,
+        "rank": 9,
+        "leagueAvg": {
+          "imperial": 1.2204,
+          "metric": 1.964
+        },
+        "overlay": {
+          "gameDate": "2025-10-11",
+          "awayTeam": {
+            "abbrev": "PHI",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "CAR",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 144.6875,
+        "metric": 232.8407,
+        "rank": 15,
+        "leagueAvg": {
+          "imperial": 141.0267,
+          "metric": 226.9494
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.1896,
+        "metric": 13.1792,
+        "rank": 1,
+        "leagueAvg": {
+          "imperial": 7.6034,
+          "metric": 12.236
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 6.8758,
+        "metric": 11.0649,
+        "rank": 4,
+        "leagueAvg": {
+          "imperial": 5.9504,
+          "metric": 9.5758
+        },
+        "overlay": {
+          "gameDate": "2025-10-23",
+          "awayTeam": {
+            "abbrev": "CAR",
+            "score": 5
+          },
+          "homeTeam": {
+            "abbrev": "COL",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 3.5568,
+        "metric": 5.7238,
+        "rank": 10,
+        "leagueAvg": {
+          "imperial": 3.4461,
+          "metric": 5.5457
+        },
+        "overlay": {
+          "gameDate": "2025-10-23",
+          "awayTeam": {
+            "abbrev": "CAR",
+            "score": 5
+          },
+          "homeTeam": {
+            "abbrev": "COL",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 78.9605,
+        "metric": 127.0684,
+        "rank": 14,
+        "leagueAvg": {
+          "imperial": 77.6488,
+          "metric": 124.9575
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.9581,
+        "metric": 14.4159,
+        "rank": 4,
+        "leagueAvg": {
+          "imperial": 8.4669,
+          "metric": 13.6255
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 3.4389,
+        "metric": 5.5341,
+        "rank": 9,
+        "leagueAvg": {
+          "imperial": 3.2574,
+          "metric": 5.242
+        },
+        "overlay": {
+          "gameDate": "2025-10-23",
+          "awayTeam": {
+            "abbrev": "CAR",
+            "score": 5
+          },
+          "homeTeam": {
+            "abbrev": "COL",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 1.7893,
+        "metric": 2.8795,
+        "rank": 20,
+        "leagueAvg": {
+          "imperial": 1.897,
+          "metric": 3.0528
+        },
+        "overlay": {
+          "gameDate": "2025-10-16",
+          "awayTeam": {
+            "abbrev": "CAR",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "ANA",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 65.727,
+        "metric": 105.7722,
+        "rank": 12,
+        "leagueAvg": {
+          "imperial": 63.378,
+          "metric": 101.992
+        }
+      },
+      "distancePer60": {
+        "imperial": 7.4245,
+        "metric": 11.9479,
+        "rank": 1,
+        "leagueAvg": {
+          "imperial": 6.759,
+          "metric": 10.877
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 3.4369,
+        "metric": 5.5308,
+        "rank": 3,
+        "leagueAvg": {
+          "imperial": 2.7123,
+          "metric": 4.3648
+        },
+        "overlay": {
+          "gameDate": "2025-10-23",
+          "awayTeam": {
+            "abbrev": "CAR",
+            "score": 5
+          },
+          "homeTeam": {
+            "abbrev": "COL",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 1.8751,
+        "metric": 3.0176,
+        "rank": 6,
+        "leagueAvg": {
+          "imperial": 1.5696,
+          "metric": 2.5259
+        },
+        "overlay": {
+          "gameDate": "2025-10-23",
+          "awayTeam": {
+            "abbrev": "CAR",
+            "score": 5
+          },
+          "homeTeam": {
+            "abbrev": "COL",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 2319.1435,
+        "metric": 3732.1176,
+        "rank": 12,
+        "leagueAvg": {
+          "imperial": 2298.478,
+          "metric": 3698.8614
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.4056,
+        "metric": 15.1362,
+        "rank": 10,
+        "leagueAvg": {
+          "imperial": 9.3525,
+          "metric": 15.0506
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 47.7334,
+        "metric": 76.8158,
+        "rank": 2,
+        "leagueAvg": {
+          "imperial": 46.6017,
+          "metric": 74.9946
+        },
+        "overlay": {
+          "gameDate": "2025-12-13",
+          "awayTeam": {
+            "abbrev": "CAR",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "PHI",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 16.4873,
+        "metric": 26.5325,
+        "rank": 18,
+        "leagueAvg": {
+          "imperial": 16.4676,
+          "metric": 26.5007
+        },
+        "overlay": {
+          "gameDate": "2025-12-27",
+          "awayTeam": {
+            "abbrev": "DET",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "CAR",
+            "score": 5
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 1462.8052,
+        "metric": 2354.0418,
+        "rank": 10,
+        "leagueAvg": {
+          "imperial": 1451.3468,
+          "metric": 2335.6023
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.9074,
+        "metric": 15.9436,
+        "rank": 12,
+        "leagueAvg": {
+          "imperial": 9.8355,
+          "metric": 15.8279
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 30.0023,
+        "metric": 48.2816,
+        "rank": 8,
+        "leagueAvg": {
+          "imperial": 29.4893,
+          "metric": 47.4562
+        },
+        "overlay": {
+          "gameDate": "2025-12-13",
+          "awayTeam": {
+            "abbrev": "CAR",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "PHI",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 10.3524,
+        "metric": 16.6597,
+        "rank": 25,
+        "leagueAvg": {
+          "imperial": 10.4549,
+          "metric": 16.8246
+        },
+        "overlay": {
+          "gameDate": "2025-10-09",
+          "awayTeam": {
+            "abbrev": "NJD",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "CAR",
+            "score": 6
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 856.3384,
+        "metric": 1378.0758,
+        "rank": 13,
+        "leagueAvg": {
+          "imperial": 847.1313,
+          "metric": 1363.2591
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.6567,
+        "metric": 13.9309,
+        "rank": 15,
+        "leagueAvg": {
+          "imperial": 8.6266,
+          "metric": 13.8825
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 17.7311,
+        "metric": 28.5341,
+        "rank": 5,
+        "leagueAvg": {
+          "imperial": 17.2243,
+          "metric": 27.7184
+        },
+        "overlay": {
+          "gameDate": "2025-12-13",
+          "awayTeam": {
+            "abbrev": "CAR",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "PHI",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 6.1987,
+        "metric": 9.9754,
+        "rank": 12,
+        "leagueAvg": {
+          "imperial": 6.1699,
+          "metric": 9.9291
+        },
+        "overlay": {
+          "gameDate": "2025-12-27",
+          "awayTeam": {
+            "abbrev": "DET",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "CAR",
+            "score": 5
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    }
+  ]
+}
