@@ -1,0 +1,1477 @@
+{
+  "skatingDistanceLast10": [
+    {
+      "gameCenterLink": "/gamecenter/wpg-vs-ana/2026/02/27/2025020933",
+      "gameDate": "2026-02-27",
+      "isHomeTeam": false,
+      "toiAll": 18723,
+      "distanceSkatedAll": {
+        "imperial": 48.3864,
+        "metric": 77.8701
+      },
+      "toiEven": 15984,
+      "distanceSkatedEven": {
+        "imperial": 41.4967,
+        "metric": 66.7822
+      },
+      "toiPP": 2035,
+      "distanceSkatedPP": {
+        "imperial": 5.2797,
+        "metric": 8.4969
+      },
+      "toiPK": 704,
+      "distanceSkatedPK": {
+        "imperial": 1.61,
+        "metric": 2.591
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Ducks"
+        },
+        "placeNameWithPreposition": {
+          "default": "Anaheim",
+          "fr": "d'Anaheim"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/ANA_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/ANA_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Jets"
+        },
+        "placeNameWithPreposition": {
+          "default": "Winnipeg",
+          "fr": "de Winnipeg"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/WPG_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/wpg-vs-van/2026/02/25/2025020915",
+      "gameDate": "2026-02-25",
+      "isHomeTeam": false,
+      "toiAll": 18182,
+      "distanceSkatedAll": {
+        "imperial": 46.3617,
+        "metric": 74.6117
+      },
+      "toiEven": 15902,
+      "distanceSkatedEven": {
+        "imperial": 41.1142,
+        "metric": 66.1667
+      },
+      "toiPP": 1800,
+      "distanceSkatedPP": {
+        "imperial": 4.3554,
+        "metric": 7.0093
+      },
+      "toiPK": 480,
+      "distanceSkatedPK": {
+        "imperial": 0.8921,
+        "metric": 1.4357
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Canucks"
+        },
+        "placeNameWithPreposition": {
+          "default": "Vancouver",
+          "fr": "de Vancouver"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/VAN_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/VAN_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Jets"
+        },
+        "placeNameWithPreposition": {
+          "default": "Winnipeg",
+          "fr": "de Winnipeg"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/WPG_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/mtl-vs-wpg/2026/02/04/2025020895",
+      "gameDate": "2026-02-04",
+      "isHomeTeam": true,
+      "toiAll": 18093,
+      "distanceSkatedAll": {
+        "imperial": 45.4566,
+        "metric": 73.1551
+      },
+      "toiEven": 15137,
+      "distanceSkatedEven": {
+        "imperial": 38.7751,
+        "metric": 62.4024
+      },
+      "toiPP": 2104,
+      "distanceSkatedPP": {
+        "imperial": 4.7262,
+        "metric": 7.606
+      },
+      "toiPK": 852,
+      "distanceSkatedPK": {
+        "imperial": 1.9553,
+        "metric": 3.1467
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Jets"
+        },
+        "placeNameWithPreposition": {
+          "default": "Winnipeg",
+          "fr": "de Winnipeg"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/WPG_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Canadiens"
+        },
+        "placeNameWithPreposition": {
+          "default": "Montréal",
+          "fr": "de Montréal"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/MTL_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/MTL_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/wpg-vs-dal/2026/02/02/2025020882",
+      "gameDate": "2026-02-02",
+      "isHomeTeam": false,
+      "toiAll": 18002,
+      "distanceSkatedAll": {
+        "imperial": 46.0182,
+        "metric": 74.059
+      },
+      "toiEven": 15321,
+      "distanceSkatedEven": {
+        "imperial": 40.6231,
+        "metric": 65.3764
+      },
+      "toiPP": 1335,
+      "distanceSkatedPP": {
+        "imperial": 2.7875,
+        "metric": 4.486
+      },
+      "toiPK": 1346,
+      "distanceSkatedPK": {
+        "imperial": 2.6077,
+        "metric": 4.1966
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Stars"
+        },
+        "placeNameWithPreposition": {
+          "default": "Dallas",
+          "fr": "de Dallas"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/DAL_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/DAL_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Jets"
+        },
+        "placeNameWithPreposition": {
+          "default": "Winnipeg",
+          "fr": "de Winnipeg"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/WPG_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/wpg-vs-fla/2026/01/31/2025020862",
+      "gameDate": "2026-01-31",
+      "isHomeTeam": false,
+      "toiAll": 17760,
+      "distanceSkatedAll": {
+        "imperial": 44.9641,
+        "metric": 72.3626
+      },
+      "toiEven": 14367,
+      "distanceSkatedEven": {
+        "imperial": 36.9683,
+        "metric": 59.4945
+      },
+      "toiPP": 2685,
+      "distanceSkatedPP": {
+        "imperial": 6.7389,
+        "metric": 10.8452
+      },
+      "toiPK": 708,
+      "distanceSkatedPK": {
+        "imperial": 1.2569,
+        "metric": 2.0229
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Panthers"
+        },
+        "placeNameWithPreposition": {
+          "default": "Florida",
+          "fr": "de la Floride"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/FLA_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Jets"
+        },
+        "placeNameWithPreposition": {
+          "default": "Winnipeg",
+          "fr": "de Winnipeg"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/WPG_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/wpg-vs-tbl/2026/01/29/2025020847",
+      "gameDate": "2026-01-29",
+      "isHomeTeam": false,
+      "toiAll": 17856,
+      "distanceSkatedAll": {
+        "imperial": 47.1796,
+        "metric": 75.928
+      },
+      "toiEven": 16176,
+      "distanceSkatedEven": {
+        "imperial": 42.9719,
+        "metric": 69.1564
+      },
+      "toiPP": 1200,
+      "distanceSkatedPP": {
+        "imperial": 3.0793,
+        "metric": 4.9556
+      },
+      "toiPK": 480,
+      "distanceSkatedPK": {
+        "imperial": 1.1284,
+        "metric": 1.816
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Lightning"
+        },
+        "placeNameWithPreposition": {
+          "default": "Tampa Bay",
+          "fr": "de Tampa Bay"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/TBL_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/TBL_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Jets"
+        },
+        "placeNameWithPreposition": {
+          "default": "Winnipeg",
+          "fr": "de Winnipeg"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/WPG_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/wpg-vs-njd/2026/01/27/2025020835",
+      "gameDate": "2026-01-27",
+      "isHomeTeam": false,
+      "toiAll": 17798,
+      "distanceSkatedAll": {
+        "imperial": 45.3017,
+        "metric": 72.9059
+      },
+      "toiEven": 15698,
+      "distanceSkatedEven": {
+        "imperial": 40.9254,
+        "metric": 65.8629
+      },
+      "toiPP": 1200,
+      "distanceSkatedPP": {
+        "imperial": 2.806,
+        "metric": 4.5158
+      },
+      "toiPK": 900,
+      "distanceSkatedPK": {
+        "imperial": 1.5703,
+        "metric": 2.5271
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Devils"
+        },
+        "placeNameWithPreposition": {
+          "default": "New Jersey",
+          "fr": "du New Jersey"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/NJD_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Jets"
+        },
+        "placeNameWithPreposition": {
+          "default": "Winnipeg",
+          "fr": "de Winnipeg"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/WPG_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/det-vs-wpg/2026/01/24/2025020815",
+      "gameDate": "2026-01-24",
+      "isHomeTeam": true,
+      "toiAll": 17711,
+      "distanceSkatedAll": {
+        "imperial": 45.5061,
+        "metric": 73.2349
+      },
+      "toiEven": 15671,
+      "distanceSkatedEven": {
+        "imperial": 41.1701,
+        "metric": 66.2566
+      },
+      "toiPP": 600,
+      "distanceSkatedPP": {
+        "imperial": 1.5279,
+        "metric": 2.4589
+      },
+      "toiPK": 1440,
+      "distanceSkatedPK": {
+        "imperial": 2.8082,
+        "metric": 4.5193
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Jets"
+        },
+        "placeNameWithPreposition": {
+          "default": "Winnipeg",
+          "fr": "de Winnipeg"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/WPG_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Red Wings"
+        },
+        "placeNameWithPreposition": {
+          "default": "Detroit",
+          "fr": "de Detroit"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/DET_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/DET_dark.svg?season=20252026"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/fla-vs-wpg/2026/01/22/2025020799",
+      "gameDate": "2026-01-22",
+      "isHomeTeam": true,
+      "toiAll": 18673,
+      "distanceSkatedAll": {
+        "imperial": 49.0158,
+        "metric": 78.883
+      },
+      "toiEven": 17713,
+      "distanceSkatedEven": {
+        "imperial": 46.5954,
+        "metric": 74.9879
+      },
+      "toiPP": 800,
+      "distanceSkatedPP": {
+        "imperial": 2.0362,
+        "metric": 3.2769
+      },
+      "toiPK": 160,
+      "distanceSkatedPK": {
+        "imperial": 0.3842,
+        "metric": 0.6182
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Jets"
+        },
+        "placeNameWithPreposition": {
+          "default": "Winnipeg",
+          "fr": "de Winnipeg"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/WPG_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Panthers"
+        },
+        "placeNameWithPreposition": {
+          "default": "Florida",
+          "fr": "de la Floride"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/FLA_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/stl-vs-wpg/2026/01/20/2025020785",
+      "gameDate": "2026-01-20",
+      "isHomeTeam": true,
+      "toiAll": 17592,
+      "distanceSkatedAll": {
+        "imperial": 43.3665,
+        "metric": 69.7915
+      },
+      "toiEven": 14530,
+      "distanceSkatedEven": {
+        "imperial": 36.6753,
+        "metric": 59.0231
+      },
+      "toiPP": 1430,
+      "distanceSkatedPP": {
+        "imperial": 3.2958,
+        "metric": 5.3041
+      },
+      "toiPK": 1632,
+      "distanceSkatedPK": {
+        "imperial": 3.3953,
+        "metric": 5.4643
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Jets"
+        },
+        "placeNameWithPreposition": {
+          "default": "Winnipeg",
+          "fr": "de Winnipeg"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/WPG_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Blues"
+        },
+        "placeNameWithPreposition": {
+          "default": "St. Louis",
+          "fr": "de St. Louis"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/STL_dark.svg?season=20252026"
+        }
+      }
+    }
+  ],
+  "skatingDistanceDetails": [
+    {
+      "strengthCode": "all",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 2630.7201,
+        "metric": 4233.527,
+        "rank": 20,
+        "leagueAvg": {
+          "imperial": 2646.4985,
+          "metric": 4258.9187
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.1624,
+        "metric": 14.7447,
+        "rank": 15,
+        "leagueAvg": {
+          "imperial": 9.1608,
+          "metric": 14.7422
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 49.0158,
+        "metric": 78.8794,
+        "rank": 18,
+        "leagueAvg": {
+          "imperial": 49.2112,
+          "metric": 79.1939
+        },
+        "overlay": {
+          "gameDate": "2026-01-22",
+          "awayTeam": {
+            "abbrev": "FLA",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "WPG",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 16.9016,
+        "metric": 27.1992,
+        "rank": 3,
+        "leagueAvg": {
+          "imperial": 16.5631,
+          "metric": 26.6545
+        },
+        "overlay": {
+          "gameDate": "2025-12-11",
+          "awayTeam": {
+            "abbrev": "BOS",
+            "score": 6
+          },
+          "homeTeam": {
+            "abbrev": "WPG",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "all",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 1688.8881,
+        "metric": 2717.8692,
+        "rank": 14,
+        "leagueAvg": {
+          "imperial": 1686.2121,
+          "metric": 2713.5629
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.6728,
+        "metric": 15.5661,
+        "rank": 12,
+        "leagueAvg": {
+          "imperial": 9.5992,
+          "metric": 15.4477
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 31.5968,
+        "metric": 50.8477,
+        "rank": 14,
+        "leagueAvg": {
+          "imperial": 31.5576,
+          "metric": 50.7846
+        },
+        "overlay": {
+          "gameDate": "2026-02-27",
+          "awayTeam": {
+            "abbrev": "WPG",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "ANA",
+            "score": 5
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 10.802,
+        "metric": 17.3834,
+        "rank": 12,
+        "leagueAvg": {
+          "imperial": 10.7472,
+          "metric": 17.2952
+        },
+        "overlay": {
+          "gameDate": "2026-01-29",
+          "awayTeam": {
+            "abbrev": "WPG",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "TBL",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "all",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 941.832,
+        "metric": 1515.6578,
+        "rank": 25,
+        "leagueAvg": {
+          "imperial": 960.2864,
+          "metric": 1545.3558
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.3704,
+        "metric": 13.4702,
+        "rank": 26,
+        "leagueAvg": {
+          "imperial": 8.4807,
+          "metric": 13.6477
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 17.8321,
+        "metric": 28.6967,
+        "rank": 23,
+        "leagueAvg": {
+          "imperial": 18.1817,
+          "metric": 29.2592
+        },
+        "overlay": {
+          "gameDate": "2026-01-22",
+          "awayTeam": {
+            "abbrev": "FLA",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "WPG",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 6.2617,
+        "metric": 10.0767,
+        "rank": 12,
+        "leagueAvg": {
+          "imperial": 6.2208,
+          "metric": 10.0109
+        },
+        "overlay": {
+          "gameDate": "2025-10-23",
+          "awayTeam": {
+            "abbrev": "SEA",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "WPG",
+            "score": 0
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 202.2119,
+        "metric": 325.4127,
+        "rank": 13,
+        "leagueAvg": {
+          "imperial": 196.6025,
+          "metric": 316.3855
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.6967,
+        "metric": 13.9952,
+        "rank": 3,
+        "leagueAvg": {
+          "imperial": 8.379,
+          "metric": 13.484
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 8.3074,
+        "metric": 13.3689,
+        "rank": 11,
+        "leagueAvg": {
+          "imperial": 8.1572,
+          "metric": 13.1272
+        },
+        "overlay": {
+          "gameDate": "2025-10-24",
+          "awayTeam": {
+            "abbrev": "CGY",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "WPG",
+            "score": 5
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 4.1569,
+        "metric": 6.6895,
+        "rank": 30,
+        "leagueAvg": {
+          "imperial": 4.8248,
+          "metric": 7.7644
+        },
+        "overlay": {
+          "gameDate": "2025-12-11",
+          "awayTeam": {
+            "abbrev": "BOS",
+            "score": 6
+          },
+          "homeTeam": {
+            "abbrev": "WPG",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 159.4461,
+        "metric": 256.5911,
+        "rank": 8,
+        "leagueAvg": {
+          "imperial": 150.7609,
+          "metric": 242.6143
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.6947,
+        "metric": 13.9921,
+        "rank": 3,
+        "leagueAvg": {
+          "imperial": 8.2516,
+          "metric": 13.2791
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 6.4767,
+        "metric": 10.4228,
+        "rank": 12,
+        "leagueAvg": {
+          "imperial": 6.2995,
+          "metric": 10.1376
+        },
+        "overlay": {
+          "gameDate": "2025-10-24",
+          "awayTeam": {
+            "abbrev": "CGY",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "WPG",
+            "score": 5
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 3.2705,
+        "metric": 5.2631,
+        "rank": 28,
+        "leagueAvg": {
+          "imperial": 3.7113,
+          "metric": 5.9726
+        },
+        "overlay": {
+          "gameDate": "2025-12-11",
+          "awayTeam": {
+            "abbrev": "BOS",
+            "score": 6
+          },
+          "homeTeam": {
+            "abbrev": "WPG",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 42.7658,
+        "metric": 68.8216,
+        "rank": 20,
+        "leagueAvg": {
+          "imperial": 45.8416,
+          "metric": 73.7713
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.704,
+        "metric": 14.0071,
+        "rank": 25,
+        "leagueAvg": {
+          "imperial": 8.8269,
+          "metric": 14.2048
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 1.8307,
+        "metric": 2.9461,
+        "rank": 20,
+        "leagueAvg": {
+          "imperial": 2.0082,
+          "metric": 3.2318
+        },
+        "overlay": {
+          "gameDate": "2025-10-24",
+          "awayTeam": {
+            "abbrev": "CGY",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "WPG",
+            "score": 5
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 0.8864,
+        "metric": 1.4265,
+        "rank": 30,
+        "leagueAvg": {
+          "imperial": 1.2204,
+          "metric": 1.964
+        },
+        "overlay": {
+          "gameDate": "2025-12-11",
+          "awayTeam": {
+            "abbrev": "BOS",
+            "score": 6
+          },
+          "homeTeam": {
+            "abbrev": "WPG",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 139.7659,
+        "metric": 224.9204,
+        "rank": 18,
+        "leagueAvg": {
+          "imperial": 141.8042,
+          "metric": 228.2005
+        }
+      },
+      "distancePer60": {
+        "imperial": 7.5951,
+        "metric": 12.2225,
+        "rank": 18,
+        "leagueAvg": {
+          "imperial": 7.6054,
+          "metric": 12.2392
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 4.8757,
+        "metric": 7.8463,
+        "rank": 32,
+        "leagueAvg": {
+          "imperial": 5.9523,
+          "metric": 9.5787
+        },
+        "overlay": {
+          "gameDate": "2026-01-03",
+          "awayTeam": {
+            "abbrev": "WPG",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 2.8994,
+        "metric": 4.6659,
+        "rank": 30,
+        "leagueAvg": {
+          "imperial": 3.4461,
+          "metric": 5.5457
+        },
+        "overlay": {
+          "gameDate": "2025-10-20",
+          "awayTeam": {
+            "abbrev": "WPG",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "CGY",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 77.2521,
+        "metric": 124.3192,
+        "rank": 18,
+        "leagueAvg": {
+          "imperial": 78.0703,
+          "metric": 125.6359
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.496,
+        "metric": 13.6723,
+        "rank": 16,
+        "leagueAvg": {
+          "imperial": 8.4691,
+          "metric": 13.6291
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 2.6568,
+        "metric": 4.2756,
+        "rank": 31,
+        "leagueAvg": {
+          "imperial": 3.2574,
+          "metric": 5.242
+        },
+        "overlay": {
+          "gameDate": "2026-01-03",
+          "awayTeam": {
+            "abbrev": "WPG",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 1.6246,
+        "metric": 2.6144,
+        "rank": 28,
+        "leagueAvg": {
+          "imperial": 1.897,
+          "metric": 3.0528
+        },
+        "overlay": {
+          "gameDate": "2025-10-20",
+          "awayTeam": {
+            "abbrev": "WPG",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "CGY",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 62.5137,
+        "metric": 100.6012,
+        "rank": 21,
+        "leagueAvg": {
+          "imperial": 63.7338,
+          "metric": 102.5646
+        }
+      },
+      "distancePer60": {
+        "imperial": 6.7151,
+        "metric": 10.8064,
+        "rank": 19,
+        "leagueAvg": {
+          "imperial": 6.7609,
+          "metric": 10.88
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 2.2189,
+        "metric": 3.5707,
+        "rank": 31,
+        "leagueAvg": {
+          "imperial": 2.7144,
+          "metric": 4.3682
+        },
+        "overlay": {
+          "gameDate": "2026-01-03",
+          "awayTeam": {
+            "abbrev": "WPG",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 1.3109,
+        "metric": 2.1095,
+        "rank": 31,
+        "leagueAvg": {
+          "imperial": 1.5696,
+          "metric": 2.5259
+        },
+        "overlay": {
+          "gameDate": "2026-01-03",
+          "awayTeam": {
+            "abbrev": "WPG",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 2288.7423,
+        "metric": 3683.1939,
+        "rank": 18,
+        "leagueAvg": {
+          "imperial": 2308.0919,
+          "metric": 3714.3326
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.324,
+        "metric": 15.0048,
+        "rank": 20,
+        "leagueAvg": {
+          "imperial": 9.3527,
+          "metric": 15.0509
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 46.7947,
+        "metric": 75.3051,
+        "rank": 16,
+        "leagueAvg": {
+          "imperial": 46.6017,
+          "metric": 74.9946
+        },
+        "overlay": {
+          "gameDate": "2025-12-03",
+          "awayTeam": {
+            "abbrev": "WPG",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "MTL",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 16.9016,
+        "metric": 27.1992,
+        "rank": 2,
+        "leagueAvg": {
+          "imperial": 16.4676,
+          "metric": 26.5007
+        },
+        "overlay": {
+          "gameDate": "2025-12-11",
+          "awayTeam": {
+            "abbrev": "BOS",
+            "score": 6
+          },
+          "homeTeam": {
+            "abbrev": "WPG",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 1452.1898,
+        "metric": 2336.9589,
+        "rank": 16,
+        "leagueAvg": {
+          "imperial": 1457.3809,
+          "metric": 2345.3128
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.8674,
+        "metric": 15.8792,
+        "rank": 13,
+        "leagueAvg": {
+          "imperial": 9.8357,
+          "metric": 15.8282
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 29.6745,
+        "metric": 47.7542,
+        "rank": 15,
+        "leagueAvg": {
+          "imperial": 29.4893,
+          "metric": 47.4562
+        },
+        "overlay": {
+          "gameDate": "2025-12-03",
+          "awayTeam": {
+            "abbrev": "WPG",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "MTL",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 10.6759,
+        "metric": 17.1804,
+        "rank": 4,
+        "leagueAvg": {
+          "imperial": 10.4549,
+          "metric": 16.8246
+        },
+        "overlay": {
+          "gameDate": "2025-12-11",
+          "awayTeam": {
+            "abbrev": "BOS",
+            "score": 6
+          },
+          "homeTeam": {
+            "abbrev": "WPG",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 836.5525,
+        "metric": 1346.235,
+        "rank": 24,
+        "leagueAvg": {
+          "imperial": 850.711,
+          "metric": 1369.0199
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.5105,
+        "metric": 13.6956,
+        "rank": 27,
+        "leagueAvg": {
+          "imperial": 8.6269,
+          "metric": 13.883
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 17.2015,
+        "metric": 27.6818,
+        "rank": 19,
+        "leagueAvg": {
+          "imperial": 17.2243,
+          "metric": 27.7184
+        },
+        "overlay": {
+          "gameDate": "2026-01-22",
+          "awayTeam": {
+            "abbrev": "FLA",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "WPG",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 6.2617,
+        "metric": 10.0767,
+        "rank": 8,
+        "leagueAvg": {
+          "imperial": 6.1699,
+          "metric": 9.9291
+        },
+        "overlay": {
+          "gameDate": "2025-10-23",
+          "awayTeam": {
+            "abbrev": "SEA",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "WPG",
+            "score": 0
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    }
+  ]
+}
