@@ -1,0 +1,1476 @@
+{
+  "skatingDistanceLast10": [
+    {
+      "gameCenterLink": "/gamecenter/chi-vs-col/2026/02/28/2025020938",
+      "gameDate": "2026-02-28",
+      "isHomeTeam": false,
+      "toiAll": 17629,
+      "distanceSkatedAll": {
+        "imperial": 45.0896,
+        "metric": 72.5646
+      },
+      "toiEven": 13681,
+      "distanceSkatedEven": {
+        "imperial": 35.566,
+        "metric": 57.2377
+      },
+      "toiPP": 2240,
+      "distanceSkatedPP": {
+        "imperial": 5.8769,
+        "metric": 9.4579
+      },
+      "toiPK": 1708,
+      "distanceSkatedPK": {
+        "imperial": 3.6468,
+        "metric": 5.8689
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Avalanche"
+        },
+        "placeNameWithPreposition": {
+          "default": "Colorado",
+          "fr": "du Colorado"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/COL_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/COL_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Blackhawks"
+        },
+        "placeNameWithPreposition": {
+          "default": "Chicago",
+          "fr": "de Chicago"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CHI_dark.svg?season=20252026"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/chi-vs-nsh/2026/02/26/2025020926",
+      "gameDate": "2026-02-26",
+      "isHomeTeam": false,
+      "toiAll": 17930,
+      "distanceSkatedAll": {
+        "imperial": 46.0085,
+        "metric": 74.0433
+      },
+      "toiEven": 14515,
+      "distanceSkatedEven": {
+        "imperial": 37.9065,
+        "metric": 61.0044
+      },
+      "toiPP": 2955,
+      "distanceSkatedPP": {
+        "imperial": 7.1296,
+        "metric": 11.4739
+      },
+      "toiPK": 460,
+      "distanceSkatedPK": {
+        "imperial": 0.9724,
+        "metric": 1.565
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Predators"
+        },
+        "placeNameWithPreposition": {
+          "default": "Nashville",
+          "fr": "de Nashville"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/NSH_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/NSH_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Blackhawks"
+        },
+        "placeNameWithPreposition": {
+          "default": "Chicago",
+          "fr": "de Chicago"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CHI_dark.svg?season=20252026"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/chi-vs-cbj/2026/02/04/2025020894",
+      "gameDate": "2026-02-04",
+      "isHomeTeam": false,
+      "toiAll": 17850,
+      "distanceSkatedAll": {
+        "imperial": 46.5514,
+        "metric": 74.917
+      },
+      "toiEven": 15570,
+      "distanceSkatedEven": {
+        "imperial": 41.314,
+        "metric": 66.4882
+      },
+      "toiPP": 1800,
+      "distanceSkatedPP": {
+        "imperial": 4.1002,
+        "metric": 6.5987
+      },
+      "toiPK": 480,
+      "distanceSkatedPK": {
+        "imperial": 1.1372,
+        "metric": 1.8301
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Blue Jackets"
+        },
+        "placeNameWithPreposition": {
+          "default": "Columbus",
+          "fr": "de Columbus"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CBJ_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Blackhawks"
+        },
+        "placeNameWithPreposition": {
+          "default": "Chicago",
+          "fr": "de Chicago"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CHI_dark.svg?season=20252026"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/sjs-vs-chi/2026/02/02/2025020881",
+      "gameDate": "2026-02-02",
+      "isHomeTeam": true,
+      "toiAll": 17528,
+      "distanceSkatedAll": {
+        "imperial": 44.1497,
+        "metric": 71.0518
+      },
+      "toiEven": 13378,
+      "distanceSkatedEven": {
+        "imperial": 34.649,
+        "metric": 55.7621
+      },
+      "toiPP": 2230,
+      "distanceSkatedPP": {
+        "imperial": 5.0228,
+        "metric": 8.0834
+      },
+      "toiPK": 1920,
+      "distanceSkatedPK": {
+        "imperial": 4.4779,
+        "metric": 7.2064
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Blackhawks"
+        },
+        "placeNameWithPreposition": {
+          "default": "Chicago",
+          "fr": "de Chicago"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CHI_dark.svg?season=20252026"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Sharks"
+        },
+        "placeNameWithPreposition": {
+          "default": "San Jose",
+          "fr": "de San Jose"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/SJS_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/cbj-vs-chi/2026/01/30/2025020858",
+      "gameDate": "2026-01-30",
+      "isHomeTeam": true,
+      "toiAll": 17745,
+      "distanceSkatedAll": {
+        "imperial": 44.893,
+        "metric": 72.2481
+      },
+      "toiEven": 15449,
+      "distanceSkatedEven": {
+        "imperial": 39.2585,
+        "metric": 63.1803
+      },
+      "toiPP": 1200,
+      "distanceSkatedPP": {
+        "imperial": 2.7055,
+        "metric": 4.3541
+      },
+      "toiPK": 1096,
+      "distanceSkatedPK": {
+        "imperial": 2.929,
+        "metric": 4.7137
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Blackhawks"
+        },
+        "placeNameWithPreposition": {
+          "default": "Chicago",
+          "fr": "de Chicago"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CHI_dark.svg?season=20252026"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Blue Jackets"
+        },
+        "placeNameWithPreposition": {
+          "default": "Columbus",
+          "fr": "de Columbus"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CBJ_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/chi-vs-pit/2026/01/29/2025020850",
+      "gameDate": "2026-01-29",
+      "isHomeTeam": false,
+      "toiAll": 17760,
+      "distanceSkatedAll": {
+        "imperial": 44.277,
+        "metric": 71.2567
+      },
+      "toiEven": 16080,
+      "distanceSkatedEven": {
+        "imperial": 40.5403,
+        "metric": 65.2431
+      },
+      "toiPP": 1200,
+      "distanceSkatedPP": {
+        "imperial": 2.616,
+        "metric": 4.21
+      },
+      "toiPK": 480,
+      "distanceSkatedPK": {
+        "imperial": 1.1207,
+        "metric": 1.8036
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Penguins"
+        },
+        "placeNameWithPreposition": {
+          "default": "Pittsburgh",
+          "fr": "de Pittsburgh"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/PIT_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/PIT_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Blackhawks"
+        },
+        "placeNameWithPreposition": {
+          "default": "Chicago",
+          "fr": "de Chicago"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CHI_dark.svg?season=20252026"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/chi-vs-min/2026/01/27/2025020837",
+      "gameDate": "2026-01-27",
+      "isHomeTeam": false,
+      "toiAll": 18896,
+      "distanceSkatedAll": {
+        "imperial": 47.0789,
+        "metric": 75.7659
+      },
+      "toiEven": 15552,
+      "distanceSkatedEven": {
+        "imperial": 39.0836,
+        "metric": 62.8988
+      },
+      "toiPP": 2864,
+      "distanceSkatedPP": {
+        "imperial": 6.9366,
+        "metric": 11.1634
+      },
+      "toiPK": 480,
+      "distanceSkatedPK": {
+        "imperial": 1.0586,
+        "metric": 1.7037
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Wild"
+        },
+        "placeNameWithPreposition": {
+          "default": "Minnesota",
+          "fr": "du Minnesota"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/MIN_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/MIN_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Blackhawks"
+        },
+        "placeNameWithPreposition": {
+          "default": "Chicago",
+          "fr": "de Chicago"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CHI_dark.svg?season=20252026"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/fla-vs-chi/2026/01/25/2025020823",
+      "gameDate": "2026-01-25",
+      "isHomeTeam": true,
+      "toiAll": 17940,
+      "distanceSkatedAll": {
+        "imperial": 46.742,
+        "metric": 75.2237
+      },
+      "toiEven": 15660,
+      "distanceSkatedEven": {
+        "imperial": 41.4773,
+        "metric": 66.751
+      },
+      "toiPP": 1800,
+      "distanceSkatedPP": {
+        "imperial": 4.2906,
+        "metric": 6.905
+      },
+      "toiPK": 480,
+      "distanceSkatedPK": {
+        "imperial": 0.9741,
+        "metric": 1.5677
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Blackhawks"
+        },
+        "placeNameWithPreposition": {
+          "default": "Chicago",
+          "fr": "de Chicago"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CHI_dark.svg?season=20252026"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Panthers"
+        },
+        "placeNameWithPreposition": {
+          "default": "Florida",
+          "fr": "de la Floride"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/FLA_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/tbl-vs-chi/2026/01/23/2025020803",
+      "gameDate": "2026-01-23",
+      "isHomeTeam": true,
+      "toiAll": 18540,
+      "distanceSkatedAll": {
+        "imperial": 46.7908,
+        "metric": 75.3023
+      },
+      "toiEven": 15300,
+      "distanceSkatedEven": {
+        "imperial": 39.4154,
+        "metric": 63.4328
+      },
+      "toiPP": 1800,
+      "distanceSkatedPP": {
+        "imperial": 4.4343,
+        "metric": 7.1363
+      },
+      "toiPK": 1440,
+      "distanceSkatedPK": {
+        "imperial": 2.9411,
+        "metric": 4.7332
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Blackhawks"
+        },
+        "placeNameWithPreposition": {
+          "default": "Chicago",
+          "fr": "de Chicago"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CHI_dark.svg?season=20252026"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Lightning"
+        },
+        "placeNameWithPreposition": {
+          "default": "Tampa Bay",
+          "fr": "de Tampa Bay"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/TBL_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/TBL_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/chi-vs-car/2026/01/22/2025020796",
+      "gameDate": "2026-01-22",
+      "isHomeTeam": false,
+      "toiAll": 18300,
+      "distanceSkatedAll": {
+        "imperial": 47.308,
+        "metric": 76.1346
+      },
+      "toiEven": 15300,
+      "distanceSkatedEven": {
+        "imperial": 40.3362,
+        "metric": 64.9147
+      },
+      "toiPP": 600,
+      "distanceSkatedPP": {
+        "imperial": 1.5985,
+        "metric": 2.5725
+      },
+      "toiPK": 2400,
+      "distanceSkatedPK": {
+        "imperial": 5.3732,
+        "metric": 8.6473
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Hurricanes"
+        },
+        "placeNameWithPreposition": {
+          "default": "Carolina",
+          "fr": "de la Caroline"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Blackhawks"
+        },
+        "placeNameWithPreposition": {
+          "default": "Chicago",
+          "fr": "de Chicago"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CHI_dark.svg?season=20252026"
+        }
+      }
+    }
+  ],
+  "skatingDistanceDetails": [
+    {
+      "strengthCode": "all",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 2677.4772,
+        "metric": 4308.7716,
+        "rank": 19,
+        "leagueAvg": {
+          "imperial": 2683.756,
+          "metric": 4318.8759
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.1511,
+        "metric": 14.7265,
+        "rank": 17,
+        "leagueAvg": {
+          "imperial": 9.1622,
+          "metric": 14.7444
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 48.7531,
+        "metric": 78.4566,
+        "rank": 24,
+        "leagueAvg": {
+          "imperial": 49.2112,
+          "metric": 79.1939
+        },
+        "overlay": {
+          "gameDate": "2026-01-03",
+          "awayTeam": {
+            "abbrev": "CHI",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "WSH",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 16.3606,
+        "metric": 26.3285,
+        "rank": 25,
+        "leagueAvg": {
+          "imperial": 16.5654,
+          "metric": 26.6581
+        },
+        "overlay": {
+          "gameDate": "2025-12-12",
+          "awayTeam": {
+            "abbrev": "CHI",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "STL",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "all",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 1702.3407,
+        "metric": 2739.5181,
+        "rank": 20,
+        "leagueAvg": {
+          "imperial": 1709.8721,
+          "metric": 2751.6381
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.5604,
+        "metric": 15.3852,
+        "rank": 18,
+        "leagueAvg": {
+          "imperial": 9.6007,
+          "metric": 15.4501
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 31.3086,
+        "metric": 50.3839,
+        "rank": 21,
+        "leagueAvg": {
+          "imperial": 31.5576,
+          "metric": 50.7846
+        },
+        "overlay": {
+          "gameDate": "2025-12-02",
+          "awayTeam": {
+            "abbrev": "CHI",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "VGK",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 10.6702,
+        "metric": 17.1712,
+        "rank": 19,
+        "leagueAvg": {
+          "imperial": 10.7481,
+          "metric": 17.2965
+        },
+        "overlay": {
+          "gameDate": "2026-02-28",
+          "awayTeam": {
+            "abbrev": "CHI",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "COL",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "all",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 975.1365,
+        "metric": 1569.2535,
+        "rank": 19,
+        "leagueAvg": {
+          "imperial": 973.884,
+          "metric": 1567.2378
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.5147,
+        "metric": 13.7024,
+        "rank": 12,
+        "leagueAvg": {
+          "imperial": 8.4819,
+          "metric": 13.6497
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 17.9181,
+        "metric": 28.8349,
+        "rank": 21,
+        "leagueAvg": {
+          "imperial": 18.1817,
+          "metric": 29.2592
+        },
+        "overlay": {
+          "gameDate": "2025-12-30",
+          "awayTeam": {
+            "abbrev": "NYI",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "CHI",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 6.0426,
+        "metric": 9.7242,
+        "rank": 28,
+        "leagueAvg": {
+          "imperial": 6.2208,
+          "metric": 10.0109
+        },
+        "overlay": {
+          "gameDate": "2026-01-15",
+          "awayTeam": {
+            "abbrev": "CGY",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "CHI",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 197.1532,
+        "metric": 317.2718,
+        "rank": 17,
+        "leagueAvg": {
+          "imperial": 199.0574,
+          "metric": 320.3362
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.427,
+        "metric": 13.5614,
+        "rank": 16,
+        "leagueAvg": {
+          "imperial": 8.3811,
+          "metric": 13.4875
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 7.1296,
+        "metric": 11.4734,
+        "rank": 27,
+        "leagueAvg": {
+          "imperial": 8.1572,
+          "metric": 13.1272
+        },
+        "overlay": {
+          "gameDate": "2026-02-26",
+          "awayTeam": {
+            "abbrev": "CHI",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "NSH",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 4.4343,
+        "metric": 7.136,
+        "rank": 19,
+        "leagueAvg": {
+          "imperial": 4.8248,
+          "metric": 7.7644
+        },
+        "overlay": {
+          "gameDate": "2026-01-23",
+          "awayTeam": {
+            "abbrev": "TBL",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "CHI",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 153.8547,
+        "metric": 247.5931,
+        "rank": 14,
+        "leagueAvg": {
+          "imperial": 152.6349,
+          "metric": 245.6301
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.3439,
+        "metric": 13.4276,
+        "rank": 11,
+        "leagueAvg": {
+          "imperial": 8.2543,
+          "metric": 13.2833
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 5.7158,
+        "metric": 9.1982,
+        "rank": 23,
+        "leagueAvg": {
+          "imperial": 6.2995,
+          "metric": 10.1376
+        },
+        "overlay": {
+          "gameDate": "2026-02-26",
+          "awayTeam": {
+            "abbrev": "CHI",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "NSH",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 3.5153,
+        "metric": 5.6571,
+        "rank": 16,
+        "leagueAvg": {
+          "imperial": 3.7113,
+          "metric": 5.9726
+        },
+        "overlay": {
+          "gameDate": "2026-01-23",
+          "awayTeam": {
+            "abbrev": "TBL",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "CHI",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 43.2984,
+        "metric": 69.6787,
+        "rank": 21,
+        "leagueAvg": {
+          "imperial": 46.4224,
+          "metric": 74.706
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.7364,
+        "metric": 14.0591,
+        "rank": 22,
+        "leagueAvg": {
+          "imperial": 8.8272,
+          "metric": 14.2054
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 1.5474,
+        "metric": 2.4901,
+        "rank": 26,
+        "leagueAvg": {
+          "imperial": 2.0082,
+          "metric": 3.2318
+        },
+        "overlay": {
+          "gameDate": "2025-11-18",
+          "awayTeam": {
+            "abbrev": "CGY",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "CHI",
+            "score": 5
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 1.0402,
+        "metric": 1.674,
+        "rank": 24,
+        "leagueAvg": {
+          "imperial": 1.2204,
+          "metric": 1.964
+        },
+        "overlay": {
+          "gameDate": "2025-11-28",
+          "awayTeam": {
+            "abbrev": "NSH",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "CHI",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 156.4852,
+        "metric": 251.8262,
+        "rank": 6,
+        "leagueAvg": {
+          "imperial": 143.5704,
+          "metric": 231.0429
+        }
+      },
+      "distancePer60": {
+        "imperial": 7.6924,
+        "metric": 12.3791,
+        "rank": 14,
+        "leagueAvg": {
+          "imperial": 7.607,
+          "metric": 12.2417
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 7.9312,
+        "metric": 12.7634,
+        "rank": 2,
+        "leagueAvg": {
+          "imperial": 5.9523,
+          "metric": 9.5787
+        },
+        "overlay": {
+          "gameDate": "2025-10-11",
+          "awayTeam": {
+            "abbrev": "MTL",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "CHI",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 3.5829,
+        "metric": 5.7658,
+        "rank": 8,
+        "leagueAvg": {
+          "imperial": 3.4461,
+          "metric": 5.5457
+        },
+        "overlay": {
+          "gameDate": "2025-10-11",
+          "awayTeam": {
+            "abbrev": "MTL",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "CHI",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 85.9144,
+        "metric": 138.2591,
+        "rank": 6,
+        "leagueAvg": {
+          "imperial": 79.0463,
+          "metric": 127.2065
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.4975,
+        "metric": 13.6747,
+        "rank": 15,
+        "leagueAvg": {
+          "imperial": 8.4703,
+          "metric": 13.631
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 4.4266,
+        "metric": 7.1237,
+        "rank": 2,
+        "leagueAvg": {
+          "imperial": 3.2574,
+          "metric": 5.242
+        },
+        "overlay": {
+          "gameDate": "2025-10-11",
+          "awayTeam": {
+            "abbrev": "MTL",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "CHI",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 2.0622,
+        "metric": 3.3186,
+        "rank": 7,
+        "leagueAvg": {
+          "imperial": 1.897,
+          "metric": 3.0528
+        },
+        "overlay": {
+          "gameDate": "2025-10-11",
+          "awayTeam": {
+            "abbrev": "MTL",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "CHI",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 70.5708,
+        "metric": 113.5671,
+        "rank": 6,
+        "leagueAvg": {
+          "imperial": 64.5241,
+          "metric": 103.8364
+        }
+      },
+      "distancePer60": {
+        "imperial": 6.8969,
+        "metric": 11.099,
+        "rank": 12,
+        "leagueAvg": {
+          "imperial": 6.7626,
+          "metric": 10.8828
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 3.5046,
+        "metric": 5.6398,
+        "rank": 2,
+        "leagueAvg": {
+          "imperial": 2.7144,
+          "metric": 4.3682
+        },
+        "overlay": {
+          "gameDate": "2025-10-11",
+          "awayTeam": {
+            "abbrev": "MTL",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "CHI",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 1.5207,
+        "metric": 2.4472,
+        "rank": 14,
+        "leagueAvg": {
+          "imperial": 1.5696,
+          "metric": 2.5259
+        },
+        "overlay": {
+          "gameDate": "2025-10-11",
+          "awayTeam": {
+            "abbrev": "MTL",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "CHI",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 2323.8389,
+        "metric": 3739.6736,
+        "rank": 20,
+        "leagueAvg": {
+          "imperial": 2341.1282,
+          "metric": 3767.4968
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.3384,
+        "metric": 15.028,
+        "rank": 18,
+        "leagueAvg": {
+          "imperial": 9.3536,
+          "metric": 15.0524
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 46.7517,
+        "metric": 75.2358,
+        "rank": 19,
+        "leagueAvg": {
+          "imperial": 46.6903,
+          "metric": 75.1371
+        },
+        "overlay": {
+          "gameDate": "2026-01-03",
+          "awayTeam": {
+            "abbrev": "CHI",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "WSH",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 16.3606,
+        "metric": 26.3285,
+        "rank": 22,
+        "leagueAvg": {
+          "imperial": 16.4705,
+          "metric": 26.5054
+        },
+        "overlay": {
+          "gameDate": "2025-12-12",
+          "awayTeam": {
+            "abbrev": "CHI",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "STL",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 1462.5716,
+        "metric": 2353.6659,
+        "rank": 23,
+        "leagueAvg": {
+          "imperial": 1478.1908,
+          "metric": 2378.8014
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.7823,
+        "metric": 15.7423,
+        "rank": 20,
+        "leagueAvg": {
+          "imperial": 9.8366,
+          "metric": 15.8298
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 29.7355,
+        "metric": 47.8522,
+        "rank": 15,
+        "leagueAvg": {
+          "imperial": 29.5264,
+          "metric": 47.5158
+        },
+        "overlay": {
+          "gameDate": "2026-01-03",
+          "awayTeam": {
+            "abbrev": "CHI",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "WSH",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 10.4394,
+        "metric": 16.7997,
+        "rank": 19,
+        "leagueAvg": {
+          "imperial": 10.4549,
+          "metric": 16.8246
+        },
+        "overlay": {
+          "gameDate": "2025-12-12",
+          "awayTeam": {
+            "abbrev": "CHI",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "STL",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 861.2673,
+        "metric": 1386.0077,
+        "rank": 19,
+        "leagueAvg": {
+          "imperial": 862.9374,
+          "metric": 1388.6954
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.6703,
+        "metric": 13.9528,
+        "rank": 11,
+        "leagueAvg": {
+          "imperial": 8.6278,
+          "metric": 13.8844
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 17.0162,
+        "metric": 27.3836,
+        "rank": 22,
+        "leagueAvg": {
+          "imperial": 17.2617,
+          "metric": 27.7786
+        },
+        "overlay": {
+          "gameDate": "2026-01-03",
+          "awayTeam": {
+            "abbrev": "CHI",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "WSH",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 6.028,
+        "metric": 9.7007,
+        "rank": 26,
+        "leagueAvg": {
+          "imperial": 6.1716,
+          "metric": 9.9318
+        },
+        "overlay": {
+          "gameDate": "2025-12-30",
+          "awayTeam": {
+            "abbrev": "NYI",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "CHI",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    }
+  ]
+}
