@@ -1,0 +1,1495 @@
+{
+  "skatingDistanceLast10": [
+    {
+      "gameCenterLink": "/gamecenter/uta-vs-stl/2025/04/15/2024021297",
+      "gameDate": "2025-04-15",
+      "isHomeTeam": false,
+      "toiAll": 17484,
+      "distanceSkatedAll": {
+        "imperial": 45.0068,
+        "metric": 72.4312
+      },
+      "toiEven": 13920,
+      "distanceSkatedEven": {
+        "imperial": 37.1399,
+        "metric": 59.7708
+      },
+      "toiPP": 1830,
+      "distanceSkatedPP": {
+        "imperial": 4.121,
+        "metric": 6.6321
+      },
+      "toiPK": 1734,
+      "distanceSkatedPK": {
+        "imperial": 3.7458,
+        "metric": 6.0283
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Blues"
+        },
+        "placeNameWithPreposition": {
+          "default": "St. Louis",
+          "fr": "de St. Louis"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/STL_20082009-20242025_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/STL_20082009-20242025_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Utah Hockey Club",
+          "fr": "Club de hockey de l'Utah"
+        },
+        "placeNameWithPreposition": {
+          "default": "Utah",
+          "fr": "de l'Utah"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/UTA_20242025-20242025_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/UTA_20242025-20242025_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/uta-vs-nsh/2025/04/14/2024021288",
+      "gameDate": "2025-04-14",
+      "isHomeTeam": false,
+      "toiAll": 17640,
+      "distanceSkatedAll": {
+        "imperial": 45.3048,
+        "metric": 72.9108
+      },
+      "toiEven": 14645,
+      "distanceSkatedEven": {
+        "imperial": 38.6286,
+        "metric": 62.1665
+      },
+      "toiPP": 2050,
+      "distanceSkatedPP": {
+        "imperial": 4.8846,
+        "metric": 7.861
+      },
+      "toiPK": 945,
+      "distanceSkatedPK": {
+        "imperial": 1.7917,
+        "metric": 2.8834
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Predators"
+        },
+        "placeNameWithPreposition": {
+          "default": "Nashville",
+          "fr": "de Nashville"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/NSH_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/NSH_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Utah Hockey Club",
+          "fr": "Club de hockey de l'Utah"
+        },
+        "placeNameWithPreposition": {
+          "default": "Utah",
+          "fr": "de l'Utah"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/UTA_20242025-20242025_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/UTA_20242025-20242025_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/uta-vs-dal/2025/04/12/2024021272",
+      "gameDate": "2025-04-12",
+      "isHomeTeam": false,
+      "toiAll": 17709,
+      "distanceSkatedAll": {
+        "imperial": 44.967,
+        "metric": 72.3672
+      },
+      "toiEven": 15184,
+      "distanceSkatedEven": {
+        "imperial": 39.5864,
+        "metric": 63.708
+      },
+      "toiPP": 1037,
+      "distanceSkatedPP": {
+        "imperial": 2.1374,
+        "metric": 3.4399
+      },
+      "toiPK": 1488,
+      "distanceSkatedPK": {
+        "imperial": 3.2432,
+        "metric": 5.2193
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Stars"
+        },
+        "placeNameWithPreposition": {
+          "default": "Dallas",
+          "fr": "de Dallas"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/DAL_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/DAL_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Utah Hockey Club",
+          "fr": "Club de hockey de l'Utah"
+        },
+        "placeNameWithPreposition": {
+          "default": "Utah",
+          "fr": "de l'Utah"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/UTA_20242025-20242025_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/UTA_20242025-20242025_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/nsh-vs-uta/2025/04/10/2024021257",
+      "gameDate": "2025-04-10",
+      "isHomeTeam": true,
+      "toiAll": 18779,
+      "distanceSkatedAll": {
+        "imperial": 48.4521,
+        "metric": 77.976
+      },
+      "toiEven": 16695,
+      "distanceSkatedEven": {
+        "imperial": 43.9409,
+        "metric": 70.7158
+      },
+      "toiPP": 1080,
+      "distanceSkatedPP": {
+        "imperial": 2.2368,
+        "metric": 3.5998
+      },
+      "toiPK": 1004,
+      "distanceSkatedPK": {
+        "imperial": 2.2745,
+        "metric": 3.6604
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Utah Hockey Club",
+          "fr": "Club de hockey de l'Utah"
+        },
+        "placeNameWithPreposition": {
+          "default": "Utah",
+          "fr": "de l'Utah"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/UTA_20242025-20242025_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/UTA_20242025-20242025_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Predators"
+        },
+        "placeNameWithPreposition": {
+          "default": "Nashville",
+          "fr": "de Nashville"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/NSH_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/NSH_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/sea-vs-uta/2025/04/08/2024021243",
+      "gameDate": "2025-04-08",
+      "isHomeTeam": true,
+      "toiAll": 17514,
+      "distanceSkatedAll": {
+        "imperial": 44.4827,
+        "metric": 71.5878
+      },
+      "toiEven": 14158,
+      "distanceSkatedEven": {
+        "imperial": 36.9615,
+        "metric": 59.4836
+      },
+      "toiPP": 2200,
+      "distanceSkatedPP": {
+        "imperial": 5.0706,
+        "metric": 8.1603
+      },
+      "toiPK": 1156,
+      "distanceSkatedPK": {
+        "imperial": 2.4507,
+        "metric": 3.9439
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Utah Hockey Club",
+          "fr": "Club de hockey de l'Utah"
+        },
+        "placeNameWithPreposition": {
+          "default": "Utah",
+          "fr": "de l'Utah"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/UTA_20242025-20242025_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/UTA_20242025-20242025_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Kraken"
+        },
+        "placeNameWithPreposition": {
+          "default": "Seattle",
+          "fr": "de Seattle"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/SEA_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/SEA_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/wpg-vs-uta/2025/04/05/2024021219",
+      "gameDate": "2025-04-05",
+      "isHomeTeam": true,
+      "toiAll": 17589,
+      "distanceSkatedAll": {
+        "imperial": 43.3882,
+        "metric": 69.8263
+      },
+      "toiEven": 14970,
+      "distanceSkatedEven": {
+        "imperial": 38.0035,
+        "metric": 61.1605
+      },
+      "toiPP": 975,
+      "distanceSkatedPP": {
+        "imperial": 2.1172,
+        "metric": 3.4074
+      },
+      "toiPK": 1644,
+      "distanceSkatedPK": {
+        "imperial": 3.2675,
+        "metric": 5.2585
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Utah Hockey Club",
+          "fr": "Club de hockey de l'Utah"
+        },
+        "placeNameWithPreposition": {
+          "default": "Utah",
+          "fr": "de l'Utah"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/UTA_20242025-20242025_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/UTA_20242025-20242025_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Jets"
+        },
+        "placeNameWithPreposition": {
+          "default": "Winnipeg",
+          "fr": "de Winnipeg"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/WPG_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/lak-vs-uta/2025/04/03/2024021202",
+      "gameDate": "2025-04-03",
+      "isHomeTeam": true,
+      "toiAll": 17774,
+      "distanceSkatedAll": {
+        "imperial": 46.3261,
+        "metric": 74.5544
+      },
+      "toiEven": 16059,
+      "distanceSkatedEven": {
+        "imperial": 42.913,
+        "metric": 69.0617
+      },
+      "toiPP": 1235,
+      "distanceSkatedPP": {
+        "imperial": 2.4769,
+        "metric": 3.9862
+      },
+      "toiPK": 480,
+      "distanceSkatedPK": {
+        "imperial": 0.9361,
+        "metric": 1.5066
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Utah Hockey Club",
+          "fr": "Club de hockey de l'Utah"
+        },
+        "placeNameWithPreposition": {
+          "default": "Utah",
+          "fr": "de l'Utah"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/UTA_20242025-20242025_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/UTA_20242025-20242025_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Kings"
+        },
+        "placeNameWithPreposition": {
+          "default": "Los Angeles",
+          "fr": "de Los Angeles"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/LAK_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/cgy-vs-uta/2025/04/01/2024021188",
+      "gameDate": "2025-04-01",
+      "isHomeTeam": true,
+      "toiAll": 17640,
+      "distanceSkatedAll": {
+        "imperial": 46.2575,
+        "metric": 74.444
+      },
+      "toiEven": 16080,
+      "distanceSkatedEven": {
+        "imperial": 42.6812,
+        "metric": 68.6886
+      },
+      "toiPP": 600,
+      "distanceSkatedPP": {
+        "imperial": 1.5759,
+        "metric": 2.5362
+      },
+      "toiPK": 960,
+      "distanceSkatedPK": {
+        "imperial": 2.0003,
+        "metric": 3.2192
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Utah Hockey Club",
+          "fr": "Club de hockey de l'Utah"
+        },
+        "placeNameWithPreposition": {
+          "default": "Utah",
+          "fr": "de l'Utah"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/UTA_20242025-20242025_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/UTA_20242025-20242025_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Flames"
+        },
+        "placeNameWithPreposition": {
+          "default": "Calgary",
+          "fr": "de Calgary"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CGY_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CGY_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/uta-vs-chi/2025/03/30/2024021173",
+      "gameDate": "2025-03-30",
+      "isHomeTeam": false,
+      "toiAll": 17520,
+      "distanceSkatedAll": {
+        "imperial": 45.3159,
+        "metric": 72.9288
+      },
+      "toiEven": 15000,
+      "distanceSkatedEven": {
+        "imperial": 39.5147,
+        "metric": 63.5926
+      },
+      "toiPP": 600,
+      "distanceSkatedPP": {
+        "imperial": 1.5943,
+        "metric": 2.5657
+      },
+      "toiPK": 1920,
+      "distanceSkatedPK": {
+        "imperial": 4.207,
+        "metric": 6.7704
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Blackhawks"
+        },
+        "placeNameWithPreposition": {
+          "default": "Chicago",
+          "fr": "de Chicago"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CHI_19981999-20242025_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CHI_19981999-20242025_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Utah Hockey Club",
+          "fr": "Club de hockey de l'Utah"
+        },
+        "placeNameWithPreposition": {
+          "default": "Utah",
+          "fr": "de l'Utah"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/UTA_20242025-20242025_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/UTA_20242025-20242025_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/uta-vs-fla/2025/03/28/2024021153",
+      "gameDate": "2025-03-28",
+      "isHomeTeam": false,
+      "toiAll": 18161,
+      "distanceSkatedAll": {
+        "imperial": 44.5707,
+        "metric": 71.7295
+      },
+      "toiEven": 13874,
+      "distanceSkatedEven": {
+        "imperial": 35.8297,
+        "metric": 57.6621
+      },
+      "toiPP": 2075,
+      "distanceSkatedPP": {
+        "imperial": 4.1885,
+        "metric": 6.7408
+      },
+      "toiPK": 2212,
+      "distanceSkatedPK": {
+        "imperial": 4.5525,
+        "metric": 7.3265
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Panthers"
+        },
+        "placeNameWithPreposition": {
+          "default": "Florida",
+          "fr": "de la Floride"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/FLA_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Utah Hockey Club",
+          "fr": "Club de hockey de l'Utah"
+        },
+        "placeNameWithPreposition": {
+          "default": "Utah",
+          "fr": "de l'Utah"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/UTA_20242025-20242025_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/UTA_20242025-20242025_dark.svg"
+        }
+      }
+    }
+  ],
+  "skatingDistanceDetails": [
+    {
+      "strengthCode": "all",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 3756.1424,
+        "metric": 6044.6303,
+        "rank": 13,
+        "leagueAvg": {
+          "imperial": 3741.4702,
+          "metric": 6021.0187
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.245,
+        "metric": 14.8777,
+        "rank": 12,
+        "leagueAvg": {
+          "imperial": 9.207,
+          "metric": 14.8164
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 49.4961,
+        "metric": 79.6524,
+        "rank": 17,
+        "leagueAvg": {
+          "imperial": 49.4164,
+          "metric": 79.5241
+        },
+        "overlay": {
+          "gameDate": "2024-12-10",
+          "awayTeam": {
+            "abbrev": "MIN",
+            "score": 5
+          },
+          "homeTeam": {
+            "abbrev": "UTA",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 16.4695,
+        "metric": 26.5039,
+        "rank": 28,
+        "leagueAvg": {
+          "imperial": 16.741,
+          "metric": 26.9407
+        },
+        "overlay": {
+          "gameDate": "2025-02-06",
+          "awayTeam": {
+            "abbrev": "UTA",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "CBJ",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "all",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 2397.684,
+        "metric": 3858.5101,
+        "rank": 12,
+        "leagueAvg": {
+          "imperial": 2386.7017,
+          "metric": 3840.8366
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.7014,
+        "metric": 15.6121,
+        "rank": 13,
+        "leagueAvg": {
+          "imperial": 9.6626,
+          "metric": 15.5497
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 31.631,
+        "metric": 50.9027,
+        "rank": 14,
+        "leagueAvg": {
+          "imperial": 31.6027,
+          "metric": 50.8572
+        },
+        "overlay": {
+          "gameDate": "2025-02-04",
+          "awayTeam": {
+            "abbrev": "PHI",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "UTA",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 10.6465,
+        "metric": 17.133,
+        "rank": 24,
+        "leagueAvg": {
+          "imperial": 10.8223,
+          "metric": 17.4159
+        },
+        "overlay": {
+          "gameDate": "2025-02-25",
+          "awayTeam": {
+            "abbrev": "CHI",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "UTA",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "all",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 1358.4584,
+        "metric": 2186.1202,
+        "rank": 13,
+        "leagueAvg": {
+          "imperial": 1354.7685,
+          "metric": 2180.1822
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.5363,
+        "metric": 13.7372,
+        "rank": 11,
+        "leagueAvg": {
+          "imperial": 8.5007,
+          "metric": 13.6799
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 18.3128,
+        "metric": 29.4701,
+        "rank": 7,
+        "leagueAvg": {
+          "imperial": 18.1694,
+          "metric": 29.2394
+        },
+        "overlay": {
+          "gameDate": "2025-01-04",
+          "awayTeam": {
+            "abbrev": "UTA",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "DAL",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 6.1626,
+        "metric": 9.9173,
+        "rank": 20,
+        "leagueAvg": {
+          "imperial": 6.2615,
+          "metric": 10.0764
+        },
+        "overlay": {
+          "gameDate": "2024-11-02",
+          "awayTeam": {
+            "abbrev": "UTA",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "VGK",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 254.5419,
+        "metric": 409.6255,
+        "rank": 18,
+        "leagueAvg": {
+          "imperial": 258.9368,
+          "metric": 416.6981
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.0535,
+        "metric": 12.9602,
+        "rank": 30,
+        "leagueAvg": {
+          "imperial": 8.4597,
+          "metric": 13.6139
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 7.9531,
+        "metric": 12.7987,
+        "rank": 16,
+        "leagueAvg": {
+          "imperial": 7.9826,
+          "metric": 12.8462
+        },
+        "overlay": {
+          "gameDate": "2024-11-18",
+          "awayTeam": {
+            "abbrev": "WSH",
+            "score": 6
+          },
+          "homeTeam": {
+            "abbrev": "UTA",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 4.4543,
+        "metric": 7.1682,
+        "rank": 26,
+        "leagueAvg": {
+          "imperial": 4.8968,
+          "metric": 7.8802
+        },
+        "overlay": {
+          "gameDate": "2025-02-25",
+          "awayTeam": {
+            "abbrev": "CHI",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "UTA",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 201.1097,
+        "metric": 323.6388,
+        "rank": 14,
+        "leagueAvg": {
+          "imperial": 198.6951,
+          "metric": 319.7531
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.0305,
+        "metric": 12.9232,
+        "rank": 27,
+        "leagueAvg": {
+          "imperial": 8.3521,
+          "metric": 13.4408
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 6.2793,
+        "metric": 10.105,
+        "rank": 16,
+        "leagueAvg": {
+          "imperial": 6.1853,
+          "metric": 9.9539
+        },
+        "overlay": {
+          "gameDate": "2024-11-18",
+          "awayTeam": {
+            "abbrev": "WSH",
+            "score": 6
+          },
+          "homeTeam": {
+            "abbrev": "UTA",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 3.4821,
+        "metric": 5.6036,
+        "rank": 25,
+        "leagueAvg": {
+          "imperial": 3.7416,
+          "metric": 6.0212
+        },
+        "overlay": {
+          "gameDate": "2025-02-25",
+          "awayTeam": {
+            "abbrev": "CHI",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "UTA",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 53.4322,
+        "metric": 85.9867,
+        "rank": 26,
+        "leagueAvg": {
+          "imperial": 60.2417,
+          "metric": 96.945
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.1414,
+        "metric": 13.1016,
+        "rank": 32,
+        "leagueAvg": {
+          "imperial": 8.835,
+          "metric": 14.2178
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 1.6739,
+        "metric": 2.6937,
+        "rank": 26,
+        "leagueAvg": {
+          "imperial": 1.9599,
+          "metric": 3.154
+        },
+        "overlay": {
+          "gameDate": "2024-11-18",
+          "awayTeam": {
+            "abbrev": "WSH",
+            "score": 6
+          },
+          "homeTeam": {
+            "abbrev": "UTA",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 1.0268,
+        "metric": 1.6524,
+        "rank": 25,
+        "leagueAvg": {
+          "imperial": 1.235,
+          "metric": 1.9874
+        },
+        "overlay": {
+          "gameDate": "2025-04-14",
+          "awayTeam": {
+            "abbrev": "UTA",
+            "score": 7
+          },
+          "homeTeam": {
+            "abbrev": "NSH",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 206.6405,
+        "metric": 332.5394,
+        "rank": 6,
+        "leagueAvg": {
+          "imperial": 186.8424,
+          "metric": 300.679
+        }
+      },
+      "distancePer60": {
+        "imperial": 7.5475,
+        "metric": 12.146,
+        "rank": 24,
+        "leagueAvg": {
+          "imperial": 7.6815,
+          "metric": 12.3615
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 6.2716,
+        "metric": 10.0927,
+        "rank": 10,
+        "leagueAvg": {
+          "imperial": 5.8458,
+          "metric": 9.4075
+        },
+        "overlay": {
+          "gameDate": "2024-11-13",
+          "awayTeam": {
+            "abbrev": "CAR",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "UTA",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 4.7606,
+        "metric": 7.6611,
+        "rank": 2,
+        "leagueAvg": {
+          "imperial": 3.5201,
+          "metric": 5.6647
+        },
+        "overlay": {
+          "gameDate": "2024-11-13",
+          "awayTeam": {
+            "abbrev": "CAR",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "UTA",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 116.4277,
+        "metric": 187.3631,
+        "rank": 5,
+        "leagueAvg": {
+          "imperial": 103.6931,
+          "metric": 166.8698
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.5621,
+        "metric": 13.7787,
+        "rank": 18,
+        "leagueAvg": {
+          "imperial": 8.5835,
+          "metric": 13.8131
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 3.7193,
+        "metric": 5.9854,
+        "rank": 5,
+        "leagueAvg": {
+          "imperial": 3.2404,
+          "metric": 5.2147
+        },
+        "overlay": {
+          "gameDate": "2024-11-21",
+          "awayTeam": {
+            "abbrev": "UTA",
+            "score": 0
+          },
+          "homeTeam": {
+            "abbrev": "BOS",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 2.6912,
+        "metric": 4.3309,
+        "rank": 1,
+        "leagueAvg": {
+          "imperial": 1.9562,
+          "metric": 3.148
+        },
+        "overlay": {
+          "gameDate": "2024-11-13",
+          "awayTeam": {
+            "abbrev": "CAR",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "UTA",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 90.2128,
+        "metric": 145.1763,
+        "rank": 8,
+        "leagueAvg": {
+          "imperial": 83.1493,
+          "metric": 133.8092
+        }
+      },
+      "distancePer60": {
+        "imperial": 6.5464,
+        "metric": 10.5349,
+        "rank": 26,
+        "leagueAvg": {
+          "imperial": 6.7914,
+          "metric": 10.9292
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 2.7488,
+        "metric": 4.4235,
+        "rank": 9,
+        "leagueAvg": {
+          "imperial": 2.6191,
+          "metric": 4.2148
+        },
+        "overlay": {
+          "gameDate": "2024-11-13",
+          "awayTeam": {
+            "abbrev": "CAR",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "UTA",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 2.0694,
+        "metric": 3.3303,
+        "rank": 2,
+        "leagueAvg": {
+          "imperial": 1.5712,
+          "metric": 2.5284
+        },
+        "overlay": {
+          "gameDate": "2024-11-13",
+          "awayTeam": {
+            "abbrev": "CAR",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "UTA",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 3294.9601,
+        "metric": 5302.4655,
+        "rank": 16,
+        "leagueAvg": {
+          "imperial": 3295.6909,
+          "metric": 5303.6416
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.4873,
+        "metric": 15.2676,
+        "rank": 4,
+        "leagueAvg": {
+          "imperial": 9.3776,
+          "metric": 15.0911
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 48.122,
+        "metric": 77.4411,
+        "rank": 5,
+        "leagueAvg": {
+          "imperial": 46.9298,
+          "metric": 75.5226
+        },
+        "overlay": {
+          "gameDate": "2025-01-04",
+          "awayTeam": {
+            "abbrev": "UTA",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "DAL",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 16.4695,
+        "metric": 26.5039,
+        "rank": 24,
+        "leagueAvg": {
+          "imperial": 16.6543,
+          "metric": 26.8012
+        },
+        "overlay": {
+          "gameDate": "2025-02-06",
+          "awayTeam": {
+            "abbrev": "UTA",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "CBJ",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 2080.1467,
+        "metric": 3347.5082,
+        "rank": 17,
+        "leagueAvg": {
+          "imperial": 2084.3135,
+          "metric": 3354.2137
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.9764,
+        "metric": 16.0546,
+        "rank": 4,
+        "leagueAvg": {
+          "imperial": 9.872,
+          "metric": 15.8867
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 30.21,
+        "metric": 48.6159,
+        "rank": 8,
+        "leagueAvg": {
+          "imperial": 29.7831,
+          "metric": 47.9289
+        },
+        "overlay": {
+          "gameDate": "2025-02-09",
+          "awayTeam": {
+            "abbrev": "UTA",
+            "score": 5
+          },
+          "homeTeam": {
+            "abbrev": "WSH",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 10.4408,
+        "metric": 16.802,
+        "rank": 24,
+        "leagueAvg": {
+          "imperial": 10.6014,
+          "metric": 17.0605
+        },
+        "overlay": {
+          "gameDate": "2025-02-06",
+          "awayTeam": {
+            "abbrev": "UTA",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "CBJ",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 1214.8134,
+        "metric": 1954.9572,
+        "rank": 13,
+        "leagueAvg": {
+          "imperial": 1211.3775,
+          "metric": 1949.428
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.7526,
+        "metric": 14.0852,
+        "rank": 5,
+        "leagueAvg": {
+          "imperial": 8.6336,
+          "metric": 13.8938
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 18.0511,
+        "metric": 29.0489,
+        "rank": 3,
+        "leagueAvg": {
+          "imperial": 17.2968,
+          "metric": 27.8351
+        },
+        "overlay": {
+          "gameDate": "2025-01-04",
+          "awayTeam": {
+            "abbrev": "UTA",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "DAL",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 6.1626,
+        "metric": 9.9173,
+        "rank": 19,
+        "leagueAvg": {
+          "imperial": 6.2408,
+          "metric": 10.0431
+        },
+        "overlay": {
+          "gameDate": "2024-11-02",
+          "awayTeam": {
+            "abbrev": "UTA",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "VGK",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    }
+  ]
+}
