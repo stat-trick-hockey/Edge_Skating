@@ -1,76 +1,519 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width,initial-scale=1"/>
-  <meta http-equiv="refresh" content="0; url=latest.html"/>
-  <title>NHL EDGE — Team Skating Distance</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>🏒 NHL First Goalscorer Picks</title>
   <style>
     :root {
-      --bg:#0b0f1a; --text:#e7eefc; --muted:#9fb0d0;
-      --border:rgba(255,255,255,.08); --accent:#6ea8fe;
-      --card:rgba(18,26,42,.75);
+      --bg: #0a0e1a;
+      --surface: #111827;
+      --surface2: #1a2235;
+      --border: #1e2d45;
+      --accent: #3b82f6;
+      --accent2: #60a5fa;
+      --gold: #f59e0b;
+      --green: #10b981;
+      --red: #ef4444;
+      --muted: #6b7280;
+      --text: #e5e7eb;
+      --text2: #9ca3af;
     }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
     body {
-      margin:0;
-      background:
-        radial-gradient(1200px 800px at 20% 0%,rgba(110,168,254,.15),transparent 50%),
-        var(--bg);
-      color:var(--text);
-      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial;
-      display:flex; flex-direction:column; align-items:center;
-      padding:40px 20px;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      min-height: 100vh;
     }
-    h1 { font-size:22px; margin:0 0 6px; letter-spacing:.2px; }
-    .sub { color:var(--muted); font-size:13px; margin-bottom:24px; }
-    a { color:var(--accent); text-decoration:none; }
-    a:hover { text-decoration:underline; }
-    .card {
-      border:1px solid var(--border); background:var(--card);
-      border-radius:16px; padding:20px 24px;
-      box-shadow:0 10px 30px rgba(0,0,0,.28);
-      backdrop-filter:blur(10px);
-      width:min(480px,100%);
+
+    /* ── Header ── */
+    header {
+      background: linear-gradient(135deg, #0f1e3d 0%, #1a2f5e 50%, #0f1e3d 100%);
+      border-bottom: 1px solid var(--border);
+      padding: 28px 24px 24px;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
     }
-    .big-link {
-      display:block; text-align:center; font-size:16px; font-weight:700;
-      padding:12px; border-radius:10px;
-      background:rgba(110,168,254,.15); border:1px solid rgba(110,168,254,.3);
-      margin-bottom:20px;
+    header::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(ellipse at 50% -20%, rgba(59,130,246,0.15) 0%, transparent 70%);
+      pointer-events: none;
     }
-    table { width:100%; border-collapse:collapse; }
-    th,td { padding:7px 8px; border-bottom:1px solid var(--border); font-size:13px; }
-    th { color:var(--muted); text-align:left; }
-    td.muted { color:var(--muted); font-size:12px; }
-    .badge {
-      display:inline-block; padding:1px 6px; border-radius:5px;
-      font-size:10px; font-weight:700; margin-left:6px;
-      background:rgba(51,209,122,.18); color:#33d17a;
-      border:1px solid rgba(51,209,122,.3);
+    .header-inner { position: relative; max-width: 900px; margin: 0 auto; }
+    .logo { font-size: 2.4rem; margin-bottom: 4px; }
+    h1 { font-size: 1.6rem; font-weight: 700; letter-spacing: -0.02em; color: #fff; }
+    .subtitle { color: var(--text2); font-size: 0.9rem; margin-top: 4px; }
+    .date-badge {
+      display: inline-block;
+      margin-top: 10px;
+      background: rgba(59,130,246,0.15);
+      border: 1px solid rgba(59,130,246,0.3);
+      color: var(--accent2);
+      padding: 4px 14px;
+      border-radius: 20px;
+      font-size: 0.82rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
     }
+
+    /* ── Layout ── */
+    main { max-width: 900px; margin: 0 auto; padding: 28px 16px 60px; }
+
+    .section-label {
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 12px;
+    }
+
+    /* ── Picks ── */
+    .picks-grid {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-bottom: 36px;
+    }
+
+    .pick-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 16px 20px;
+      display: grid;
+      grid-template-columns: 40px 1fr auto;
+      align-items: center;
+      gap: 16px;
+      transition: border-color 0.15s;
+    }
+    .pick-card:hover { border-color: rgba(59,130,246,0.4); }
+    .pick-card.rank-1 {
+      background: linear-gradient(135deg, #1a2235 0%, #1e2d45 100%);
+      border-color: var(--gold);
+      box-shadow: 0 0 20px rgba(245,158,11,0.08);
+    }
+
+    .rank {
+      font-size: 1.4rem;
+      font-weight: 800;
+      color: var(--muted);
+      text-align: center;
+      line-height: 1;
+    }
+    .rank-1 .rank { color: var(--gold); }
+    .rank-medal { font-size: 1.3rem; }
+
+    .pick-info {}
+    .pick-name {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 3px;
+    }
+    .pick-meta {
+      font-size: 0.78rem;
+      color: var(--text2);
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+    }
+    .tag {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 5px;
+      padding: 2px 7px;
+      font-size: 0.72rem;
+      font-weight: 600;
+    }
+    .tag-b2b { color: #f97316; border-color: rgba(249,115,22,0.3); }
+    .tag-home { color: var(--accent2); border-color: rgba(96,165,250,0.3); }
+    .tag-away { color: var(--text2); }
+    .tag-model { color: #a78bfa; border-color: rgba(167,139,250,0.3); }
+
+    .pick-score-wrap { text-align: right; }
+    .pick-score {
+      font-size: 1.5rem;
+      font-weight: 800;
+      color: var(--accent2);
+      line-height: 1;
+    }
+    .rank-1 .pick-score { color: var(--gold); }
+    .score-label { font-size: 0.68rem; color: var(--muted); margin-top: 2px; }
+
+    /* ── No picks ── */
+    .empty-state {
+      background: var(--surface);
+      border: 1px dashed var(--border);
+      border-radius: 12px;
+      padding: 48px 24px;
+      text-align: center;
+      margin-bottom: 36px;
+    }
+    .empty-icon { font-size: 3rem; margin-bottom: 12px; }
+    .empty-title { font-size: 1.1rem; font-weight: 600; margin-bottom: 6px; }
+    .empty-sub { color: var(--text2); font-size: 0.88rem; }
+
+    /* ── Stats bar ── */
+    .stats-row {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 10px;
+      margin-bottom: 36px;
+    }
+    @media (max-width: 600px) {
+      .stats-row { grid-template-columns: repeat(2, 1fr); }
+    }
+    .stat-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 14px 16px;
+      text-align: center;
+    }
+    .stat-value {
+      font-size: 1.7rem;
+      font-weight: 800;
+      color: #fff;
+      line-height: 1;
+      margin-bottom: 4px;
+    }
+    .stat-label { font-size: 0.72rem; color: var(--muted); font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; }
+
+    /* ── History table ── */
+    .history-wrap {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .history-header {
+      padding: 14px 20px;
+      border-bottom: 1px solid var(--border);
+      font-size: 0.82rem;
+      font-weight: 700;
+      color: var(--text2);
+      display: grid;
+      grid-template-columns: 100px 1fr 1fr 60px;
+      gap: 12px;
+    }
+    .history-row {
+      padding: 12px 20px;
+      border-bottom: 1px solid var(--border);
+      display: grid;
+      grid-template-columns: 100px 1fr 1fr 60px;
+      gap: 12px;
+      align-items: center;
+      font-size: 0.85rem;
+      transition: background 0.1s;
+    }
+    .history-row:last-child { border-bottom: none; }
+    .history-row:hover { background: var(--surface2); }
+    .history-date { color: var(--text2); font-size: 0.8rem; }
+    .history-name { font-weight: 600; color: var(--text); }
+    .history-actual { color: var(--text2); }
+    .hit-badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 28px;
+      height: 28px;
+      border-radius: 6px;
+      font-size: 0.75rem;
+      font-weight: 800;
+    }
+    .hit-1 { background: rgba(16,185,129,0.15); color: var(--green); border: 1px solid rgba(16,185,129,0.3); }
+    .hit-5 { background: rgba(245,158,11,0.12); color: var(--gold); border: 1px solid rgba(245,158,11,0.3); }
+    .hit-0 { background: rgba(107,114,128,0.1); color: var(--muted); border: 1px solid var(--border); }
+
+    /* ── Footer ── */
+    footer {
+      text-align: center;
+      padding: 20px;
+      color: var(--muted);
+      font-size: 0.78rem;
+      border-top: 1px solid var(--border);
+    }
+    footer a { color: var(--accent2); text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+
+    /* ── Loading ── */
+    .loading {
+      text-align: center;
+      padding: 40px;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+    .spinner {
+      display: inline-block;
+      width: 20px; height: 20px;
+      border: 2px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+      margin-right: 8px;
+      vertical-align: middle;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Error ── */
+    .error-box {
+      background: rgba(239,68,68,0.08);
+      border: 1px solid rgba(239,68,68,0.25);
+      border-radius: 10px;
+      padding: 16px 20px;
+      color: #fca5a5;
+      font-size: 0.85rem;
+      margin-bottom: 24px;
+    }
+
+    .divider { height: 1px; background: var(--border); margin: 32px 0; }
   </style>
 </head>
 <body>
-  <h1>🏒 NHL EDGE — Team Skating Distance</h1>
-  <div class="sub">Daily team-level skating distance data from the NHL EDGE API · Updated each morning</div>
-  <div class="card">
-    <a class="big-link" href="latest.html">→ View Today's Report</a>
-    <table>
-      <thead><tr><th>Report</th><th>Date</th></tr></thead>
-      <tbody><tr><td><a href='archive/2026-03-03.html'>Today</a> <span class='badge'>latest</span></td><td class='muted'>2026-03-03</td></tr>
-<tr><td><a href='archive/2026-03-02.html'>2026-03-02</a></td><td class='muted'>2026-03-02</td></tr>
-<tr><td><a href='archive/2026-03-01.html'>2026-03-01</a></td><td class='muted'>2026-03-01</td></tr>
-<tr><td><a href='archive/2026-02-28.html'>2026-02-28</a></td><td class='muted'>2026-02-28</td></tr>
-<tr><td><a href='archive/2026-02-27.html'>2026-02-27</a></td><td class='muted'>2026-02-27</td></tr>
-<tr><td><a href='archive/2026-02-26.html'>2026-02-26</a></td><td class='muted'>2026-02-26</td></tr>
-<tr><td><a href='archive/2026-02-25.html'>2026-02-25</a></td><td class='muted'>2026-02-25</td></tr>
-<tr><td><a href='archive/2026-02-24.html'>2026-02-24</a></td><td class='muted'>2026-02-24</td></tr>
-<tr><td><a href='archive/2026-02-23.html'>2026-02-23</a></td><td class='muted'>2026-02-23</td></tr></tbody>
-    </table>
+
+<header>
+  <div class="header-inner">
+    <div class="logo">🏒</div>
+    <h1>NHL First Goalscorer Picks</h1>
+    <div class="subtitle">stat-trick-hockey · ML-assisted predictions</div>
+    <div class="date-badge" id="today-badge">Loading...</div>
   </div>
-  <div class="sub" style="margin-top:16px;font-size:12px;">
-    Generated 2026-03-03 &nbsp;·&nbsp;
-    Data: <a href="https://api-web.nhle.com">api-web.nhle.com</a>
+</header>
+
+<main>
+
+  <!-- Today's Picks -->
+  <div class="section-label">Today's Top Picks</div>
+  <div id="picks-container">
+    <div class="loading"><span class="spinner"></span>Loading picks...</div>
   </div>
+
+  <div class="divider"></div>
+
+  <!-- Accuracy Stats -->
+  <div class="section-label">Accuracy — All Time</div>
+  <div id="stats-container">
+    <div class="loading"><span class="spinner"></span>Loading stats...</div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- History -->
+  <div class="section-label">Recent Results</div>
+  <div id="history-container">
+    <div class="loading"><span class="spinner"></span>Loading history...</div>
+  </div>
+
+</main>
+
+<footer>
+  Picks generated daily at 7 AM ET · 
+  <a href="https://github.com/stat-trick-hockey/nhl-first-goalscorer" target="_blank">View on GitHub</a>
+  · Data: NHL API
+</footer>
+
+<script>
+  const REPO = 'stat-trick-hockey/nhl-first-goalscorer';
+  const RAW  = `https://raw.githubusercontent.com/${REPO}/main`;
+
+  // ── Helpers ────────────────────────────────────────────────────────────────
+
+  function today() {
+    return new Date().toLocaleDateString('en-CA'); // YYYY-MM-DD in local time
+  }
+
+  function fmtDate(d) {
+    return new Date(d + 'T12:00:00').toLocaleDateString('en-US', {
+      month: 'short', day: 'numeric', year: 'numeric'
+    });
+  }
+
+  function pct(v) {
+    return v != null ? (v * 100).toFixed(1) + '%' : '—';
+  }
+
+  // ── Load picks ──────────────────────────────────────────────────────────────
+
+  async function loadPicks(date) {
+    const container = document.getElementById('picks-container');
+    document.getElementById('today-badge').textContent = fmtDate(date);
+
+    try {
+      const res = await fetch(`${RAW}/picks/${date}.json`);
+      if (!res.ok) throw new Error(`${res.status}`);
+      const data = await res.json();
+      renderPicks(data.picks || []);
+    } catch (e) {
+      // Try yesterday as fallback
+      const yesterday = new Date();
+      yesterday.setDate(yesterday.getDate() - 1);
+      const yd = yesterday.toLocaleDateString('en-CA');
+      try {
+        const res2 = await fetch(`${RAW}/picks/${yd}.json`);
+        if (!res2.ok) throw new Error('no picks');
+        const data2 = await res2.json();
+        document.getElementById('today-badge').textContent = fmtDate(yd) + ' (latest)';
+        renderPicks(data2.picks || []);
+      } catch {
+        container.innerHTML = `
+          <div class="empty-state">
+            <div class="empty-icon">🎯</div>
+            <div class="empty-title">No picks yet today</div>
+            <div class="empty-sub">Picks are generated at 7 AM ET each game day.<br>Check back soon or view the <a href="https://github.com/${REPO}/tree/main/picks" style="color:#60a5fa">picks folder</a> on GitHub.</div>
+          </div>`;
+      }
+    }
+  }
+
+  function renderPicks(picks) {
+    const container = document.getElementById('picks-container');
+    if (!picks.length) {
+      container.innerHTML = `
+        <div class="empty-state">
+          <div class="empty-icon">🏒</div>
+          <div class="empty-title">No games today</div>
+          <div class="empty-sub">The NHL has a day off. Check back tomorrow.</div>
+        </div>`;
+      return;
+    }
+
+    const medals = ['🥇', '🥈', '🥉'];
+    container.innerHTML = `<div class="picks-grid">${picks.map((p, i) => {
+      const rank = i + 1;
+      const isTop = rank === 1;
+      const medal = medals[i] || '';
+      const rankDisplay = medal
+        ? `<span class="rank-medal">${medal}</span>`
+        : `<span class="rank">#${rank}</span>`;
+
+      const score = (p.final ?? p.heuristic_score ?? 0).toFixed(1);
+      const isHome = p.is_home;
+      const isB2B  = p.is_b2b;
+      const model  = p.model_used === 'ensemble' ? '🤖 Ensemble' : '📐 Heuristic';
+      const matchup = p.matchup || '';
+
+      const tags = [
+        matchup ? `<span class="tag">${matchup}</span>` : '',
+        isHome  ? `<span class="tag tag-home">Home</span>` : `<span class="tag tag-away">Away</span>`,
+        isB2B   ? `<span class="tag tag-b2b">B2B ⚠</span>` : '',
+        `<span class="tag tag-model">${model}</span>`,
+      ].filter(Boolean).join('');
+
+      return `
+        <div class="pick-card ${isTop ? 'rank-1' : ''}">
+          <div>${rankDisplay}</div>
+          <div class="pick-info">
+            <div class="pick-name">${p.name}</div>
+            <div class="pick-meta">${tags}</div>
+          </div>
+          <div class="pick-score-wrap">
+            <div class="pick-score">${score}</div>
+            <div class="score-label">score</div>
+          </div>
+        </div>`;
+    }).join('')}</div>`;
+  }
+
+  // ── Load accuracy log ───────────────────────────────────────────────────────
+
+  async function loadAccuracy() {
+    const statsEl   = document.getElementById('stats-container');
+    const historyEl = document.getElementById('history-container');
+
+    try {
+      const res = await fetch(`${RAW}/data/accuracy_log.jsonl`);
+      if (!res.ok) throw new Error(`${res.status}`);
+      const text = await res.text();
+      const records = text.trim().split('\n')
+        .filter(Boolean)
+        .map(l => JSON.parse(l))
+        .sort((a, b) => a.date.localeCompare(b.date));
+
+      if (!records.length) throw new Error('empty');
+      renderStats(records);
+      renderHistory(records);
+    } catch {
+      const noDataMsg = `
+        <div class="empty-state" style="margin-bottom:0">
+          <div class="empty-icon">📊</div>
+          <div class="empty-title">No accuracy data yet</div>
+          <div class="empty-sub">Results will appear here after the first tracked game day.</div>
+        </div>`;
+      statsEl.innerHTML   = noDataMsg;
+      historyEl.innerHTML = noDataMsg;
+    }
+  }
+
+  function renderStats(records) {
+    const n = records.length;
+    const top1 = records.filter(r => r.top1_correct).length;
+    const top3 = records.filter(r => r.top3_correct).length;
+    const top5 = records.filter(r => r.top5_correct).length;
+    const ranks = records.map(r => r.best_rank).filter(r => r != null);
+    const avgRank = ranks.length ? (ranks.reduce((a,b) => a+b, 0) / ranks.length).toFixed(1) : '—';
+
+    document.getElementById('stats-container').innerHTML = `
+      <div class="stats-row">
+        <div class="stat-card">
+          <div class="stat-value">${pct(top1/n)}</div>
+          <div class="stat-label">Top-1 Acc</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value">${pct(top3/n)}</div>
+          <div class="stat-label">Top-3 Acc</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value">${pct(top5/n)}</div>
+          <div class="stat-label">Top-5 Acc</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value">${avgRank}</div>
+          <div class="stat-label">Avg Rank</div>
+        </div>
+      </div>
+      <div style="text-align:right;font-size:0.75rem;color:var(--muted);margin-top:-24px;margin-bottom:8px;">Based on ${n} tracked day${n !== 1 ? 's' : ''}</div>`;
+  }
+
+  function renderHistory(records) {
+    const recent = [...records].reverse().slice(0, 20);
+
+    document.getElementById('history-container').innerHTML = `
+      <div class="history-wrap">
+        <div class="history-header">
+          <span>Date</span>
+          <span>#1 Pick</span>
+          <span>Actual Scorer</span>
+          <span>Hit</span>
+        </div>
+        ${recent.map(r => {
+          const actual = (r.actual_first_scorers || []).slice(0,2).join(', ') || '—';
+          let badge, hitClass;
+          if (r.top1_correct)      { badge = '#1'; hitClass = 'hit-1'; }
+          else if (r.top5_correct) { badge = 'T5';  hitClass = 'hit-5'; }
+          else                     { badge = '—';   hitClass = 'hit-0'; }
+          return `
+            <div class="history-row">
+              <span class="history-date">${fmtDate(r.date)}</span>
+              <span class="history-name">${r.our_top1 || '—'}</span>
+              <span class="history-actual">${actual}</span>
+              <span><span class="hit-badge ${hitClass}">${badge}</span></span>
+            </div>`;
+        }).join('')}
+      </div>`;
+  }
+
+  // ── Init ───────────────────────────────────────────────────────────────────
+  loadPicks(today());
+  loadAccuracy();
+</script>
+
 </body>
 </html>
