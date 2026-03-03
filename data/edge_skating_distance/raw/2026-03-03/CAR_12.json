@@ -1,6 +1,57 @@
 {
   "skatingDistanceLast10": [
     {
+      "gameCenterLink": "/gamecenter/car-vs-sea/2026/03/02/2025020957",
+      "gameDate": "2026-03-02",
+      "isHomeTeam": false,
+      "toiAll": 17781,
+      "distanceSkatedAll": {
+        "imperial": 45.5571,
+        "metric": 73.3168
+      },
+      "toiEven": 15807,
+      "distanceSkatedEven": {
+        "imperial": 41.1689,
+        "metric": 66.2547
+      },
+      "toiPP": 534,
+      "distanceSkatedPP": {
+        "imperial": 1.037,
+        "metric": 1.6689
+      },
+      "toiPK": 1440,
+      "distanceSkatedPK": {
+        "imperial": 3.3511,
+        "metric": 5.3931
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Kraken"
+        },
+        "placeNameWithPreposition": {
+          "default": "Seattle",
+          "fr": "de Seattle"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/SEA_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/SEA_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Hurricanes"
+        },
+        "placeNameWithPreposition": {
+          "default": "Carolina",
+          "fr": "de la Caroline"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg"
+        }
+      }
+    },
+    {
       "gameCenterLink": "/gamecenter/det-vs-car/2026/02/28/2025020942",
       "gameDate": "2026-02-28",
       "isHomeTeam": true,
@@ -460,57 +511,6 @@
           "dark": "https://assets.nhle.com/logos/nhl/svg/CHI_dark.svg?season=20252026"
         }
       }
-    },
-    {
-      "gameCenterLink": "/gamecenter/buf-vs-car/2026/01/19/2025020770",
-      "gameDate": "2026-01-19",
-      "isHomeTeam": true,
-      "toiAll": 17676,
-      "distanceSkatedAll": {
-        "imperial": 45.7673,
-        "metric": 73.6552
-      },
-      "toiEven": 16561,
-      "distanceSkatedEven": {
-        "imperial": 43.0746,
-        "metric": 69.3217
-      },
-      "toiPP": 635,
-      "distanceSkatedPP": {
-        "imperial": 1.5195,
-        "metric": 2.4454
-      },
-      "toiPK": 480,
-      "distanceSkatedPK": {
-        "imperial": 1.1732,
-        "metric": 1.8881
-      },
-      "homeTeam": {
-        "commonName": {
-          "default": "Hurricanes"
-        },
-        "placeNameWithPreposition": {
-          "default": "Carolina",
-          "fr": "de la Caroline"
-        },
-        "teamLogo": {
-          "light": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
-          "dark": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg"
-        }
-      },
-      "awayTeam": {
-        "commonName": {
-          "default": "Sabres"
-        },
-        "placeNameWithPreposition": {
-          "default": "Buffalo",
-          "fr": "de Buffalo"
-        },
-        "teamLogo": {
-          "light": "https://assets.nhle.com/logos/nhl/svg/BUF_light.svg",
-          "dark": "https://assets.nhle.com/logos/nhl/svg/BUF_dark.svg"
-        }
-      }
     }
   ],
   "skatingDistanceDetails": [
@@ -518,21 +518,21 @@
       "strengthCode": "all",
       "positionCode": "all",
       "distanceTotal": {
-        "imperial": 2721.7295,
-        "metric": 4379.9853,
-        "rank": 16,
+        "imperial": 2767.2865,
+        "metric": 4453.2987,
+        "rank": 8,
         "leagueAvg": {
-          "imperial": 2701.1864,
-          "metric": 4346.9259
+          "imperial": 2718.467,
+          "metric": 4374.7351
         }
       },
       "distancePer60": {
-        "imperial": 9.2834,
-        "metric": 14.9394,
+        "imperial": 9.2824,
+        "metric": 14.9378,
         "rank": 7,
         "leagueAvg": {
-          "imperial": 9.1633,
-          "metric": 14.7462
+          "imperial": 9.1636,
+          "metric": 14.7467
         }
       },
       "distanceMaxGame": {
@@ -599,21 +599,21 @@
       "strengthCode": "all",
       "positionCode": "F",
       "distanceTotal": {
-        "imperial": 1733.0842,
-        "metric": 2788.9925,
-        "rank": 14,
+        "imperial": 1762.0104,
+        "metric": 2835.5425,
+        "rank": 7,
         "leagueAvg": {
-          "imperial": 1720.9243,
-          "metric": 2769.4241
+          "imperial": 1731.9285,
+          "metric": 2787.1328
         }
       },
       "distancePer60": {
-        "imperial": 9.7402,
-        "metric": 15.6746,
+        "imperial": 9.7397,
+        "metric": 15.6738,
         "rank": 9,
         "leagueAvg": {
-          "imperial": 9.6019,
-          "metric": 15.452
+          "imperial": 9.6024,
+          "metric": 15.4527
         }
       },
       "distanceMaxGame": {
@@ -679,21 +679,21 @@
       "strengthCode": "all",
       "positionCode": "D",
       "distanceTotal": {
-        "imperial": 988.6453,
-        "metric": 1590.9927,
-        "rank": 11,
+        "imperial": 1005.2761,
+        "metric": 1617.7561,
+        "rank": 7,
         "leagueAvg": {
-          "imperial": 980.262,
-          "metric": 1577.5019
+          "imperial": 986.5385,
+          "metric": 1587.6023
         }
       },
       "distancePer60": {
-        "imperial": 8.5781,
-        "metric": 13.8044,
-        "rank": 8,
+        "imperial": 8.5765,
+        "metric": 13.8019,
+        "rank": 9,
         "leagueAvg": {
-          "imperial": 8.4831,
-          "metric": 13.6515
+          "imperial": 8.4832,
+          "metric": 13.6517
         }
       },
       "distanceMaxGame": {
@@ -760,21 +760,21 @@
       "strengthCode": "pp",
       "positionCode": "all",
       "distanceTotal": {
-        "imperial": 215.0615,
-        "metric": 346.0911,
-        "rank": 7,
+        "imperial": 216.0986,
+        "metric": 347.76,
+        "rank": 6,
         "leagueAvg": {
-          "imperial": 200.1951,
-          "metric": 322.167
+          "imperial": 200.9313,
+          "metric": 323.3517
         }
       },
       "distancePer60": {
-        "imperial": 8.8044,
-        "metric": 14.1686,
+        "imperial": 8.7934,
+        "metric": 14.151,
         "rank": 2,
         "leagueAvg": {
-          "imperial": 8.3807,
-          "metric": 13.4868
+          "imperial": 8.381,
+          "metric": 13.4873
         }
       },
       "distanceMaxGame": {
@@ -840,21 +840,21 @@
       "strengthCode": "pp",
       "positionCode": "F",
       "distanceTotal": {
-        "imperial": 164.304,
-        "metric": 264.4087,
+        "imperial": 165.155,
+        "metric": 265.7783,
         "rank": 7,
         "leagueAvg": {
-          "imperial": 153.5228,
-          "metric": 247.0589
+          "imperial": 154.092,
+          "metric": 247.975
         }
       },
       "distancePer60": {
-        "imperial": 8.7463,
-        "metric": 14.0751,
+        "imperial": 8.7341,
+        "metric": 14.0555,
         "rank": 2,
         "leagueAvg": {
-          "imperial": 8.2539,
-          "metric": 13.2826
+          "imperial": 8.2545,
+          "metric": 13.2836
         }
       },
       "distanceMaxGame": {
@@ -920,21 +920,21 @@
       "strengthCode": "pp",
       "positionCode": "D",
       "distanceTotal": {
-        "imperial": 50.7576,
-        "metric": 81.6824,
+        "imperial": 50.9436,
+        "metric": 81.9817,
         "rank": 11,
         "leagueAvg": {
-          "imperial": 46.6723,
-          "metric": 75.1081
+          "imperial": 46.8392,
+          "metric": 75.3767
         }
       },
       "distancePer60": {
-        "imperial": 8.9978,
-        "metric": 14.4798,
+        "imperial": 8.9914,
+        "metric": 14.4695,
         "rank": 8,
         "leagueAvg": {
-          "imperial": 8.827,
-          "metric": 14.2049
+          "imperial": 8.8263,
+          "metric": 14.2038
         }
       },
       "distanceMaxGame": {
@@ -1001,21 +1001,21 @@
       "strengthCode": "pk",
       "positionCode": "all",
       "distanceTotal": {
-        "imperial": 144.8952,
-        "metric": 233.1749,
-        "rank": 16,
+        "imperial": 148.2464,
+        "metric": 238.5677,
+        "rank": 15,
         "leagueAvg": {
-          "imperial": 144.3847,
-          "metric": 232.3533
+          "imperial": 144.9129,
+          "metric": 233.2034
         }
       },
       "distancePer60": {
-        "imperial": 8.1885,
-        "metric": 13.1774,
+        "imperial": 8.1927,
+        "metric": 13.1842,
         "rank": 1,
         "leagueAvg": {
-          "imperial": 7.6061,
-          "metric": 12.2402
+          "imperial": 7.6062,
+          "metric": 12.2404
         }
       },
       "distanceMaxGame": {
@@ -1081,21 +1081,21 @@
       "strengthCode": "pk",
       "positionCode": "F",
       "distanceTotal": {
-        "imperial": 79.0715,
-        "metric": 127.247,
-        "rank": 16,
+        "imperial": 80.8942,
+        "metric": 130.1802,
+        "rank": 15,
         "leagueAvg": {
-          "imperial": 79.4847,
-          "metric": 127.912
+          "imperial": 79.7784,
+          "metric": 128.3847
         }
       },
       "distancePer60": {
-        "imperial": 8.9566,
-        "metric": 14.4135,
+        "imperial": 8.96,
+        "metric": 14.4191,
         "rank": 4,
         "leagueAvg": {
-          "imperial": 8.4695,
-          "metric": 13.6297
+          "imperial": 8.4696,
+          "metric": 13.6299
         }
       },
       "distanceMaxGame": {
@@ -1161,21 +1161,21 @@
       "strengthCode": "pk",
       "positionCode": "D",
       "distanceTotal": {
-        "imperial": 65.8237,
-        "metric": 105.9279,
-        "rank": 15,
+        "imperial": 67.3522,
+        "metric": 108.3875,
+        "rank": 13,
         "leagueAvg": {
-          "imperial": 64.9,
-          "metric": 104.4413
+          "imperial": 65.1345,
+          "metric": 104.8187
         }
       },
       "distancePer60": {
-        "imperial": 7.4237,
-        "metric": 11.9468,
+        "imperial": 7.4285,
+        "metric": 11.9545,
         "rank": 1,
         "leagueAvg": {
-          "imperial": 6.7618,
-          "metric": 10.8816
+          "imperial": 6.7619,
+          "metric": 10.8818
         }
       },
       "distanceMaxGame": {
@@ -1241,21 +1241,21 @@
       "strengthCode": "es",
       "positionCode": "all",
       "distanceTotal": {
-        "imperial": 2361.7727,
-        "metric": 3800.7193,
-        "rank": 16,
+        "imperial": 2402.9416,
+        "metric": 3866.9709,
+        "rank": 12,
         "leagueAvg": {
-          "imperial": 2356.6066,
-          "metric": 3792.4056
+          "imperial": 2372.6228,
+          "metric": 3818.18
         }
       },
       "distancePer60": {
-        "imperial": 9.4072,
-        "metric": 15.1386,
+        "imperial": 9.4066,
+        "metric": 15.1377,
         "rank": 10,
         "leagueAvg": {
-          "imperial": 9.3549,
-          "metric": 15.0545
+          "imperial": 9.3546,
+          "metric": 15.054
         }
       },
       "distanceMaxGame": {
@@ -1263,8 +1263,8 @@
         "metric": 76.8158,
         "rank": 3,
         "leagueAvg": {
-          "imperial": 46.6903,
-          "metric": 75.1371
+          "imperial": 46.6952,
+          "metric": 75.1449
         },
         "overlay": {
           "gameDate": "2025-12-13",
@@ -1292,8 +1292,8 @@
         "metric": 26.5325,
         "rank": 18,
         "leagueAvg": {
-          "imperial": 16.4705,
-          "metric": 26.5054
+          "imperial": 16.475,
+          "metric": 26.5126
         },
         "overlay": {
           "gameDate": "2025-12-27",
@@ -1321,21 +1321,21 @@
       "strengthCode": "es",
       "positionCode": "F",
       "distanceTotal": {
-        "imperial": 1489.7087,
-        "metric": 2397.3368,
-        "rank": 15,
+        "imperial": 1515.9612,
+        "metric": 2439.584,
+        "rank": 10,
         "leagueAvg": {
-          "imperial": 1487.9168,
-          "metric": 2394.4532
+          "imperial": 1498.0581,
+          "metric": 2410.7731
         }
       },
       "distancePer60": {
-        "imperial": 9.9105,
-        "metric": 15.9486,
+        "imperial": 9.9101,
+        "metric": 15.9479,
         "rank": 12,
         "leagueAvg": {
-          "imperial": 9.8379,
-          "metric": 15.8318
+          "imperial": 9.8377,
+          "metric": 15.8314
         }
       },
       "distanceMaxGame": {
@@ -1343,8 +1343,8 @@
         "metric": 48.2816,
         "rank": 9,
         "leagueAvg": {
-          "imperial": 29.5264,
-          "metric": 47.5158
+          "imperial": 29.5274,
+          "metric": 47.5174
         },
         "overlay": {
           "gameDate": "2025-12-13",
@@ -1372,8 +1372,8 @@
         "metric": 16.6597,
         "rank": 25,
         "leagueAvg": {
-          "imperial": 10.4549,
-          "metric": 16.8246
+          "imperial": 10.4551,
+          "metric": 16.825
         },
         "overlay": {
           "gameDate": "2025-10-09",
@@ -1401,30 +1401,30 @@
       "strengthCode": "es",
       "positionCode": "D",
       "distanceTotal": {
-        "imperial": 872.064,
-        "metric": 1403.3825,
-        "rank": 15,
+        "imperial": 886.9804,
+        "metric": 1427.3869,
+        "rank": 12,
         "leagueAvg": {
-          "imperial": 868.6898,
-          "metric": 1397.9524
+          "imperial": 874.5647,
+          "metric": 1407.4068
         }
       },
       "distancePer60": {
-        "imperial": 8.6562,
-        "metric": 13.9301,
+        "imperial": 8.6551,
+        "metric": 13.9284,
         "rank": 15,
         "leagueAvg": {
-          "imperial": 8.6291,
-          "metric": 13.8866
+          "imperial": 8.6288,
+          "metric": 13.886
         }
       },
       "distanceMaxGame": {
         "imperial": 17.7311,
         "metric": 28.5341,
-        "rank": 6,
+        "rank": 7,
         "leagueAvg": {
-          "imperial": 17.2617,
-          "metric": 27.7786
+          "imperial": 17.2778,
+          "metric": 27.8046
         },
         "overlay": {
           "gameDate": "2025-12-13",
