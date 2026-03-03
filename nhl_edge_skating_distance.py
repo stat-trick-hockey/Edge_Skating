@@ -205,20 +205,42 @@ def _fmt_pct(x: Any, d: int = 1) -> str:
     except: return _escape(x)
 
 def _mini_bars(older: Optional[float], recent: Optional[float]) -> str:
-    """Two proportional bars: G6-10 grey baseline, G1-5 colour-coded."""
-    if older is None or recent is None: return ""
-    mx = max(older, recent)
-    if mx <= 0: return ""
-    op = round(older  / mx * 100, 1)
-    rp = round(recent / mx * 100, 1)
+    """
+    Two proportional bars scaled to show divergence, not absolute values.
+    The bar range spans midpoint ± (max_delta * padding), so small differences
+    become visually obvious. Both bars always start from the left edge;
+    the one that deviates more from midpoint fills more of the track.
+    """
+    if older is None or recent is None:
+        return ""
+    mid   = (older + recent) / 2.0
+    delta = abs(recent - older)
+
+    # Minimum visible range: at least 2% of midpoint so flat values
+    # still render as two distinct (near-equal) bars rather than nothing.
+    min_range = mid * 0.02
+    half_range = max(delta * 1.5, min_range)
+
+    lo = mid - half_range
+    hi = mid + half_range
+
+    def pct(v: float) -> float:
+        return round(max(0.0, min(100.0, (v - lo) / (hi - lo) * 100)), 1)
+
+    op = pct(older)
+    rp = pct(recent)
+
     rc = "var(--pos)" if recent > older * 1.001 else ("var(--neg)" if recent < older * 0.999 else "var(--accent)")
+
     return (
         "<div class='minibars'>"
         "<div class='bar-row'><span class='bar-label'>G6-10</span>"
-        f"<div class='bar-track'><div class='bar-fill bar-older' style='width:{op}%'></div></div>"
+        "<div class='bar-track'><div class='bar-fill bar-older' "
+        f"style='width:{op}%'></div></div>"
         f"<span class='bar-val muted'>{_fmt_num(older, 2)}</span></div>"
         "<div class='bar-row'><span class='bar-label'>G1-5</span>"
-        f"<div class='bar-track'><div class='bar-fill' style='width:{rp}%;background:{rc}'></div></div>"
+        "<div class='bar-track'><div class='bar-fill' "
+        f"style='width:{rp}%;background:{rc}'></div></div>"
         f"<span class='bar-val' style='color:{rc}'>{_fmt_num(recent, 2)}</span></div>"
         "</div>"
     )
