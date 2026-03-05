@@ -1,0 +1,1488 @@
+{
+  "skatingDistanceLast10": [
+    {
+      "gameCenterLink": "/gamecenter/ott-vs-edm/2026/03/03/2025020966",
+      "gameDate": "2026-03-03",
+      "isHomeTeam": false,
+      "toiAll": 18136,
+      "distanceSkatedAll": {
+        "imperial": 46.4987,
+        "metric": 74.8322
+      },
+      "toiEven": 15720,
+      "distanceSkatedEven": {
+        "imperial": 40.8185,
+        "metric": 65.6908
+      },
+      "toiPP": 1475,
+      "distanceSkatedPP": {
+        "imperial": 3.7723,
+        "metric": 6.0709
+      },
+      "toiPK": 941,
+      "distanceSkatedPK": {
+        "imperial": 1.9079,
+        "metric": 3.0705
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Oilers"
+        },
+        "placeNameWithPreposition": {
+          "default": "Edmonton",
+          "fr": "d'Edmonton"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/EDM_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/EDM_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Senators",
+          "fr": "Sénateurs"
+        },
+        "placeNameWithPreposition": {
+          "default": "Ottawa",
+          "fr": "d'Ottawa"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/OTT_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/ott-vs-tor/2026/02/28/2025020939",
+      "gameDate": "2026-02-28",
+      "isHomeTeam": false,
+      "toiAll": 17640,
+      "distanceSkatedAll": {
+        "imperial": 46.4382,
+        "metric": 74.7349
+      },
+      "toiEven": 15225,
+      "distanceSkatedEven": {
+        "imperial": 40.9817,
+        "metric": 65.9535
+      },
+      "toiPP": 1455,
+      "distanceSkatedPP": {
+        "imperial": 3.1432,
+        "metric": 5.0584
+      },
+      "toiPK": 960,
+      "distanceSkatedPK": {
+        "imperial": 2.3133,
+        "metric": 3.7229
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Maple Leafs"
+        },
+        "placeNameWithPreposition": {
+          "default": "Toronto",
+          "fr": "de Toronto"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/TOR_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/TOR_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Senators",
+          "fr": "Sénateurs"
+        },
+        "placeNameWithPreposition": {
+          "default": "Ottawa",
+          "fr": "d'Ottawa"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/OTT_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/det-vs-ott/2026/02/26/2025020920",
+      "gameDate": "2026-02-26",
+      "isHomeTeam": true,
+      "toiAll": 18076,
+      "distanceSkatedAll": {
+        "imperial": 46.2555,
+        "metric": 74.4408
+      },
+      "toiEven": 16645,
+      "distanceSkatedEven": {
+        "imperial": 43.239,
+        "metric": 69.5863
+      },
+      "toiPP": 895,
+      "distanceSkatedPP": {
+        "imperial": 1.9069,
+        "metric": 3.0689
+      },
+      "toiPK": 536,
+      "distanceSkatedPK": {
+        "imperial": 1.1095,
+        "metric": 1.7856
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Senators",
+          "fr": "Sénateurs"
+        },
+        "placeNameWithPreposition": {
+          "default": "Ottawa",
+          "fr": "d'Ottawa"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/OTT_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Red Wings"
+        },
+        "placeNameWithPreposition": {
+          "default": "Detroit",
+          "fr": "de Detroit"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/DET_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/DET_dark.svg?season=20252026"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/ott-vs-phi/2026/02/05/2025020907",
+      "gameDate": "2026-02-05",
+      "isHomeTeam": false,
+      "toiAll": 18021,
+      "distanceSkatedAll": {
+        "imperial": 46.7916,
+        "metric": 75.3036
+      },
+      "toiEven": 16941,
+      "distanceSkatedEven": {
+        "imperial": 44.0851,
+        "metric": 70.9479
+      },
+      "toiPP": 600,
+      "distanceSkatedPP": {
+        "imperial": 1.5802,
+        "metric": 2.543
+      },
+      "toiPK": 480,
+      "distanceSkatedPK": {
+        "imperial": 1.1264,
+        "metric": 1.8128
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Flyers"
+        },
+        "placeNameWithPreposition": {
+          "default": "Philadelphia",
+          "fr": "de Philadelphie"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/PHI_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Senators",
+          "fr": "Sénateurs"
+        },
+        "placeNameWithPreposition": {
+          "default": "Ottawa",
+          "fr": "d'Ottawa"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/OTT_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/ott-vs-car/2026/02/03/2025020890",
+      "gameDate": "2026-02-03",
+      "isHomeTeam": false,
+      "toiAll": 17956,
+      "distanceSkatedAll": {
+        "imperial": 45.0265,
+        "metric": 72.463
+      },
+      "toiEven": 16422,
+      "distanceSkatedEven": {
+        "imperial": 41.6775,
+        "metric": 67.0732
+      },
+      "toiPP": 1030,
+      "distanceSkatedPP": {
+        "imperial": 2.3485,
+        "metric": 3.7795
+      },
+      "toiPK": 504,
+      "distanceSkatedPK": {
+        "imperial": 1.0006,
+        "metric": 1.6103
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Hurricanes"
+        },
+        "placeNameWithPreposition": {
+          "default": "Carolina",
+          "fr": "de la Caroline"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Senators",
+          "fr": "Sénateurs"
+        },
+        "placeNameWithPreposition": {
+          "default": "Ottawa",
+          "fr": "d'Ottawa"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/OTT_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/ott-vs-pit/2026/02/02/2025020877",
+      "gameDate": "2026-02-02",
+      "isHomeTeam": false,
+      "toiAll": 17880,
+      "distanceSkatedAll": {
+        "imperial": 46.3071,
+        "metric": 74.5239
+      },
+      "toiEven": 14400,
+      "distanceSkatedEven": {
+        "imperial": 38.022,
+        "metric": 61.1904
+      },
+      "toiPP": 3000,
+      "distanceSkatedPP": {
+        "imperial": 7.2817,
+        "metric": 11.7188
+      },
+      "toiPK": 480,
+      "distanceSkatedPK": {
+        "imperial": 1.0034,
+        "metric": 1.6148
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Penguins"
+        },
+        "placeNameWithPreposition": {
+          "default": "Pittsburgh",
+          "fr": "de Pittsburgh"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/PIT_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/PIT_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Senators",
+          "fr": "Sénateurs"
+        },
+        "placeNameWithPreposition": {
+          "default": "Ottawa",
+          "fr": "d'Ottawa"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/OTT_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/njd-vs-ott/2026/01/31/2025020866",
+      "gameDate": "2026-01-31",
+      "isHomeTeam": true,
+      "toiAll": 17280,
+      "distanceSkatedAll": {
+        "imperial": 41.9216,
+        "metric": 67.4661
+      },
+      "toiEven": 13815,
+      "distanceSkatedEven": {
+        "imperial": 34.8302,
+        "metric": 56.0536
+      },
+      "toiPP": 1065,
+      "distanceSkatedPP": {
+        "imperial": 2.1902,
+        "metric": 3.5247
+      },
+      "toiPK": 2400,
+      "distanceSkatedPK": {
+        "imperial": 4.9012,
+        "metric": 7.8878
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Senators",
+          "fr": "Sénateurs"
+        },
+        "placeNameWithPreposition": {
+          "default": "Ottawa",
+          "fr": "d'Ottawa"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/OTT_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Devils"
+        },
+        "placeNameWithPreposition": {
+          "default": "New Jersey",
+          "fr": "du New Jersey"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/NJD_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/col-vs-ott/2026/01/28/2025020841",
+      "gameDate": "2026-01-28",
+      "isHomeTeam": true,
+      "toiAll": 18000,
+      "distanceSkatedAll": {
+        "imperial": 46.0953,
+        "metric": 74.1831
+      },
+      "toiEven": 16200,
+      "distanceSkatedEven": {
+        "imperial": 42.032,
+        "metric": 67.6437
+      },
+      "toiPP": 1800,
+      "distanceSkatedPP": {
+        "imperial": 4.0634,
+        "metric": 6.5393
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Senators",
+          "fr": "Sénateurs"
+        },
+        "placeNameWithPreposition": {
+          "default": "Ottawa",
+          "fr": "d'Ottawa"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/OTT_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Avalanche"
+        },
+        "placeNameWithPreposition": {
+          "default": "Colorado",
+          "fr": "du Colorado"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/COL_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/COL_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/vgk-vs-ott/2026/01/25/2025020821",
+      "gameDate": "2026-01-25",
+      "isHomeTeam": true,
+      "toiAll": 17760,
+      "distanceSkatedAll": {
+        "imperial": 45.5033,
+        "metric": 73.2302
+      },
+      "toiEven": 16385,
+      "distanceSkatedEven": {
+        "imperial": 42.5038,
+        "metric": 68.403
+      },
+      "toiPP": 600,
+      "distanceSkatedPP": {
+        "imperial": 1.434,
+        "metric": 2.3078
+      },
+      "toiPK": 775,
+      "distanceSkatedPK": {
+        "imperial": 1.5655,
+        "metric": 2.5194
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Senators",
+          "fr": "Sénateurs"
+        },
+        "placeNameWithPreposition": {
+          "default": "Ottawa",
+          "fr": "d'Ottawa"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/OTT_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Golden Knights"
+        },
+        "placeNameWithPreposition": {
+          "default": "Vegas",
+          "fr": "de Vegas"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/VGK_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/car-vs-ott/2026/01/24/2025020813",
+      "gameDate": "2026-01-24",
+      "isHomeTeam": true,
+      "toiAll": 17822,
+      "distanceSkatedAll": {
+        "imperial": 45.7229,
+        "metric": 73.5837
+      },
+      "toiEven": 13884,
+      "distanceSkatedEven": {
+        "imperial": 36.2334,
+        "metric": 58.3119
+      },
+      "toiPP": 2498,
+      "distanceSkatedPP": {
+        "imperial": 5.9195,
+        "metric": 9.5265
+      },
+      "toiPK": 1440,
+      "distanceSkatedPK": {
+        "imperial": 3.57,
+        "metric": 5.7453
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Senators",
+          "fr": "Sénateurs"
+        },
+        "placeNameWithPreposition": {
+          "default": "Ottawa",
+          "fr": "d'Ottawa"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/OTT_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Hurricanes"
+        },
+        "placeNameWithPreposition": {
+          "default": "Carolina",
+          "fr": "de la Caroline"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg"
+        }
+      }
+    }
+  ],
+  "skatingDistanceDetails": [
+    {
+      "strengthCode": "all",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 2696.193,
+        "metric": 4338.8903,
+        "rank": 27,
+        "leagueAvg": {
+          "imperial": 2763.8413,
+          "metric": 4447.7544
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.0761,
+        "metric": 14.6058,
+        "rank": 26,
+        "leagueAvg": {
+          "imperial": 9.1637,
+          "metric": 14.7469
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 49.2368,
+        "metric": 79.2351,
+        "rank": 14,
+        "leagueAvg": {
+          "imperial": 49.2112,
+          "metric": 79.1939
+        },
+        "overlay": {
+          "gameDate": "2025-10-21",
+          "awayTeam": {
+            "abbrev": "EDM",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 16.6169,
+        "metric": 26.741,
+        "rank": 13,
+        "leagueAvg": {
+          "imperial": 16.5675,
+          "metric": 26.6615
+        },
+        "overlay": {
+          "gameDate": "2025-10-21",
+          "awayTeam": {
+            "abbrev": "EDM",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "all",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 1711.9325,
+        "metric": 2754.9539,
+        "rank": 28,
+        "leagueAvg": {
+          "imperial": 1760.7008,
+          "metric": 2833.435
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.4348,
+        "metric": 15.1831,
+        "rank": 29,
+        "leagueAvg": {
+          "imperial": 9.6023,
+          "metric": 15.4527
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 31.3706,
+        "metric": 50.4837,
+        "rank": 20,
+        "leagueAvg": {
+          "imperial": 31.5576,
+          "metric": 50.7846
+        },
+        "overlay": {
+          "gameDate": "2025-10-21",
+          "awayTeam": {
+            "abbrev": "EDM",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 10.934,
+        "metric": 17.5957,
+        "rank": 5,
+        "leagueAvg": {
+          "imperial": 10.7481,
+          "metric": 17.2965
+        },
+        "overlay": {
+          "gameDate": "2025-12-29",
+          "awayTeam": {
+            "abbrev": "CBJ",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "all",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 984.2605,
+        "metric": 1583.9364,
+        "rank": 25,
+        "leagueAvg": {
+          "imperial": 1003.1406,
+          "metric": 1614.3194
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.5131,
+        "metric": 13.6998,
+        "rank": 13,
+        "leagueAvg": {
+          "imperial": 8.4836,
+          "metric": 13.6523
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 18.3895,
+        "metric": 29.5936,
+        "rank": 11,
+        "leagueAvg": {
+          "imperial": 18.1817,
+          "metric": 29.2592
+        },
+        "overlay": {
+          "gameDate": "2025-11-06",
+          "awayTeam": {
+            "abbrev": "OTT",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "BOS",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 6.2213,
+        "metric": 10.0118,
+        "rank": 15,
+        "leagueAvg": {
+          "imperial": 6.224,
+          "metric": 10.0161
+        },
+        "overlay": {
+          "gameDate": "2025-11-15",
+          "awayTeam": {
+            "abbrev": "LAK",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 0
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 220.2053,
+        "metric": 354.3688,
+        "rank": 7,
+        "leagueAvg": {
+          "imperial": 204.3945,
+          "metric": 328.9249
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.2022,
+        "metric": 13.1996,
+        "rank": 26,
+        "leagueAvg": {
+          "imperial": 8.3828,
+          "metric": 13.4902
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 8.4239,
+        "metric": 13.5563,
+        "rank": 9,
+        "leagueAvg": {
+          "imperial": 8.1572,
+          "metric": 13.1272
+        },
+        "overlay": {
+          "gameDate": "2025-12-06",
+          "awayTeam": {
+            "abbrev": "STL",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 5.6102,
+        "metric": 9.0282,
+        "rank": 6,
+        "leagueAvg": {
+          "imperial": 4.8248,
+          "metric": 7.7644
+        },
+        "overlay": {
+          "gameDate": "2025-12-06",
+          "awayTeam": {
+            "abbrev": "STL",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 167.9473,
+        "metric": 270.2718,
+        "rank": 7,
+        "leagueAvg": {
+          "imperial": 156.704,
+          "metric": 252.1783
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.0425,
+        "metric": 12.9425,
+        "rank": 26,
+        "leagueAvg": {
+          "imperial": 8.2564,
+          "metric": 13.2868
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 6.534,
+        "metric": 10.5149,
+        "rank": 11,
+        "leagueAvg": {
+          "imperial": 6.2995,
+          "metric": 10.1376
+        },
+        "overlay": {
+          "gameDate": "2025-12-06",
+          "awayTeam": {
+            "abbrev": "STL",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 4.3021,
+        "metric": 6.9233,
+        "rank": 7,
+        "leagueAvg": {
+          "imperial": 3.7113,
+          "metric": 5.9726
+        },
+        "overlay": {
+          "gameDate": "2025-12-06",
+          "awayTeam": {
+            "abbrev": "STL",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 52.258,
+        "metric": 84.0971,
+        "rank": 9,
+        "leagueAvg": {
+          "imperial": 47.6905,
+          "metric": 76.7466
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.7616,
+        "metric": 14.0997,
+        "rank": 21,
+        "leagueAvg": {
+          "imperial": 8.8269,
+          "metric": 14.2048
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 2.1028,
+        "metric": 3.3839,
+        "rank": 13,
+        "leagueAvg": {
+          "imperial": 2.0082,
+          "metric": 3.2318
+        },
+        "overlay": {
+          "gameDate": "2026-02-02",
+          "awayTeam": {
+            "abbrev": "OTT",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "PIT",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 1.308,
+        "metric": 2.105,
+        "rank": 10,
+        "leagueAvg": {
+          "imperial": 1.2217,
+          "metric": 1.966
+        },
+        "overlay": {
+          "gameDate": "2025-12-06",
+          "awayTeam": {
+            "abbrev": "STL",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 142.6371,
+        "metric": 229.541,
+        "rank": 22,
+        "leagueAvg": {
+          "imperial": 147.4212,
+          "metric": 237.2399
+        }
+      },
+      "distancePer60": {
+        "imperial": 7.6119,
+        "metric": 12.2496,
+        "rank": 17,
+        "leagueAvg": {
+          "imperial": 7.6079,
+          "metric": 12.2431
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 5.6932,
+        "metric": 9.1619,
+        "rank": 19,
+        "leagueAvg": {
+          "imperial": 5.9523,
+          "metric": 9.5787
+        },
+        "overlay": {
+          "gameDate": "2025-10-13",
+          "awayTeam": {
+            "abbrev": "NSH",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 3.0361,
+        "metric": 4.8859,
+        "rank": 26,
+        "leagueAvg": {
+          "imperial": 3.4461,
+          "metric": 5.5457
+        },
+        "overlay": {
+          "gameDate": "2026-01-20",
+          "awayTeam": {
+            "abbrev": "OTT",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "CBJ",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 77.3013,
+        "metric": 124.3983,
+        "rank": 23,
+        "leagueAvg": {
+          "imperial": 81.1238,
+          "metric": 130.5498
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.3429,
+        "metric": 13.4259,
+        "rank": 20,
+        "leagueAvg": {
+          "imperial": 8.4706,
+          "metric": 13.6314
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 3.0836,
+        "metric": 4.9624,
+        "rank": 17,
+        "leagueAvg": {
+          "imperial": 3.2574,
+          "metric": 5.242
+        },
+        "overlay": {
+          "gameDate": "2025-10-13",
+          "awayTeam": {
+            "abbrev": "NSH",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 1.6449,
+        "metric": 2.647,
+        "rank": 27,
+        "leagueAvg": {
+          "imperial": 1.897,
+          "metric": 3.0528
+        },
+        "overlay": {
+          "gameDate": "2025-10-13",
+          "awayTeam": {
+            "abbrev": "NSH",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 65.3359,
+        "metric": 105.1428,
+        "rank": 19,
+        "leagueAvg": {
+          "imperial": 66.2974,
+          "metric": 106.6901
+        }
+      },
+      "distancePer60": {
+        "imperial": 6.897,
+        "metric": 11.0991,
+        "rank": 13,
+        "leagueAvg": {
+          "imperial": 6.7648,
+          "metric": 10.8864
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 2.6096,
+        "metric": 4.1995,
+        "rank": 18,
+        "leagueAvg": {
+          "imperial": 2.7144,
+          "metric": 4.3682
+        },
+        "overlay": {
+          "gameDate": "2025-10-13",
+          "awayTeam": {
+            "abbrev": "NSH",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 1.4145,
+        "metric": 2.2762,
+        "rank": 23,
+        "leagueAvg": {
+          "imperial": 1.5696,
+          "metric": 2.5259
+        },
+        "overlay": {
+          "gameDate": "2026-01-20",
+          "awayTeam": {
+            "abbrev": "OTT",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "CBJ",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 2333.3505,
+        "metric": 3754.9804,
+        "rank": 29,
+        "leagueAvg": {
+          "imperial": 2412.0257,
+          "metric": 3881.5896
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.2785,
+        "metric": 14.9315,
+        "rank": 24,
+        "leagueAvg": {
+          "imperial": 9.3545,
+          "metric": 15.0538
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 46.1654,
+        "metric": 74.2924,
+        "rank": 25,
+        "leagueAvg": {
+          "imperial": 46.6952,
+          "metric": 75.1449
+        },
+        "overlay": {
+          "gameDate": "2025-11-06",
+          "awayTeam": {
+            "abbrev": "OTT",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "BOS",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 16.5736,
+        "metric": 26.6713,
+        "rank": 13,
+        "leagueAvg": {
+          "imperial": 16.475,
+          "metric": 26.5126
+        },
+        "overlay": {
+          "gameDate": "2025-12-29",
+          "awayTeam": {
+            "abbrev": "CBJ",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 1466.6839,
+        "metric": 2360.2838,
+        "rank": 29,
+        "leagueAvg": {
+          "imperial": 1522.873,
+          "metric": 2450.7069
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.6938,
+        "metric": 15.6,
+        "rank": 27,
+        "leagueAvg": {
+          "imperial": 9.8373,
+          "metric": 15.8309
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 28.7511,
+        "metric": 46.2682,
+        "rank": 28,
+        "leagueAvg": {
+          "imperial": 29.5274,
+          "metric": 47.5174
+        },
+        "overlay": {
+          "gameDate": "2025-11-06",
+          "awayTeam": {
+            "abbrev": "OTT",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "BOS",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 10.934,
+        "metric": 17.5957,
+        "rank": 1,
+        "leagueAvg": {
+          "imperial": 10.4551,
+          "metric": 16.825
+        },
+        "overlay": {
+          "gameDate": "2025-12-29",
+          "awayTeam": {
+            "abbrev": "CBJ",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 866.6666,
+        "metric": 1394.6966,
+        "rank": 26,
+        "leagueAvg": {
+          "imperial": 889.1527,
+          "metric": 1430.8827
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.6511,
+        "metric": 13.9219,
+        "rank": 16,
+        "leagueAvg": {
+          "imperial": 8.6291,
+          "metric": 13.8864
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 17.4143,
+        "metric": 28.0242,
+        "rank": 13,
+        "leagueAvg": {
+          "imperial": 17.2778,
+          "metric": 27.8046
+        },
+        "overlay": {
+          "gameDate": "2025-11-06",
+          "awayTeam": {
+            "abbrev": "OTT",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "BOS",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 6.2213,
+        "metric": 10.0118,
+        "rank": 11,
+        "leagueAvg": {
+          "imperial": 6.1716,
+          "metric": 9.9318
+        },
+        "overlay": {
+          "gameDate": "2025-11-15",
+          "awayTeam": {
+            "abbrev": "LAK",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 0
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    }
+  ]
+}
