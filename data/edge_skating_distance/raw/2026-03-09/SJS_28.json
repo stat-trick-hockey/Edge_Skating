@@ -1,0 +1,1478 @@
+{
+  "skatingDistanceLast10": [
+    {
+      "gameCenterLink": "/gamecenter/nyi-vs-sjs/2026/03/07/2025020999",
+      "gameDate": "2026-03-07",
+      "isHomeTeam": true,
+      "toiAll": 18611,
+      "distanceSkatedAll": {
+        "imperial": 46.6932,
+        "metric": 75.1452
+      },
+      "toiEven": 16003,
+      "distanceSkatedEven": {
+        "imperial": 41.291,
+        "metric": 66.4512
+      },
+      "toiPP": 1168,
+      "distanceSkatedPP": {
+        "imperial": 2.5814,
+        "metric": 4.1543
+      },
+      "toiPK": 1440,
+      "distanceSkatedPK": {
+        "imperial": 2.8208,
+        "metric": 4.5396
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Sharks"
+        },
+        "placeNameWithPreposition": {
+          "default": "San Jose",
+          "fr": "de San Jose"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/SJS_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Islanders"
+        },
+        "placeNameWithPreposition": {
+          "default": "New York",
+          "fr": "de New York"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/NYI_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/NYI_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/stl-vs-sjs/2026/03/06/2025020989",
+      "gameDate": "2026-03-06",
+      "isHomeTeam": true,
+      "toiAll": 17922,
+      "distanceSkatedAll": {
+        "imperial": 46.8362,
+        "metric": 75.3753
+      },
+      "toiEven": 16230,
+      "distanceSkatedEven": {
+        "imperial": 43.178,
+        "metric": 69.4881
+      },
+      "toiPP": 940,
+      "distanceSkatedPP": {
+        "imperial": 1.8369,
+        "metric": 2.9562
+      },
+      "toiPK": 752,
+      "distanceSkatedPK": {
+        "imperial": 1.8213,
+        "metric": 2.931
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Sharks"
+        },
+        "placeNameWithPreposition": {
+          "default": "San Jose",
+          "fr": "de San Jose"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/SJS_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Blues"
+        },
+        "placeNameWithPreposition": {
+          "default": "St. Louis",
+          "fr": "de St. Louis"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/STL_dark.svg?season=20252026"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/mtl-vs-sjs/2026/03/03/2025020969",
+      "gameDate": "2026-03-03",
+      "isHomeTeam": true,
+      "toiAll": 17346,
+      "distanceSkatedAll": {
+        "imperial": 43.8759,
+        "metric": 70.6112
+      },
+      "toiEven": 13826,
+      "distanceSkatedEven": {
+        "imperial": 36.0712,
+        "metric": 58.0509
+      },
+      "toiPP": 1580,
+      "distanceSkatedPP": {
+        "imperial": 3.5218,
+        "metric": 5.6678
+      },
+      "toiPK": 1940,
+      "distanceSkatedPK": {
+        "imperial": 4.2828,
+        "metric": 6.8925
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Sharks"
+        },
+        "placeNameWithPreposition": {
+          "default": "San Jose",
+          "fr": "de San Jose"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/SJS_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Canadiens"
+        },
+        "placeNameWithPreposition": {
+          "default": "Montréal",
+          "fr": "de Montréal"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/MTL_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/MTL_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/wpg-vs-sjs/2026/03/01/2025020950",
+      "gameDate": "2026-03-01",
+      "isHomeTeam": true,
+      "toiAll": 17940,
+      "distanceSkatedAll": {
+        "imperial": 45.5174,
+        "metric": 73.2529
+      },
+      "toiEven": 14100,
+      "distanceSkatedEven": {
+        "imperial": 37.921,
+        "metric": 61.0277
+      },
+      "toiPP": 2400,
+      "distanceSkatedPP": {
+        "imperial": 4.8071,
+        "metric": 7.7363
+      },
+      "toiPK": 1440,
+      "distanceSkatedPK": {
+        "imperial": 2.7893,
+        "metric": 4.4889
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Sharks"
+        },
+        "placeNameWithPreposition": {
+          "default": "San Jose",
+          "fr": "de San Jose"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/SJS_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Jets"
+        },
+        "placeNameWithPreposition": {
+          "default": "Winnipeg",
+          "fr": "de Winnipeg"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/WPG_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/edm-vs-sjs/2026/02/28/2025020936",
+      "gameDate": "2026-02-28",
+      "isHomeTeam": true,
+      "toiAll": 17719,
+      "distanceSkatedAll": {
+        "imperial": 44.2792,
+        "metric": 71.2603
+      },
+      "toiEven": 15531,
+      "distanceSkatedEven": {
+        "imperial": 39.4474,
+        "metric": 63.4843
+      },
+      "toiPP": 1040,
+      "distanceSkatedPP": {
+        "imperial": 2.5717,
+        "metric": 4.1387
+      },
+      "toiPK": 1148,
+      "distanceSkatedPK": {
+        "imperial": 2.2601,
+        "metric": 3.6373
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Sharks"
+        },
+        "placeNameWithPreposition": {
+          "default": "San Jose",
+          "fr": "de San Jose"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/SJS_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Oilers"
+        },
+        "placeNameWithPreposition": {
+          "default": "Edmonton",
+          "fr": "d'Edmonton"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/EDM_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/EDM_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/cgy-vs-sjs/2026/02/26/2025020928",
+      "gameDate": "2026-02-26",
+      "isHomeTeam": true,
+      "toiAll": 17742,
+      "distanceSkatedAll": {
+        "imperial": 46.5152,
+        "metric": 74.8587
+      },
+      "toiEven": 14826,
+      "distanceSkatedEven": {
+        "imperial": 39.9205,
+        "metric": 64.2456
+      },
+      "toiPP": 1620,
+      "distanceSkatedPP": {
+        "imperial": 3.5362,
+        "metric": 5.6909
+      },
+      "toiPK": 1296,
+      "distanceSkatedPK": {
+        "imperial": 3.0585,
+        "metric": 4.9222
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Sharks"
+        },
+        "placeNameWithPreposition": {
+          "default": "San Jose",
+          "fr": "de San Jose"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/SJS_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Flames"
+        },
+        "placeNameWithPreposition": {
+          "default": "Calgary",
+          "fr": "de Calgary"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CGY_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CGY_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/sjs-vs-col/2026/02/04/2025020897",
+      "gameDate": "2026-02-04",
+      "isHomeTeam": false,
+      "toiAll": 17568,
+      "distanceSkatedAll": {
+        "imperial": 45.1167,
+        "metric": 72.6082
+      },
+      "toiEven": 14688,
+      "distanceSkatedEven": {
+        "imperial": 38.4028,
+        "metric": 61.8031
+      },
+      "toiPP": 1600,
+      "distanceSkatedPP": {
+        "imperial": 3.9512,
+        "metric": 6.3589
+      },
+      "toiPK": 1280,
+      "distanceSkatedPK": {
+        "imperial": 2.7627,
+        "metric": 4.4461
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Avalanche"
+        },
+        "placeNameWithPreposition": {
+          "default": "Colorado",
+          "fr": "du Colorado"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/COL_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/COL_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Sharks"
+        },
+        "placeNameWithPreposition": {
+          "default": "San Jose",
+          "fr": "de San Jose"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/SJS_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/sjs-vs-chi/2026/02/02/2025020881",
+      "gameDate": "2026-02-02",
+      "isHomeTeam": false,
+      "toiAll": 17554,
+      "distanceSkatedAll": {
+        "imperial": 44.4506,
+        "metric": 71.5361
+      },
+      "toiEven": 13370,
+      "distanceSkatedEven": {
+        "imperial": 35.1986,
+        "metric": 56.6466
+      },
+      "toiPP": 2400,
+      "distanceSkatedPP": {
+        "imperial": 5.6679,
+        "metric": 9.1216
+      },
+      "toiPK": 1784,
+      "distanceSkatedPK": {
+        "imperial": 3.584,
+        "metric": 5.7679
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Blackhawks"
+        },
+        "placeNameWithPreposition": {
+          "default": "Chicago",
+          "fr": "de Chicago"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CHI_dark.svg?season=20252026"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Sharks"
+        },
+        "placeNameWithPreposition": {
+          "default": "San Jose",
+          "fr": "de San Jose"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/SJS_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/sjs-vs-cgy/2026/01/31/2025020863",
+      "gameDate": "2026-01-31",
+      "isHomeTeam": false,
+      "toiAll": 17436,
+      "distanceSkatedAll": {
+        "imperial": 42.6033,
+        "metric": 68.5631
+      },
+      "toiEven": 12784,
+      "distanceSkatedEven": {
+        "imperial": 32.3362,
+        "metric": 52.04
+      },
+      "toiPP": 1925,
+      "distanceSkatedPP": {
+        "imperial": 4.5135,
+        "metric": 7.2637
+      },
+      "toiPK": 2727,
+      "distanceSkatedPK": {
+        "imperial": 5.7535,
+        "metric": 9.2594
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Flames"
+        },
+        "placeNameWithPreposition": {
+          "default": "Calgary",
+          "fr": "de Calgary"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CGY_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CGY_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Sharks"
+        },
+        "placeNameWithPreposition": {
+          "default": "San Jose",
+          "fr": "de San Jose"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/SJS_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/sjs-vs-edm/2026/01/29/2025020854",
+      "gameDate": "2026-01-29",
+      "isHomeTeam": false,
+      "toiAll": 17958,
+      "distanceSkatedAll": {
+        "imperial": 43.2969,
+        "metric": 69.6794
+      },
+      "toiEven": 16278,
+      "distanceSkatedEven": {
+        "imperial": 39.4996,
+        "metric": 63.5683
+      },
+      "toiPP": 1200,
+      "distanceSkatedPP": {
+        "imperial": 2.9104,
+        "metric": 4.6838
+      },
+      "toiPK": 480,
+      "distanceSkatedPK": {
+        "imperial": 0.8869,
+        "metric": 1.4273
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Oilers"
+        },
+        "placeNameWithPreposition": {
+          "default": "Edmonton",
+          "fr": "d'Edmonton"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/EDM_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/EDM_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Sharks"
+        },
+        "placeNameWithPreposition": {
+          "default": "San Jose",
+          "fr": "de San Jose"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/SJS_dark.svg"
+        }
+      }
+    }
+  ],
+  "skatingDistanceDetails": [
+    {
+      "strengthCode": "all",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 2719.8674,
+        "metric": 4376.9886,
+        "rank": 32,
+        "leagueAvg": {
+          "imperial": 2857.6325,
+          "metric": 4598.6893
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.0044,
+        "metric": 14.4904,
+        "rank": 31,
+        "leagueAvg": {
+          "imperial": 9.1637,
+          "metric": 14.7468
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 48.9771,
+        "metric": 78.8171,
+        "rank": 19,
+        "leagueAvg": {
+          "imperial": 49.2196,
+          "metric": 79.2074
+        },
+        "overlay": {
+          "gameDate": "2025-11-02",
+          "awayTeam": {
+            "abbrev": "DET",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "SJS",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 16.551,
+        "metric": 26.6349,
+        "rank": 18,
+        "leagueAvg": {
+          "imperial": 16.5675,
+          "metric": 26.6615
+        },
+        "overlay": {
+          "gameDate": "2025-12-16",
+          "awayTeam": {
+            "abbrev": "CGY",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "SJS",
+            "score": 6
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "all",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 1740.1371,
+        "metric": 2800.3426,
+        "rank": 32,
+        "leagueAvg": {
+          "imperial": 1820.4924,
+          "metric": 2929.6556
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.405,
+        "metric": 15.1351,
+        "rank": 31,
+        "leagueAvg": {
+          "imperial": 9.6023,
+          "metric": 15.4527
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 30.8152,
+        "metric": 49.5899,
+        "rank": 28,
+        "leagueAvg": {
+          "imperial": 31.5576,
+          "metric": 50.7846
+        },
+        "overlay": {
+          "gameDate": "2025-11-02",
+          "awayTeam": {
+            "abbrev": "DET",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "SJS",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 10.6045,
+        "metric": 17.0654,
+        "rank": 22,
+        "leagueAvg": {
+          "imperial": 10.7481,
+          "metric": 17.2965
+        },
+        "overlay": {
+          "gameDate": "2025-12-05",
+          "awayTeam": {
+            "abbrev": "SJS",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "DAL",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "all",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 979.7302,
+        "metric": 1576.646,
+        "rank": 32,
+        "leagueAvg": {
+          "imperial": 1037.14,
+          "metric": 1669.0337
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.371,
+        "metric": 13.4712,
+        "rank": 27,
+        "leagueAvg": {
+          "imperial": 8.4835,
+          "metric": 13.6522
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 18.1618,
+        "metric": 29.2272,
+        "rank": 15,
+        "leagueAvg": {
+          "imperial": 18.1828,
+          "metric": 29.261
+        },
+        "overlay": {
+          "gameDate": "2025-11-02",
+          "awayTeam": {
+            "abbrev": "DET",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "SJS",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 6.1903,
+        "metric": 9.9619,
+        "rank": 19,
+        "leagueAvg": {
+          "imperial": 6.2304,
+          "metric": 10.0264
+        },
+        "overlay": {
+          "gameDate": "2026-03-06",
+          "awayTeam": {
+            "abbrev": "STL",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "SJS",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 243.6845,
+        "metric": 392.1531,
+        "rank": 3,
+        "leagueAvg": {
+          "imperial": 211.6341,
+          "metric": 340.5755
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.4035,
+        "metric": 13.5234,
+        "rank": 16,
+        "leagueAvg": {
+          "imperial": 8.3824,
+          "metric": 13.4895
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 9.2435,
+        "metric": 14.8752,
+        "rank": 7,
+        "leagueAvg": {
+          "imperial": 8.1864,
+          "metric": 13.1742
+        },
+        "overlay": {
+          "gameDate": "2026-01-23",
+          "awayTeam": {
+            "abbrev": "NYR",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "SJS",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 4.4355,
+        "metric": 7.1379,
+        "rank": 18,
+        "leagueAvg": {
+          "imperial": 4.8328,
+          "metric": 7.7772
+        },
+        "overlay": {
+          "gameDate": "2025-10-14",
+          "awayTeam": {
+            "abbrev": "CAR",
+            "score": 5
+          },
+          "homeTeam": {
+            "abbrev": "SJS",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 188.8332,
+        "metric": 303.8828,
+        "rank": 2,
+        "leagueAvg": {
+          "imperial": 162.2254,
+          "metric": 261.0637
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.2858,
+        "metric": 13.334,
+        "rank": 16,
+        "leagueAvg": {
+          "imperial": 8.2577,
+          "metric": 13.2889
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 7.1368,
+        "metric": 11.485,
+        "rank": 8,
+        "leagueAvg": {
+          "imperial": 6.3115,
+          "metric": 10.1569
+        },
+        "overlay": {
+          "gameDate": "2026-01-23",
+          "awayTeam": {
+            "abbrev": "NYR",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "SJS",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 3.3754,
+        "metric": 5.4318,
+        "rank": 24,
+        "leagueAvg": {
+          "imperial": 3.7113,
+          "metric": 5.9726
+        },
+        "overlay": {
+          "gameDate": "2025-10-14",
+          "awayTeam": {
+            "abbrev": "CAR",
+            "score": 5
+          },
+          "homeTeam": {
+            "abbrev": "SJS",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 54.8513,
+        "metric": 88.2703,
+        "rank": 8,
+        "leagueAvg": {
+          "imperial": 49.4087,
+          "metric": 79.5118
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.8355,
+        "metric": 14.2187,
+        "rank": 17,
+        "leagueAvg": {
+          "imperial": 8.8197,
+          "metric": 14.1932
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 2.1067,
+        "metric": 3.3902,
+        "rank": 13,
+        "leagueAvg": {
+          "imperial": 2.0261,
+          "metric": 3.2606
+        },
+        "overlay": {
+          "gameDate": "2026-01-23",
+          "awayTeam": {
+            "abbrev": "NYR",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "SJS",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 1.0602,
+        "metric": 1.7061,
+        "rank": 21,
+        "leagueAvg": {
+          "imperial": 1.2325,
+          "metric": 1.9835
+        },
+        "overlay": {
+          "gameDate": "2025-10-14",
+          "awayTeam": {
+            "abbrev": "CAR",
+            "score": 5
+          },
+          "homeTeam": {
+            "abbrev": "SJS",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 154.0466,
+        "metric": 247.9019,
+        "rank": 17,
+        "leagueAvg": {
+          "imperial": 152.6405,
+          "metric": 245.6391
+        }
+      },
+      "distancePer60": {
+        "imperial": 7.1846,
+        "metric": 11.562,
+        "rank": 31,
+        "leagueAvg": {
+          "imperial": 7.6068,
+          "metric": 12.2413
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 5.849,
+        "metric": 9.4125,
+        "rank": 16,
+        "leagueAvg": {
+          "imperial": 5.954,
+          "metric": 9.5815
+        },
+        "overlay": {
+          "gameDate": "2025-11-05",
+          "awayTeam": {
+            "abbrev": "SJS",
+            "score": 6
+          },
+          "homeTeam": {
+            "abbrev": "SEA",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 3.285,
+        "metric": 5.2864,
+        "rank": 17,
+        "leagueAvg": {
+          "imperial": 3.4461,
+          "metric": 5.5457
+        },
+        "overlay": {
+          "gameDate": "2025-11-28",
+          "awayTeam": {
+            "abbrev": "VAN",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "SJS",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 86.1959,
+        "metric": 138.7121,
+        "rank": 12,
+        "leagueAvg": {
+          "imperial": 83.9938,
+          "metric": 135.1683
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.0344,
+        "metric": 12.9295,
+        "rank": 30,
+        "leagueAvg": {
+          "imperial": 8.4685,
+          "metric": 13.6281
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 3.6249,
+        "metric": 5.8334,
+        "rank": 6,
+        "leagueAvg": {
+          "imperial": 3.2616,
+          "metric": 5.2489
+        },
+        "overlay": {
+          "gameDate": "2026-01-31",
+          "awayTeam": {
+            "abbrev": "SJS",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "CGY",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 2.0128,
+        "metric": 3.2391,
+        "rank": 8,
+        "leagueAvg": {
+          "imperial": 1.897,
+          "metric": 3.0528
+        },
+        "overlay": {
+          "gameDate": "2026-01-31",
+          "awayTeam": {
+            "abbrev": "SJS",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "CGY",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 67.8507,
+        "metric": 109.1898,
+        "rank": 19,
+        "leagueAvg": {
+          "imperial": 68.6467,
+          "metric": 110.4708
+        }
+      },
+      "distancePer60": {
+        "imperial": 6.3336,
+        "metric": 10.1925,
+        "rank": 30,
+        "leagueAvg": {
+          "imperial": 6.7645,
+          "metric": 10.8859
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 2.5863,
+        "metric": 4.1621,
+        "rank": 19,
+        "leagueAvg": {
+          "imperial": 2.7144,
+          "metric": 4.3682
+        },
+        "overlay": {
+          "gameDate": "2025-11-05",
+          "awayTeam": {
+            "abbrev": "SJS",
+            "score": 6
+          },
+          "homeTeam": {
+            "abbrev": "SEA",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 1.44,
+        "metric": 2.3173,
+        "rank": 20,
+        "leagueAvg": {
+          "imperial": 1.5696,
+          "metric": 2.5259
+        },
+        "overlay": {
+          "gameDate": "2025-11-28",
+          "awayTeam": {
+            "abbrev": "VAN",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "SJS",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 2322.1362,
+        "metric": 3736.9337,
+        "rank": 32,
+        "leagueAvg": {
+          "imperial": 2493.3579,
+          "metric": 4012.4747
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.2287,
+        "metric": 14.8514,
+        "rank": 29,
+        "leagueAvg": {
+          "imperial": 9.3549,
+          "metric": 15.0546
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 44.104,
+        "metric": 70.975,
+        "rank": 32,
+        "leagueAvg": {
+          "imperial": 46.7321,
+          "metric": 75.2044
+        },
+        "overlay": {
+          "gameDate": "2025-11-02",
+          "awayTeam": {
+            "abbrev": "DET",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "SJS",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 16.551,
+        "metric": 26.6349,
+        "rank": 15,
+        "leagueAvg": {
+          "imperial": 16.4767,
+          "metric": 26.5154
+        },
+        "overlay": {
+          "gameDate": "2025-12-16",
+          "awayTeam": {
+            "abbrev": "CGY",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "SJS",
+            "score": 6
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 1465.108,
+        "metric": 2357.7477,
+        "rank": 32,
+        "leagueAvg": {
+          "imperial": 1574.2733,
+          "metric": 2533.4236
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.6704,
+        "metric": 15.5622,
+        "rank": 30,
+        "leagueAvg": {
+          "imperial": 9.8377,
+          "metric": 15.8314
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 27.7608,
+        "metric": 44.6744,
+        "rank": 32,
+        "leagueAvg": {
+          "imperial": 29.5457,
+          "metric": 47.5469
+        },
+        "overlay": {
+          "gameDate": "2026-01-16",
+          "awayTeam": {
+            "abbrev": "SJS",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "DET",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 10.4755,
+        "metric": 16.8578,
+        "rank": 16,
+        "leagueAvg": {
+          "imperial": 10.4551,
+          "metric": 16.825
+        },
+        "overlay": {
+          "gameDate": "2025-12-16",
+          "awayTeam": {
+            "abbrev": "CGY",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "SJS",
+            "score": 6
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 857.0282,
+        "metric": 1379.1859,
+        "rank": 32,
+        "leagueAvg": {
+          "imperial": 919.0846,
+          "metric": 1479.0511
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.5602,
+        "metric": 13.7757,
+        "rank": 25,
+        "leagueAvg": {
+          "imperial": 8.6296,
+          "metric": 13.8873
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 16.4864,
+        "metric": 26.531,
+        "rank": 30,
+        "leagueAvg": {
+          "imperial": 17.2931,
+          "metric": 27.8291
+        },
+        "overlay": {
+          "gameDate": "2025-11-02",
+          "awayTeam": {
+            "abbrev": "DET",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "SJS",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 6.1903,
+        "metric": 9.9619,
+        "rank": 15,
+        "leagueAvg": {
+          "imperial": 6.1774,
+          "metric": 9.9411
+        },
+        "overlay": {
+          "gameDate": "2026-03-06",
+          "awayTeam": {
+            "abbrev": "STL",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "SJS",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    }
+  ]
+}
