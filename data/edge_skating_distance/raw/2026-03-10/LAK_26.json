@@ -1,0 +1,1473 @@
+{
+  "skatingDistanceLast10": [
+    {
+      "gameCenterLink": "/gamecenter/lak-vs-cbj/2026/03/09/2025020828",
+      "gameDate": "2026-03-09",
+      "isHomeTeam": false,
+      "toiAll": 18021,
+      "distanceSkatedAll": {
+        "imperial": 46.7939,
+        "metric": 75.3074
+      },
+      "toiEven": 14457,
+      "distanceSkatedEven": {
+        "imperial": 39.0057,
+        "metric": 62.7734
+      },
+      "toiPP": 1800,
+      "distanceSkatedPP": {
+        "imperial": 4.1315,
+        "metric": 6.649
+      },
+      "toiPK": 1764,
+      "distanceSkatedPK": {
+        "imperial": 3.6568,
+        "metric": 5.885
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Blue Jackets"
+        },
+        "placeNameWithPreposition": {
+          "default": "Columbus",
+          "fr": "de Columbus"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CBJ_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Kings"
+        },
+        "placeNameWithPreposition": {
+          "default": "Los Angeles",
+          "fr": "de Los Angeles"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/LAK_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/mtl-vs-lak/2026/03/07/2025020997",
+      "gameDate": "2026-03-07",
+      "isHomeTeam": true,
+      "toiAll": 18052,
+      "distanceSkatedAll": {
+        "imperial": 46.9007,
+        "metric": 75.4791
+      },
+      "toiEven": 16128,
+      "distanceSkatedEven": {
+        "imperial": 42.8426,
+        "metric": 68.9483
+      },
+      "toiPP": 1800,
+      "distanceSkatedPP": {
+        "imperial": 3.7964,
+        "metric": 6.1098
+      },
+      "toiPK": 124,
+      "distanceSkatedPK": {
+        "imperial": 0.2616,
+        "metric": 0.4211
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Kings"
+        },
+        "placeNameWithPreposition": {
+          "default": "Los Angeles",
+          "fr": "de Los Angeles"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/LAK_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Canadiens"
+        },
+        "placeNameWithPreposition": {
+          "default": "Montréal",
+          "fr": "de Montréal"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/MTL_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/MTL_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/nyi-vs-lak/2026/03/05/2025020982",
+      "gameDate": "2026-03-05",
+      "isHomeTeam": true,
+      "toiAll": 17640,
+      "distanceSkatedAll": {
+        "imperial": 42.7033,
+        "metric": 68.7241
+      },
+      "toiEven": 14665,
+      "distanceSkatedEven": {
+        "imperial": 36.0187,
+        "metric": 57.9663
+      },
+      "toiPP": 1535,
+      "distanceSkatedPP": {
+        "imperial": 3.5042,
+        "metric": 5.6394
+      },
+      "toiPK": 1440,
+      "distanceSkatedPK": {
+        "imperial": 3.1805,
+        "metric": 5.1184
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Kings"
+        },
+        "placeNameWithPreposition": {
+          "default": "Los Angeles",
+          "fr": "de Los Angeles"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/LAK_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Islanders"
+        },
+        "placeNameWithPreposition": {
+          "default": "New York",
+          "fr": "de New York"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/NYI_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/NYI_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/col-vs-lak/2026/03/02/2025020958",
+      "gameDate": "2026-03-02",
+      "isHomeTeam": true,
+      "toiAll": 17931,
+      "distanceSkatedAll": {
+        "imperial": 46.2226,
+        "metric": 74.3879
+      },
+      "toiEven": 17754,
+      "distanceSkatedEven": {
+        "imperial": 45.8133,
+        "metric": 73.7292
+      },
+      "toiPP": 30,
+      "distanceSkatedPP": {
+        "imperial": 0.0466,
+        "metric": 0.075
+      },
+      "toiPK": 147,
+      "distanceSkatedPK": {
+        "imperial": 0.3628,
+        "metric": 0.5838
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Kings"
+        },
+        "placeNameWithPreposition": {
+          "default": "Los Angeles",
+          "fr": "de Los Angeles"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/LAK_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Avalanche"
+        },
+        "placeNameWithPreposition": {
+          "default": "Colorado",
+          "fr": "du Colorado"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/COL_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/COL_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/cgy-vs-lak/2026/02/28/2025020944",
+      "gameDate": "2026-02-28",
+      "isHomeTeam": true,
+      "toiAll": 18000,
+      "distanceSkatedAll": {
+        "imperial": 46.582,
+        "metric": 74.9663
+      },
+      "toiEven": 18000,
+      "distanceSkatedEven": {
+        "imperial": 46.582,
+        "metric": 74.9663
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Kings"
+        },
+        "placeNameWithPreposition": {
+          "default": "Los Angeles",
+          "fr": "de Los Angeles"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/LAK_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Flames"
+        },
+        "placeNameWithPreposition": {
+          "default": "Calgary",
+          "fr": "de Calgary"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CGY_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CGY_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/edm-vs-lak/2026/02/26/2025020929",
+      "gameDate": "2026-02-26",
+      "isHomeTeam": true,
+      "toiAll": 17840,
+      "distanceSkatedAll": {
+        "imperial": 45.6633,
+        "metric": 73.4878
+      },
+      "toiEven": 16000,
+      "distanceSkatedEven": {
+        "imperial": 41.641,
+        "metric": 67.0145
+      },
+      "toiPP": 1200,
+      "distanceSkatedPP": {
+        "imperial": 2.6738,
+        "metric": 4.3031
+      },
+      "toiPK": 640,
+      "distanceSkatedPK": {
+        "imperial": 1.3485,
+        "metric": 2.1702
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Kings"
+        },
+        "placeNameWithPreposition": {
+          "default": "Los Angeles",
+          "fr": "de Los Angeles"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/LAK_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Oilers"
+        },
+        "placeNameWithPreposition": {
+          "default": "Edmonton",
+          "fr": "d'Edmonton"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/EDM_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/EDM_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/vgk-vs-lak/2026/02/25/2025020916",
+      "gameDate": "2026-02-25",
+      "isHomeTeam": true,
+      "toiAll": 18021,
+      "distanceSkatedAll": {
+        "imperial": 46.9799,
+        "metric": 75.6066
+      },
+      "toiEven": 17145,
+      "distanceSkatedEven": {
+        "imperial": 45.322,
+        "metric": 72.9385
+      },
+      "toiPP": 200,
+      "distanceSkatedPP": {
+        "imperial": 0.2318,
+        "metric": 0.373
+      },
+      "toiPK": 676,
+      "distanceSkatedPK": {
+        "imperial": 1.4261,
+        "metric": 2.2951
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Kings"
+        },
+        "placeNameWithPreposition": {
+          "default": "Los Angeles",
+          "fr": "de Los Angeles"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/LAK_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Golden Knights"
+        },
+        "placeNameWithPreposition": {
+          "default": "Vegas",
+          "fr": "de Vegas"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/VGK_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/lak-vs-vgk/2026/02/05/2025020909",
+      "gameDate": "2026-02-05",
+      "isHomeTeam": false,
+      "toiAll": 17866,
+      "distanceSkatedAll": {
+        "imperial": 45.6815,
+        "metric": 73.517
+      },
+      "toiEven": 14330,
+      "distanceSkatedEven": {
+        "imperial": 37.8886,
+        "metric": 60.9757
+      },
+      "toiPP": 3000,
+      "distanceSkatedPP": {
+        "imperial": 6.5059,
+        "metric": 10.4702
+      },
+      "toiPK": 536,
+      "distanceSkatedPK": {
+        "imperial": 1.2869,
+        "metric": 2.0711
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Golden Knights"
+        },
+        "placeNameWithPreposition": {
+          "default": "Vegas",
+          "fr": "de Vegas"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/VGK_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Kings"
+        },
+        "placeNameWithPreposition": {
+          "default": "Los Angeles",
+          "fr": "de Los Angeles"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/LAK_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/sea-vs-lak/2026/02/04/2025020902",
+      "gameDate": "2026-02-04",
+      "isHomeTeam": true,
+      "toiAll": 17128,
+      "distanceSkatedAll": {
+        "imperial": 43.414,
+        "metric": 69.8679
+      },
+      "toiEven": 13025,
+      "distanceSkatedEven": {
+        "imperial": 33.9918,
+        "metric": 54.7044
+      },
+      "toiPP": 1575,
+      "distanceSkatedPP": {
+        "imperial": 3.1153,
+        "metric": 5.0135
+      },
+      "toiPK": 2528,
+      "distanceSkatedPK": {
+        "imperial": 6.3069,
+        "metric": 10.15
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Kings"
+        },
+        "placeNameWithPreposition": {
+          "default": "Los Angeles",
+          "fr": "de Los Angeles"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/LAK_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Kraken"
+        },
+        "placeNameWithPreposition": {
+          "default": "Seattle",
+          "fr": "de Seattle"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/SEA_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/SEA_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/lak-vs-car/2026/02/01/2025020874",
+      "gameDate": "2026-02-01",
+      "isHomeTeam": false,
+      "toiAll": 17651,
+      "distanceSkatedAll": {
+        "imperial": 45.3141,
+        "metric": 72.9259
+      },
+      "toiEven": 15283,
+      "distanceSkatedEven": {
+        "imperial": 39.3869,
+        "metric": 63.387
+      },
+      "toiPP": 1040,
+      "distanceSkatedPP": {
+        "imperial": 2.8149,
+        "metric": 4.5301
+      },
+      "toiPK": 1328,
+      "distanceSkatedPK": {
+        "imperial": 3.1123,
+        "metric": 5.0088
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Hurricanes"
+        },
+        "placeNameWithPreposition": {
+          "default": "Carolina",
+          "fr": "de la Caroline"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Kings"
+        },
+        "placeNameWithPreposition": {
+          "default": "Los Angeles",
+          "fr": "de Los Angeles"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/LAK_dark.svg"
+        }
+      }
+    }
+  ],
+  "skatingDistanceDetails": [
+    {
+      "strengthCode": "all",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 2827.7571,
+        "metric": 4550.6118,
+        "rank": 26,
+        "leagueAvg": {
+          "imperial": 2871.9965,
+          "metric": 4621.8048
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.0111,
+        "metric": 14.5012,
+        "rank": 30,
+        "leagueAvg": {
+          "imperial": 9.1641,
+          "metric": 14.7475
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 48.7855,
+        "metric": 78.5089,
+        "rank": 23,
+        "leagueAvg": {
+          "imperial": 49.2196,
+          "metric": 79.2074
+        },
+        "overlay": {
+          "gameDate": "2025-11-20",
+          "awayTeam": {
+            "abbrev": "LAK",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "SJS",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 16.3227,
+        "metric": 26.2676,
+        "rank": 28,
+        "leagueAvg": {
+          "imperial": 16.5675,
+          "metric": 26.6615
+        },
+        "overlay": {
+          "gameDate": "2026-02-28",
+          "awayTeam": {
+            "abbrev": "CGY",
+            "score": 0
+          },
+          "homeTeam": {
+            "abbrev": "LAK",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "all",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 1827.8376,
+        "metric": 2941.4759,
+        "rank": 20,
+        "leagueAvg": {
+          "imperial": 1829.6226,
+          "metric": 2944.3485
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.4682,
+        "metric": 15.2369,
+        "rank": 26,
+        "leagueAvg": {
+          "imperial": 9.6027,
+          "metric": 15.4532
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 32.8377,
+        "metric": 52.8445,
+        "rank": 1,
+        "leagueAvg": {
+          "imperial": 31.5576,
+          "metric": 50.7846
+        },
+        "overlay": {
+          "gameDate": "2025-11-20",
+          "awayTeam": {
+            "abbrev": "LAK",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "SJS",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 11.4081,
+        "metric": 18.3587,
+        "rank": 1,
+        "leagueAvg": {
+          "imperial": 10.7481,
+          "metric": 17.2965
+        },
+        "overlay": {
+          "gameDate": "2025-11-17",
+          "awayTeam": {
+            "abbrev": "LAK",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "WSH",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "all",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 999.9195,
+        "metric": 1609.1359,
+        "rank": 31,
+        "leagueAvg": {
+          "imperial": 1042.3739,
+          "metric": 1677.4563
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.2803,
+        "metric": 13.3252,
+        "rank": 29,
+        "leagueAvg": {
+          "imperial": 8.484,
+          "metric": 13.653
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 17.7029,
+        "metric": 28.4887,
+        "rank": 27,
+        "leagueAvg": {
+          "imperial": 18.1828,
+          "metric": 29.261
+        },
+        "overlay": {
+          "gameDate": "2026-01-24",
+          "awayTeam": {
+            "abbrev": "LAK",
+            "score": 5
+          },
+          "homeTeam": {
+            "abbrev": "STL",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 6.0785,
+        "metric": 9.7819,
+        "rank": 25,
+        "leagueAvg": {
+          "imperial": 6.2304,
+          "metric": 10.0264
+        },
+        "overlay": {
+          "gameDate": "2025-11-13",
+          "awayTeam": {
+            "abbrev": "LAK",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "TOR",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 203.812,
+        "metric": 327.9877,
+        "rank": 21,
+        "leagueAvg": {
+          "imperial": 212.7131,
+          "metric": 342.3118
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.0945,
+        "metric": 13.0262,
+        "rank": 29,
+        "leagueAvg": {
+          "imperial": 8.3864,
+          "metric": 13.4959
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 6.82,
+        "metric": 10.9752,
+        "rank": 28,
+        "leagueAvg": {
+          "imperial": 8.1864,
+          "metric": 13.1742
+        },
+        "overlay": {
+          "gameDate": "2026-01-17",
+          "awayTeam": {
+            "abbrev": "LAK",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "ANA",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 5.3845,
+        "metric": 8.665,
+        "rank": 9,
+        "leagueAvg": {
+          "imperial": 4.8328,
+          "metric": 7.7772
+        },
+        "overlay": {
+          "gameDate": "2026-01-17",
+          "awayTeam": {
+            "abbrev": "LAK",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "ANA",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 166.485,
+        "metric": 267.9185,
+        "rank": 12,
+        "leagueAvg": {
+          "imperial": 163.0522,
+          "metric": 262.3943
+        }
+      },
+      "distancePer60": {
+        "imperial": 7.9383,
+        "metric": 12.7748,
+        "rank": 28,
+        "leagueAvg": {
+          "imperial": 8.2612,
+          "metric": 13.2944
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 5.4727,
+        "metric": 8.807,
+        "rank": 27,
+        "leagueAvg": {
+          "imperial": 6.3115,
+          "metric": 10.1569
+        },
+        "overlay": {
+          "gameDate": "2026-01-17",
+          "awayTeam": {
+            "abbrev": "LAK",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "ANA",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 4.3493,
+        "metric": 6.9992,
+        "rank": 5,
+        "leagueAvg": {
+          "imperial": 3.7113,
+          "metric": 5.9726
+        },
+        "overlay": {
+          "gameDate": "2026-01-17",
+          "awayTeam": {
+            "abbrev": "LAK",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "ANA",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 37.3271,
+        "metric": 60.0692,
+        "rank": 30,
+        "leagueAvg": {
+          "imperial": 49.6608,
+          "metric": 79.9175
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.8733,
+        "metric": 14.2795,
+        "rank": 12,
+        "leagueAvg": {
+          "imperial": 8.8255,
+          "metric": 14.2026
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 1.438,
+        "metric": 2.3141,
+        "rank": 29,
+        "leagueAvg": {
+          "imperial": 2.0261,
+          "metric": 3.2606
+        },
+        "overlay": {
+          "gameDate": "2026-02-05",
+          "awayTeam": {
+            "abbrev": "LAK",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "VGK",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 1.0351,
+        "metric": 1.6658,
+        "rank": 25,
+        "leagueAvg": {
+          "imperial": 1.2325,
+          "metric": 1.9835
+        },
+        "overlay": {
+          "gameDate": "2026-01-17",
+          "awayTeam": {
+            "abbrev": "LAK",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "ANA",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 160.8491,
+        "metric": 258.8489,
+        "rank": 10,
+        "leagueAvg": {
+          "imperial": 153.425,
+          "metric": 246.9016
+        }
+      },
+      "distancePer60": {
+        "imperial": 7.894,
+        "metric": 12.7035,
+        "rank": 6,
+        "leagueAvg": {
+          "imperial": 7.6111,
+          "metric": 12.2482
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 6.3069,
+        "metric": 10.1495,
+        "rank": 8,
+        "leagueAvg": {
+          "imperial": 5.954,
+          "metric": 9.5815
+        },
+        "overlay": {
+          "gameDate": "2026-02-04",
+          "awayTeam": {
+            "abbrev": "SEA",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "LAK",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 3.4892,
+        "metric": 5.6151,
+        "rank": 12,
+        "leagueAvg": {
+          "imperial": 3.4461,
+          "metric": 5.5457
+        },
+        "overlay": {
+          "gameDate": "2026-02-04",
+          "awayTeam": {
+            "abbrev": "SEA",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "LAK",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 88.1927,
+        "metric": 141.9254,
+        "rank": 10,
+        "leagueAvg": {
+          "imperial": 84.4267,
+          "metric": 135.8649
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.7471,
+        "metric": 14.0764,
+        "rank": 8,
+        "leagueAvg": {
+          "imperial": 8.4738,
+          "metric": 13.6366
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 3.4353,
+        "metric": 5.5284,
+        "rank": 10,
+        "leagueAvg": {
+          "imperial": 3.2616,
+          "metric": 5.2489
+        },
+        "overlay": {
+          "gameDate": "2026-02-04",
+          "awayTeam": {
+            "abbrev": "SEA",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "LAK",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 1.8924,
+        "metric": 3.0453,
+        "rank": 14,
+        "leagueAvg": {
+          "imperial": 1.897,
+          "metric": 3.0528
+        },
+        "overlay": {
+          "gameDate": "2026-02-04",
+          "awayTeam": {
+            "abbrev": "SEA",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "LAK",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 72.6564,
+        "metric": 116.9234,
+        "rank": 8,
+        "leagueAvg": {
+          "imperial": 68.9983,
+          "metric": 111.0366
+        }
+      },
+      "distancePer60": {
+        "imperial": 7.0584,
+        "metric": 11.3588,
+        "rank": 7,
+        "leagueAvg": {
+          "imperial": 6.768,
+          "metric": 10.8915
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 2.8716,
+        "metric": 4.6211,
+        "rank": 9,
+        "leagueAvg": {
+          "imperial": 2.7144,
+          "metric": 4.3682
+        },
+        "overlay": {
+          "gameDate": "2026-02-04",
+          "awayTeam": {
+            "abbrev": "SEA",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "LAK",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 1.5969,
+        "metric": 2.5698,
+        "rank": 9,
+        "leagueAvg": {
+          "imperial": 1.5696,
+          "metric": 2.5259
+        },
+        "overlay": {
+          "gameDate": "2026-02-04",
+          "awayTeam": {
+            "abbrev": "SEA",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "LAK",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 2463.096,
+        "metric": 3963.7753,
+        "rank": 25,
+        "leagueAvg": {
+          "imperial": 2505.8584,
+          "metric": 4032.5915
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.182,
+        "metric": 14.7763,
+        "rank": 31,
+        "leagueAvg": {
+          "imperial": 9.3546,
+          "metric": 15.054
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 46.582,
+        "metric": 74.9628,
+        "rank": 21,
+        "leagueAvg": {
+          "imperial": 46.7321,
+          "metric": 75.2044
+        },
+        "overlay": {
+          "gameDate": "2026-02-28",
+          "awayTeam": {
+            "abbrev": "CGY",
+            "score": 0
+          },
+          "homeTeam": {
+            "abbrev": "LAK",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 16.3227,
+        "metric": 26.2676,
+        "rank": 25,
+        "leagueAvg": {
+          "imperial": 16.4767,
+          "metric": 26.5154
+        },
+        "overlay": {
+          "gameDate": "2026-02-28",
+          "awayTeam": {
+            "abbrev": "CGY",
+            "score": 0
+          },
+          "homeTeam": {
+            "abbrev": "LAK",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 1573.1599,
+        "metric": 2531.632,
+        "rank": 21,
+        "leagueAvg": {
+          "imperial": 1582.1437,
+          "metric": 2546.0893
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.7112,
+        "metric": 15.6279,
+        "rank": 24,
+        "leagueAvg": {
+          "imperial": 9.8372,
+          "metric": 15.8307
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 29.7401,
+        "metric": 47.8597,
+        "rank": 14,
+        "leagueAvg": {
+          "imperial": 29.5457,
+          "metric": 47.5469
+        },
+        "overlay": {
+          "gameDate": "2026-03-02",
+          "awayTeam": {
+            "abbrev": "COL",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "LAK",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 10.4004,
+        "metric": 16.737,
+        "rank": 21,
+        "leagueAvg": {
+          "imperial": 10.4551,
+          "metric": 16.825
+        },
+        "overlay": {
+          "gameDate": "2026-03-02",
+          "awayTeam": {
+            "abbrev": "COL",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "LAK",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 889.9361,
+        "metric": 1432.1434,
+        "rank": 30,
+        "leagueAvg": {
+          "imperial": 923.7147,
+          "metric": 1486.5022
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.3752,
+        "metric": 13.4779,
+        "rank": 31,
+        "leagueAvg": {
+          "imperial": 8.6295,
+          "metric": 13.8871
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 16.8752,
+        "metric": 27.1566,
+        "rank": 26,
+        "leagueAvg": {
+          "imperial": 17.2931,
+          "metric": 27.8291
+        },
+        "overlay": {
+          "gameDate": "2026-02-28",
+          "awayTeam": {
+            "abbrev": "CGY",
+            "score": 0
+          },
+          "homeTeam": {
+            "abbrev": "LAK",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 6.0785,
+        "metric": 9.7819,
+        "rank": 20,
+        "leagueAvg": {
+          "imperial": 6.1774,
+          "metric": 9.9411
+        },
+        "overlay": {
+          "gameDate": "2025-11-13",
+          "awayTeam": {
+            "abbrev": "LAK",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "TOR",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    }
+  ]
+}
