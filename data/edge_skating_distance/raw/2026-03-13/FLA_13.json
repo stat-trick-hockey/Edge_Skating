@@ -1,0 +1,1476 @@
+{
+  "skatingDistanceLast10": [
+    {
+      "gameCenterLink": "/gamecenter/cbj-vs-fla/2026/03/12/2025021031",
+      "gameDate": "2026-03-12",
+      "isHomeTeam": true,
+      "toiAll": 18272,
+      "distanceSkatedAll": {
+        "imperial": 46.5687,
+        "metric": 74.9449
+      },
+      "toiEven": 16504,
+      "distanceSkatedEven": {
+        "imperial": 42.8014,
+        "metric": 68.882
+      },
+      "toiPP": 808,
+      "distanceSkatedPP": {
+        "imperial": 1.7384,
+        "metric": 2.7977
+      },
+      "toiPK": 960,
+      "distanceSkatedPK": {
+        "imperial": 2.029,
+        "metric": 3.2653
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Panthers"
+        },
+        "placeNameWithPreposition": {
+          "default": "Florida",
+          "fr": "de la Floride"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/FLA_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Blue Jackets"
+        },
+        "placeNameWithPreposition": {
+          "default": "Columbus",
+          "fr": "de Columbus"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CBJ_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/det-vs-fla/2026/03/10/2025021016",
+      "gameDate": "2026-03-10",
+      "isHomeTeam": true,
+      "toiAll": 17800,
+      "distanceSkatedAll": {
+        "imperial": 46.5148,
+        "metric": 74.8581
+      },
+      "toiEven": 15598,
+      "distanceSkatedEven": {
+        "imperial": 41.535,
+        "metric": 66.844
+      },
+      "toiPP": 1490,
+      "distanceSkatedPP": {
+        "imperial": 3.3153,
+        "metric": 5.3354
+      },
+      "toiPK": 712,
+      "distanceSkatedPK": {
+        "imperial": 1.6645,
+        "metric": 2.6787
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Panthers"
+        },
+        "placeNameWithPreposition": {
+          "default": "Florida",
+          "fr": "de la Floride"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/FLA_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Red Wings"
+        },
+        "placeNameWithPreposition": {
+          "default": "Detroit",
+          "fr": "de Detroit"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/DET_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/DET_dark.svg?season=20252026"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/fla-vs-det/2026/03/06/2025020983",
+      "gameDate": "2026-03-06",
+      "isHomeTeam": false,
+      "toiAll": 17582,
+      "distanceSkatedAll": {
+        "imperial": 45.0716,
+        "metric": 72.5355
+      },
+      "toiEven": 14380,
+      "distanceSkatedEven": {
+        "imperial": 37.5525,
+        "metric": 60.4348
+      },
+      "toiPP": 1670,
+      "distanceSkatedPP": {
+        "imperial": 4.2216,
+        "metric": 6.794
+      },
+      "toiPK": 1532,
+      "distanceSkatedPK": {
+        "imperial": 3.2975,
+        "metric": 5.3068
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Red Wings"
+        },
+        "placeNameWithPreposition": {
+          "default": "Detroit",
+          "fr": "de Detroit"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/DET_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/DET_dark.svg?season=20252026"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Panthers"
+        },
+        "placeNameWithPreposition": {
+          "default": "Florida",
+          "fr": "de la Floride"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/FLA_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/fla-vs-cbj/2026/03/05/2025020978",
+      "gameDate": "2026-03-05",
+      "isHomeTeam": false,
+      "toiAll": 17736,
+      "distanceSkatedAll": {
+        "imperial": 45.6096,
+        "metric": 73.4014
+      },
+      "toiEven": 15026,
+      "distanceSkatedEven": {
+        "imperial": 39.972,
+        "metric": 64.3286
+      },
+      "toiPP": 1414,
+      "distanceSkatedPP": {
+        "imperial": 2.8885,
+        "metric": 4.6486
+      },
+      "toiPK": 1296,
+      "distanceSkatedPK": {
+        "imperial": 2.7491,
+        "metric": 4.4243
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Blue Jackets"
+        },
+        "placeNameWithPreposition": {
+          "default": "Columbus",
+          "fr": "de Columbus"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CBJ_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Panthers"
+        },
+        "placeNameWithPreposition": {
+          "default": "Florida",
+          "fr": "de la Floride"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/FLA_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/fla-vs-njd/2026/03/03/2025020961",
+      "gameDate": "2026-03-03",
+      "isHomeTeam": false,
+      "toiAll": 17657,
+      "distanceSkatedAll": {
+        "imperial": 45.6279,
+        "metric": 73.4308
+      },
+      "toiEven": 15497,
+      "distanceSkatedEven": {
+        "imperial": 40.6802,
+        "metric": 65.4683
+      },
+      "toiPP": 1200,
+      "distanceSkatedPP": {
+        "imperial": 2.7195,
+        "metric": 4.3766
+      },
+      "toiPK": 960,
+      "distanceSkatedPK": {
+        "imperial": 2.2282,
+        "metric": 3.5859
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Devils"
+        },
+        "placeNameWithPreposition": {
+          "default": "New Jersey",
+          "fr": "du New Jersey"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/NJD_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Panthers"
+        },
+        "placeNameWithPreposition": {
+          "default": "Florida",
+          "fr": "de la Floride"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/FLA_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/fla-vs-nyi/2026/03/01/2025020948",
+      "gameDate": "2026-03-01",
+      "isHomeTeam": false,
+      "toiAll": 17934,
+      "distanceSkatedAll": {
+        "imperial": 46.7252,
+        "metric": 75.1967
+      },
+      "toiEven": 17088,
+      "distanceSkatedEven": {
+        "imperial": 44.6462,
+        "metric": 71.8509
+      },
+      "toiPP": 750,
+      "distanceSkatedPP": {
+        "imperial": 1.8756,
+        "metric": 3.0185
+      },
+      "toiPK": 96,
+      "distanceSkatedPK": {
+        "imperial": 0.2034,
+        "metric": 0.3273
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Islanders"
+        },
+        "placeNameWithPreposition": {
+          "default": "New York",
+          "fr": "de New York"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/NYI_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/NYI_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Panthers"
+        },
+        "placeNameWithPreposition": {
+          "default": "Florida",
+          "fr": "de la Floride"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/FLA_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/buf-vs-fla/2026/02/27/2025020930",
+      "gameDate": "2026-02-27",
+      "isHomeTeam": true,
+      "toiAll": 17764,
+      "distanceSkatedAll": {
+        "imperial": 45.6395,
+        "metric": 73.4494
+      },
+      "toiEven": 14530,
+      "distanceSkatedEven": {
+        "imperial": 38.2015,
+        "metric": 61.4792
+      },
+      "toiPP": 1830,
+      "distanceSkatedPP": {
+        "imperial": 4.2293,
+        "metric": 6.8064
+      },
+      "toiPK": 1404,
+      "distanceSkatedPK": {
+        "imperial": 3.2087,
+        "metric": 5.1639
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Panthers"
+        },
+        "placeNameWithPreposition": {
+          "default": "Florida",
+          "fr": "de la Floride"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/FLA_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Sabres"
+        },
+        "placeNameWithPreposition": {
+          "default": "Buffalo",
+          "fr": "de Buffalo"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/BUF_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/BUF_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/tor-vs-fla/2026/02/26/2025020921",
+      "gameDate": "2026-02-26",
+      "isHomeTeam": true,
+      "toiAll": 17642,
+      "distanceSkatedAll": {
+        "imperial": 45.8177,
+        "metric": 73.7363
+      },
+      "toiEven": 14530,
+      "distanceSkatedEven": {
+        "imperial": 38.2666,
+        "metric": 61.584
+      },
+      "toiPP": 1680,
+      "distanceSkatedPP": {
+        "imperial": 4.5614,
+        "metric": 7.3408
+      },
+      "toiPK": 1432,
+      "distanceSkatedPK": {
+        "imperial": 2.9898,
+        "metric": 4.8115
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Panthers"
+        },
+        "placeNameWithPreposition": {
+          "default": "Florida",
+          "fr": "de la Floride"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/FLA_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Maple Leafs"
+        },
+        "placeNameWithPreposition": {
+          "default": "Toronto",
+          "fr": "de Toronto"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/TOR_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/TOR_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/fla-vs-tbl/2026/02/05/2025020904",
+      "gameDate": "2026-02-05",
+      "isHomeTeam": false,
+      "toiAll": 17576,
+      "distanceSkatedAll": {
+        "imperial": 45.0058,
+        "metric": 72.4296
+      },
+      "toiEven": 12960,
+      "distanceSkatedEven": {
+        "imperial": 34.1224,
+        "metric": 54.9145
+      },
+      "toiPP": 3480,
+      "distanceSkatedPP": {
+        "imperial": 8.8215,
+        "metric": 14.1968
+      },
+      "toiPK": 1136,
+      "distanceSkatedPK": {
+        "imperial": 2.0619,
+        "metric": 3.3183
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Lightning"
+        },
+        "placeNameWithPreposition": {
+          "default": "Tampa Bay",
+          "fr": "de Tampa Bay"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/TBL_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/TBL_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Panthers"
+        },
+        "placeNameWithPreposition": {
+          "default": "Florida",
+          "fr": "de la Floride"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/FLA_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/bos-vs-fla/2026/02/04/2025020893",
+      "gameDate": "2026-02-04",
+      "isHomeTeam": true,
+      "toiAll": 18171,
+      "distanceSkatedAll": {
+        "imperial": 46.7979,
+        "metric": 75.3138
+      },
+      "toiEven": 14415,
+      "distanceSkatedEven": {
+        "imperial": 38.6613,
+        "metric": 62.2192
+      },
+      "toiPP": 875,
+      "distanceSkatedPP": {
+        "imperial": 1.921,
+        "metric": 3.0915
+      },
+      "toiPK": 2881,
+      "distanceSkatedPK": {
+        "imperial": 6.2156,
+        "metric": 10.003
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Panthers"
+        },
+        "placeNameWithPreposition": {
+          "default": "Florida",
+          "fr": "de la Floride"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/FLA_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Bruins"
+        },
+        "placeNameWithPreposition": {
+          "default": "Boston",
+          "fr": "de Boston"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/BOS_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/BOS_dark.svg?season=20252026"
+        }
+      }
+    }
+  ],
+  "skatingDistanceDetails": [
+    {
+      "strengthCode": "all",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 3000.4955,
+        "metric": 4828.5938,
+        "rank": 7,
+        "leagueAvg": {
+          "imperial": 2954.6023,
+          "metric": 4754.7394
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.3572,
+        "metric": 15.0582,
+        "rank": 2,
+        "leagueAvg": {
+          "imperial": 9.1641,
+          "metric": 14.7475
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 50.1689,
+        "metric": 80.735,
+        "rank": 3,
+        "leagueAvg": {
+          "imperial": 49.2571,
+          "metric": 79.2677
+        },
+        "overlay": {
+          "gameDate": "2025-12-19",
+          "awayTeam": {
+            "abbrev": "CAR",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "FLA",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 16.645,
+        "metric": 26.7861,
+        "rank": 12,
+        "leagueAvg": {
+          "imperial": 16.5826,
+          "metric": 26.6859
+        },
+        "overlay": {
+          "gameDate": "2025-12-13",
+          "awayTeam": {
+            "abbrev": "FLA",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "DAL",
+            "score": 0
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "all",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 1915.223,
+        "metric": 3082.1023,
+        "rank": 5,
+        "leagueAvg": {
+          "imperial": 1882.1523,
+          "metric": 3028.8827
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.7965,
+        "metric": 15.7651,
+        "rank": 3,
+        "leagueAvg": {
+          "imperial": 9.6026,
+          "metric": 15.4531
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 32.2894,
+        "metric": 51.9622,
+        "rank": 7,
+        "leagueAvg": {
+          "imperial": 31.558,
+          "metric": 50.7851
+        },
+        "overlay": {
+          "gameDate": "2025-12-19",
+          "awayTeam": {
+            "abbrev": "CAR",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "FLA",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 11.0996,
+        "metric": 17.8622,
+        "rank": 2,
+        "leagueAvg": {
+          "imperial": 10.7553,
+          "metric": 17.3081
+        },
+        "overlay": {
+          "gameDate": "2025-10-23",
+          "awayTeam": {
+            "abbrev": "PIT",
+            "score": 5
+          },
+          "homeTeam": {
+            "abbrev": "FLA",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "all",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 1085.2725,
+        "metric": 1746.4915,
+        "rank": 11,
+        "leagueAvg": {
+          "imperial": 1072.45,
+          "metric": 1725.8567
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.671,
+        "metric": 13.9539,
+        "rank": 3,
+        "leagueAvg": {
+          "imperial": 8.4843,
+          "metric": 13.6535
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 18.1577,
+        "metric": 29.2206,
+        "rank": 16,
+        "leagueAvg": {
+          "imperial": 18.2061,
+          "metric": 29.2985
+        },
+        "overlay": {
+          "gameDate": "2026-01-22",
+          "awayTeam": {
+            "abbrev": "FLA",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "WPG",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 6.3246,
+        "metric": 10.178,
+        "rank": 6,
+        "leagueAvg": {
+          "imperial": 6.2372,
+          "metric": 10.0373
+        },
+        "overlay": {
+          "gameDate": "2025-12-13",
+          "awayTeam": {
+            "abbrev": "FLA",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "DAL",
+            "score": 0
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 281.356,
+        "metric": 452.7765,
+        "rank": 1,
+        "leagueAvg": {
+          "imperial": 218.0448,
+          "metric": 350.892
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.888,
+        "metric": 14.3032,
+        "rank": 1,
+        "leagueAvg": {
+          "imperial": 8.381,
+          "metric": 13.4873
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 10.7239,
+        "metric": 17.2576,
+        "rank": 3,
+        "leagueAvg": {
+          "imperial": 8.2388,
+          "metric": 13.2585
+        },
+        "overlay": {
+          "gameDate": "2025-12-27",
+          "awayTeam": {
+            "abbrev": "TBL",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "FLA",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 6.7719,
+        "metric": 10.8978,
+        "rank": 1,
+        "leagueAvg": {
+          "imperial": 4.8328,
+          "metric": 7.7772
+        },
+        "overlay": {
+          "gameDate": "2025-12-27",
+          "awayTeam": {
+            "abbrev": "TBL",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "FLA",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 213.9732,
+        "metric": 344.3397,
+        "rank": 1,
+        "leagueAvg": {
+          "imperial": 167.1481,
+          "metric": 268.9857
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.9183,
+        "metric": 14.352,
+        "rank": 1,
+        "leagueAvg": {
+          "imperial": 8.2555,
+          "metric": 13.2852
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 8.0801,
+        "metric": 13.0031,
+        "rank": 3,
+        "leagueAvg": {
+          "imperial": 6.3419,
+          "metric": 10.2058
+        },
+        "overlay": {
+          "gameDate": "2025-12-27",
+          "awayTeam": {
+            "abbrev": "TBL",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "FLA",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 5.0316,
+        "metric": 8.0972,
+        "rank": 2,
+        "leagueAvg": {
+          "imperial": 3.7113,
+          "metric": 5.9726
+        },
+        "overlay": {
+          "gameDate": "2025-12-27",
+          "awayTeam": {
+            "abbrev": "TBL",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "FLA",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 67.3828,
+        "metric": 108.4368,
+        "rank": 1,
+        "leagueAvg": {
+          "imperial": 50.8967,
+          "metric": 81.9062
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.7932,
+        "metric": 14.1506,
+        "rank": 20,
+        "leagueAvg": {
+          "imperial": 8.8218,
+          "metric": 14.1966
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 2.6438,
+        "metric": 4.2545,
+        "rank": 3,
+        "leagueAvg": {
+          "imperial": 2.0456,
+          "metric": 3.2919
+        },
+        "overlay": {
+          "gameDate": "2025-12-27",
+          "awayTeam": {
+            "abbrev": "TBL",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "FLA",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 1.7403,
+        "metric": 2.8006,
+        "rank": 3,
+        "leagueAvg": {
+          "imperial": 1.2345,
+          "metric": 1.9866
+        },
+        "overlay": {
+          "gameDate": "2025-12-27",
+          "awayTeam": {
+            "abbrev": "TBL",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "FLA",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 187.064,
+        "metric": 301.0356,
+        "rank": 2,
+        "leagueAvg": {
+          "imperial": 157.2775,
+          "metric": 253.1013
+        }
+      },
+      "distancePer60": {
+        "imperial": 7.948,
+        "metric": 12.7905,
+        "rank": 3,
+        "leagueAvg": {
+          "imperial": 7.6071,
+          "metric": 12.2418
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 6.2156,
+        "metric": 10.0025,
+        "rank": 9,
+        "leagueAvg": {
+          "imperial": 5.954,
+          "metric": 9.5815
+        },
+        "overlay": {
+          "gameDate": "2026-02-04",
+          "awayTeam": {
+            "abbrev": "BOS",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "FLA",
+            "score": 5
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 3.2808,
+        "metric": 5.2796,
+        "rank": 18,
+        "leagueAvg": {
+          "imperial": 3.4461,
+          "metric": 5.5457
+        },
+        "overlay": {
+          "gameDate": "2025-11-15",
+          "awayTeam": {
+            "abbrev": "TBL",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "FLA",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 101.4085,
+        "metric": 163.1933,
+        "rank": 1,
+        "leagueAvg": {
+          "imperial": 86.5429,
+          "metric": 139.2705
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.7139,
+        "metric": 14.0231,
+        "rank": 10,
+        "leagueAvg": {
+          "imperial": 8.4706,
+          "metric": 13.6314
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 3.4872,
+        "metric": 5.6119,
+        "rank": 8,
+        "leagueAvg": {
+          "imperial": 3.2616,
+          "metric": 5.2489
+        },
+        "overlay": {
+          "gameDate": "2026-02-04",
+          "awayTeam": {
+            "abbrev": "BOS",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "FLA",
+            "score": 5
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 1.8635,
+        "metric": 2.9988,
+        "rank": 16,
+        "leagueAvg": {
+          "imperial": 1.897,
+          "metric": 3.0528
+        },
+        "overlay": {
+          "gameDate": "2025-11-15",
+          "awayTeam": {
+            "abbrev": "TBL",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "FLA",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 85.6554,
+        "metric": 137.8423,
+        "rank": 2,
+        "leagueAvg": {
+          "imperial": 70.7347,
+          "metric": 113.8308
+        }
+      },
+      "distancePer60": {
+        "imperial": 7.1989,
+        "metric": 11.585,
+        "rank": 2,
+        "leagueAvg": {
+          "imperial": 6.7635,
+          "metric": 10.8843
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 2.7284,
+        "metric": 4.3907,
+        "rank": 13,
+        "leagueAvg": {
+          "imperial": 2.7144,
+          "metric": 4.3682
+        },
+        "overlay": {
+          "gameDate": "2026-02-04",
+          "awayTeam": {
+            "abbrev": "BOS",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "FLA",
+            "score": 5
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 1.4565,
+        "metric": 2.3439,
+        "rank": 18,
+        "leagueAvg": {
+          "imperial": 1.5696,
+          "metric": 2.5259
+        },
+        "overlay": {
+          "gameDate": "2026-01-04",
+          "awayTeam": {
+            "abbrev": "COL",
+            "score": 1
+          },
+          "homeTeam": {
+            "abbrev": "FLA",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 2532.0755,
+        "metric": 4074.7816,
+        "rank": 27,
+        "leagueAvg": {
+          "imperial": 2579.2799,
+          "metric": 4150.7461
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.538,
+        "metric": 15.3492,
+        "rank": 2,
+        "leagueAvg": {
+          "imperial": 9.3548,
+          "metric": 15.0543
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 46.8876,
+        "metric": 75.4546,
+        "rank": 16,
+        "leagueAvg": {
+          "imperial": 46.7884,
+          "metric": 75.295
+        },
+        "overlay": {
+          "gameDate": "2026-01-22",
+          "awayTeam": {
+            "abbrev": "FLA",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "WPG",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 16.5588,
+        "metric": 26.6475,
+        "rank": 15,
+        "leagueAvg": {
+          "imperial": 16.4956,
+          "metric": 26.5458
+        },
+        "overlay": {
+          "gameDate": "2026-02-02",
+          "awayTeam": {
+            "abbrev": "BUF",
+            "score": 5
+          },
+          "homeTeam": {
+            "abbrev": "FLA",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 1599.8413,
+        "metric": 2574.5693,
+        "rank": 26,
+        "leagueAvg": {
+          "imperial": 1628.4613,
+          "metric": 2620.6265
+        }
+      },
+      "distancePer60": {
+        "imperial": 10.007,
+        "metric": 16.104,
+        "rank": 4,
+        "leagueAvg": {
+          "imperial": 9.8372,
+          "metric": 15.8306
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 29.7361,
+        "metric": 47.8532,
+        "rank": 15,
+        "leagueAvg": {
+          "imperial": 29.5739,
+          "metric": 47.5923
+        },
+        "overlay": {
+          "gameDate": "2025-12-19",
+          "awayTeam": {
+            "abbrev": "CAR",
+            "score": 3
+          },
+          "homeTeam": {
+            "abbrev": "FLA",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 10.5822,
+        "metric": 17.0296,
+        "rank": 7,
+        "leagueAvg": {
+          "imperial": 10.4577,
+          "metric": 16.8293
+        },
+        "overlay": {
+          "gameDate": "2025-10-23",
+          "awayTeam": {
+            "abbrev": "PIT",
+            "score": 5
+          },
+          "homeTeam": {
+            "abbrev": "FLA",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 932.2342,
+        "metric": 1500.2124,
+        "rank": 25,
+        "leagueAvg": {
+          "imperial": 950.8186,
+          "metric": 1530.1196
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.828,
+        "metric": 14.2066,
+        "rank": 3,
+        "leagueAvg": {
+          "imperial": 8.63,
+          "metric": 13.888
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 17.329,
+        "metric": 27.887,
+        "rank": 16,
+        "leagueAvg": {
+          "imperial": 17.3453,
+          "metric": 27.9132
+        },
+        "overlay": {
+          "gameDate": "2026-01-22",
+          "awayTeam": {
+            "abbrev": "FLA",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "WPG",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 6.1402,
+        "metric": 9.8812,
+        "rank": 18,
+        "leagueAvg": {
+          "imperial": 6.1819,
+          "metric": 9.9483
+        },
+        "overlay": {
+          "gameDate": "2025-12-20",
+          "awayTeam": {
+            "abbrev": "STL",
+            "score": 6
+          },
+          "homeTeam": {
+            "abbrev": "FLA",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    }
+  ]
+}
