@@ -304,15 +304,24 @@ def movers_for_metric(teams, metrics_by_team, metric_key):
         rows.append((t.abbrev, mv.older_km_per60, mv.recent_km_per60, mv.delta_per60 or 0.0, mv.pct_per60))
     return sorted(rows, key=lambda x: x[4], reverse=True)[:10], sorted(rows, key=lambda x: x[4])[:10]
 
-def movers_table(rows) -> str:
+def movers_table(rows, rank_deltas: Dict[str, int] = None) -> str:
     if not rows: return "<p class='muted'>Not available today.</p>"
+    if rank_deltas is None:
+        rank_deltas = {}
     trs = []
     for team, old, rec, d, p in rows:
         dc = "pos" if d > 0 else ("neg" if d < 0 else "")
         pc = "pos" if p > 0 else ("neg" if p < 0 else "")
         arrow = _arrow(d)
+        rd = rank_deltas.get(team)
+        if rd is not None and rd != 0:
+            badge_cls = "rank-up" if rd > 0 else "rank-dn"
+            badge_arrow = "▲" if rd > 0 else "▼"
+            rank_badge = f"<span class='{badge_cls}'>{badge_arrow}{abs(rd)}</span>"
+        else:
+            rank_badge = ""
         trs.append(
-            f"<tr><td class='team-cell'>{_escape(team)}</td>"
+            f"<tr><td class='team-cell'>{_escape(team)}{rank_badge}</td>"
             f"<td class='bars-cell'>{_mini_bars(old, rec)}</td>"
             f"<td class='num {dc}'>{arrow}{_fmt_signed(d)}</td>"
             f"<td class='num {pc}'>{_fmt_pct(p)}</td></tr>"
@@ -474,14 +483,14 @@ def make_html_tight(run_date, teams, metrics_by_team, rank_deltas: Dict[str, int
   </div>
 
   <div class="grid two">
-    <div class="card"><div class="sub" style="margin-bottom:10px;"><b>Top 10 ↑</b> — All Situations</div>{movers_table(all_up)}</div>
-    <div class="card"><div class="sub" style="margin-bottom:10px;"><b>Top 10 ↓</b> — All Situations</div>{movers_table(all_dn)}</div>
+    <div class="card"><div class="sub" style="margin-bottom:10px;"><b>Top 10 ↑</b> — All Situations</div>{movers_table(all_up, rank_deltas)}</div>
+    <div class="card"><div class="sub" style="margin-bottom:10px;"><b>Top 10 ↓</b> — All Situations</div>{movers_table(all_dn, rank_deltas)}</div>
   </div>
   <div class="grid two">
-    <div class="card"><div class="sub" style="margin-bottom:10px;"><b>Top 10 ↑</b> — Power Play</div>{movers_table(pp_up)}</div>
-    <div class="card"><div class="sub" style="margin-bottom:10px;"><b>Top 10 ↓</b> — Power Play</div>{movers_table(pp_dn)}</div>
-    <div class="card"><div class="sub" style="margin-bottom:10px;"><b>Top 10 ↑</b> — Penalty Kill</div>{movers_table(pk_up)}</div>
-    <div class="card"><div class="sub" style="margin-bottom:10px;"><b>Top 10 ↓</b> — Penalty Kill</div>{movers_table(pk_dn)}</div>
+    <div class="card"><div class="sub" style="margin-bottom:10px;"><b>Top 10 ↑</b> — Power Play</div>{movers_table(pp_up, rank_deltas)}</div>
+    <div class="card"><div class="sub" style="margin-bottom:10px;"><b>Top 10 ↓</b> — Power Play</div>{movers_table(pp_dn, rank_deltas)}</div>
+    <div class="card"><div class="sub" style="margin-bottom:10px;"><b>Top 10 ↑</b> — Penalty Kill</div>{movers_table(pk_up, rank_deltas)}</div>
+    <div class="card"><div class="sub" style="margin-bottom:10px;"><b>Top 10 ↓</b> — Penalty Kill</div>{movers_table(pk_dn, rank_deltas)}</div>
   </div>
 
   <div class="card">
