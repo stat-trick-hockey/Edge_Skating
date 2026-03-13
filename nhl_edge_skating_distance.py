@@ -94,6 +94,46 @@ METRIC_SPECS = [
 ]
 
 
+# ── Yesterday rank lookup ────────────────────────────────────────────────────
+
+def load_yesterday_ranks(outdir: str, run_date: str) -> Dict[str, int]:
+    """
+    Load yesterday's wide CSV and return a dict of {team_abbrev: rank}
+    ranked by All Situations km/60 (rank 1 = highest pace).
+    Returns empty dict if yesterday's file doesn't exist.
+    """
+    today = dt.date.fromisoformat(run_date)
+    yesterday = (today - dt.timedelta(days=1)).isoformat()
+    csv_path = os.path.join(outdir, f"team_skating_distance_detail_wide_{yesterday}.csv")
+    if not os.path.exists(csv_path):
+        return {}
+    try:
+        df = pd.read_csv(csv_path)
+        # The All Situations G1-5 pace isn't stored directly in the wide CSV —
+        # we stored raw sums. Re-derive it from distanceSkatedAll.metric and toiAll
+        # across the last10 games. Since the wide CSV flattens array fields as
+        # skatingDistanceLast10[0].distanceSkatedAll.metric etc., we sum those.
+        dist_cols = [c for c in df.columns
+                     if c.startswith("skatingDistanceLast10[") and "distanceSkatedAll.metric" in c]
+        toi_cols  = [c for c in df.columns
+                     if c.startswith("skatingDistanceLast10[") and c.endswith("].toiAll")]
+        # Limit to G1-5 (indices 0-4)
+        g15_dist = [c for c in dist_cols if any(f"[{i}]" in c for i in range(5))]
+        g15_toi  = [c for c in toi_cols  if any(f"[{i}]" in c for i in range(5))]
+        if not g15_dist or not g15_toi:
+            return {}
+        df["_dist"] = df[g15_dist].sum(axis=1)
+        df["_toi"]  = df[g15_toi].sum(axis=1)
+        df["_pace"] = df.apply(
+            lambda r: r["_dist"] / (r["_toi"] / 3600.0) if r["_toi"] > 0 else None, axis=1
+        )
+        df = df.dropna(subset=["_pace"]).sort_values("_pace", ascending=False).reset_index(drop=True)
+        return {row["team"]: int(idx + 1) for idx, row in df.iterrows()}
+    except Exception as e:
+        print(f"Warning: could not load yesterday ranks from {csv_path}: {e}", file=sys.stderr)
+        return {}
+
+
 # ── HTTP + IO ────────────────────────────────────────────────────────────────
 
 def safe_mkdir(path: str) -> None:
@@ -204,6 +244,13 @@ def _fmt_pct(x: Any, d: int = 1) -> str:
     try: return f"{float(x):+,.{d}f}%"
     except: return _escape(x)
 
+def _arrow(d: Optional[float]) -> str:
+    """Return a green ▲ or red ▼ arrow span based on sign of delta, or empty string."""
+    if d is None: return ""
+    if d > 0: return "<span class='pos'>&#9650;</span> "
+    if d < 0: return "<span class='neg'>&#9660;</span> "
+    return ""
+
 def _mini_bars(older: Optional[float], recent: Optional[float]) -> str:
     """
     Two proportional bars scaled to show divergence, not absolute values.
@@ -263,10 +310,11 @@ def movers_table(rows) -> str:
     for team, old, rec, d, p in rows:
         dc = "pos" if d > 0 else ("neg" if d < 0 else "")
         pc = "pos" if p > 0 else ("neg" if p < 0 else "")
+        arrow = _arrow(d)
         trs.append(
             f"<tr><td class='team-cell'>{_escape(team)}</td>"
             f"<td class='bars-cell'>{_mini_bars(old, rec)}</td>"
-            f"<td class='num {dc}'>{_fmt_signed(d)}</td>"
+            f"<td class='num {dc}'>{arrow}{_fmt_signed(d)}</td>"
             f"<td class='num {pc}'>{_fmt_pct(p)}</td></tr>"
         )
     return (
@@ -278,8 +326,10 @@ def movers_table(rows) -> str:
 
 # ── HTML page ────────────────────────────────────────────────────────────────
 
-def make_html_tight(run_date, teams, metrics_by_team,
+def make_html_tight(run_date, teams, metrics_by_team, rank_deltas: Dict[str, int] = None,
                     title="NHL EDGE — Team Skating Distance (Tight View)") -> str:
+    if rank_deltas is None:
+        rank_deltas = {}
     keys   = [m["key"]   for m in METRIC_SPECS]
     labels = {m["key"]: m["label"] for m in METRIC_SPECS}
     descs  = {m["key"]: m["desc"]  for m in METRIC_SPECS}
@@ -292,11 +342,12 @@ def make_html_tight(run_date, teams, metrics_by_team,
         d, p = mv.delta_per60, mv.pct_per60
         dc = "pos" if (d is not None and d > 0) else ("neg" if (d is not None and d < 0) else "")
         pc = "pos" if (p is not None and p > 0) else ("neg" if (p is not None and p < 0) else "")
+        arrow = _arrow(d)
         return (
             "<div class='cellblock'>"
             f"{_mini_bars(mv.older_km_per60, mv.recent_km_per60)}"
             f"<div class='delta-row'><span class='k'>Δ</span> "
-            f"<span class='num {dc}'>{_fmt_signed(d)}</span>"
+            f"<span class='num {dc}'>{arrow}{_fmt_signed(d)}</span>"
             f"<span class='sep'>&nbsp;|&nbsp;</span>"
             f"<span class='k'>%</span> <span class='num {pc}'>{_fmt_pct(p)}</span></div>"
             f"<div class='pg muted'>G1-5: {mv.recent_n} gms &nbsp;·&nbsp; G6-10: {mv.older_n} gms</div>"
@@ -306,7 +357,14 @@ def make_html_tight(run_date, teams, metrics_by_team,
     body_rows = []
     for t in teams:
         tm = metrics_by_team.get(t.abbrev, {})
-        tds = [f"<td class='teamcell'><div class='teamabbr'>{_escape(t.abbrev)}</div>"
+        delta = rank_deltas.get(t.abbrev)
+        if delta is not None and delta != 0:
+            badge_cls = "rank-up" if delta > 0 else "rank-dn"
+            badge_arrow = "▲" if delta > 0 else "▼"
+            badge = f"<span class='{badge_cls}'>{badge_arrow}{abs(delta)}</span>"
+        else:
+            badge = ""
+        tds = [f"<td class='teamcell'><div class='teamabbr'>{_escape(t.abbrev)}{badge}</div>"
                f"<div class='teamname muted'>{_escape(t.name)}</div></td>"]
         for k in keys:
             mv = tm.get(k)
@@ -386,6 +444,9 @@ def make_html_tight(run_date, teams, metrics_by_team,
     .delta-row .k   {{ color:var(--muted); min-width:10px; }}
     .delta-row .sep {{ color:rgba(255,255,255,.2); }}
     .cellblock .pg  {{ margin-top:5px; }}
+    /* rank delta badges */
+    .rank-up {{ font-size:10px; font-weight:700; color:var(--pos); margin-left:5px; letter-spacing:0; }}
+    .rank-dn {{ font-size:10px; font-weight:700; color:var(--neg); margin-left:5px; letter-spacing:0; }}
     /* movers */
     table.movers th, table.movers td {{ padding:7px 8px; }}
     table.movers td.team-cell {{ font-weight:700; min-width:36px; }}
@@ -471,6 +532,9 @@ def main() -> int:
 
     teams = sorted([Team(t["id"], t["abbrev"], t["name"]) for t in NHL_TEAMS], key=lambda t: t.abbrev)
 
+    # Load yesterday's ranks for All Situations comparison
+    yesterday_ranks = load_yesterday_ranks(args.outdir, run_date)
+
     wide_rows: List[Dict[str, Any]] = []
     long_rows: List[Dict[str, Any]] = []
     metrics_by_team: Dict[str, Dict[str, MetricValue]] = {}
@@ -499,7 +563,26 @@ def main() -> int:
     df_w.to_csv(os.path.join(args.outdir, "latest_wide.csv"), index=False)
     df_l.to_csv(os.path.join(args.outdir, "latest_long.csv"), index=False)
 
-    html_doc = make_html_tight(run_date, teams, metrics_by_team)
+    # Compute today's All Situations rank (rank 1 = highest pace)
+    today_pace = []
+    for t in teams:
+        mv = metrics_by_team.get(t.abbrev, {}).get("all")
+        pace = mv.recent_km_per60 if mv else None
+        today_pace.append((t.abbrev, pace))
+    today_pace_sorted = sorted(
+        [(abbr, p) for abbr, p in today_pace if p is not None],
+        key=lambda x: x[1], reverse=True
+    )
+    today_ranks = {abbr: idx + 1 for idx, (abbr, _) in enumerate(today_pace_sorted)}
+
+    # rank_delta: positive = moved UP (e.g. was 5th yesterday, 3rd today → +2)
+    rank_deltas: Dict[str, int] = {}
+    if yesterday_ranks:
+        for abbr, today_rank in today_ranks.items():
+            if abbr in yesterday_ranks:
+                rank_deltas[abbr] = yesterday_ranks[abbr] - today_rank
+
+    html_doc = make_html_tight(run_date, teams, metrics_by_team, rank_deltas=rank_deltas)
     lat  = os.path.join(args.docsdir, "latest.html")
     arch = os.path.join(arch_dir, f"{run_date}.html")
     for p in [lat, arch]:
