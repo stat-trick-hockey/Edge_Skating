@@ -1,0 +1,1474 @@
+{
+  "skatingDistanceLast10": [
+    {
+      "gameCenterLink": "/gamecenter/edm-vs-stl/2026/03/13/2025021042",
+      "gameDate": "2026-03-13",
+      "isHomeTeam": true,
+      "toiAll": 18513,
+      "distanceSkatedAll": {
+        "imperial": 48.1932,
+        "metric": 77.5593
+      },
+      "toiEven": 16473,
+      "distanceSkatedEven": {
+        "imperial": 43.5802,
+        "metric": 70.1354
+      },
+      "toiPP": 600,
+      "distanceSkatedPP": {
+        "imperial": 1.4265,
+        "metric": 2.2957
+      },
+      "toiPK": 1440,
+      "distanceSkatedPK": {
+        "imperial": 3.1865,
+        "metric": 5.1281
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Blues"
+        },
+        "placeNameWithPreposition": {
+          "default": "St. Louis",
+          "fr": "de St. Louis"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/STL_dark.svg?season=20252026"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Oilers"
+        },
+        "placeNameWithPreposition": {
+          "default": "Edmonton",
+          "fr": "d'Edmonton"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/EDM_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/EDM_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/stl-vs-car/2026/03/12/2025021033",
+      "gameDate": "2026-03-12",
+      "isHomeTeam": false,
+      "toiAll": 17780,
+      "distanceSkatedAll": {
+        "imperial": 47.0541,
+        "metric": 75.726
+      },
+      "toiEven": 16220,
+      "distanceSkatedEven": {
+        "imperial": 43.1653,
+        "metric": 69.4676
+      },
+      "toiPP": 600,
+      "distanceSkatedPP": {
+        "imperial": 1.7048,
+        "metric": 2.7435
+      },
+      "toiPK": 960,
+      "distanceSkatedPK": {
+        "imperial": 2.184,
+        "metric": 3.5149
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Hurricanes"
+        },
+        "placeNameWithPreposition": {
+          "default": "Carolina",
+          "fr": "de la Caroline"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Blues"
+        },
+        "placeNameWithPreposition": {
+          "default": "St. Louis",
+          "fr": "de St. Louis"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/STL_dark.svg?season=20252026"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/nyi-vs-stl/2026/03/10/2025021019",
+      "gameDate": "2026-03-10",
+      "isHomeTeam": true,
+      "toiAll": 18060,
+      "distanceSkatedAll": {
+        "imperial": 47.1961,
+        "metric": 75.9546
+      },
+      "toiEven": 15464,
+      "distanceSkatedEven": {
+        "imperial": 41.7069,
+        "metric": 67.1206
+      },
+      "toiPP": 1200,
+      "distanceSkatedPP": {
+        "imperial": 2.7207,
+        "metric": 4.3786
+      },
+      "toiPK": 1396,
+      "distanceSkatedPK": {
+        "imperial": 2.7684,
+        "metric": 4.4554
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Blues"
+        },
+        "placeNameWithPreposition": {
+          "default": "St. Louis",
+          "fr": "de St. Louis"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/STL_dark.svg?season=20252026"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Islanders"
+        },
+        "placeNameWithPreposition": {
+          "default": "New York",
+          "fr": "de New York"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/NYI_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/NYI_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/stl-vs-ana/2026/03/08/2025021006",
+      "gameDate": "2026-03-08",
+      "isHomeTeam": false,
+      "toiAll": 17280,
+      "distanceSkatedAll": {
+        "imperial": 43.7669,
+        "metric": 70.4359
+      },
+      "toiEven": 13055,
+      "distanceSkatedEven": {
+        "imperial": 33.5904,
+        "metric": 54.0584
+      },
+      "toiPP": 1825,
+      "distanceSkatedPP": {
+        "imperial": 4.4247,
+        "metric": 7.1209
+      },
+      "toiPK": 2400,
+      "distanceSkatedPK": {
+        "imperial": 5.7518,
+        "metric": 9.2566
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Ducks"
+        },
+        "placeNameWithPreposition": {
+          "default": "Anaheim",
+          "fr": "d'Anaheim"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/ANA_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/ANA_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Blues"
+        },
+        "placeNameWithPreposition": {
+          "default": "St. Louis",
+          "fr": "de St. Louis"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/STL_dark.svg?season=20252026"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/stl-vs-sjs/2026/03/06/2025020989",
+      "gameDate": "2026-03-06",
+      "isHomeTeam": false,
+      "toiAll": 17922,
+      "distanceSkatedAll": {
+        "imperial": 46.159,
+        "metric": 74.2856
+      },
+      "toiEven": 16230,
+      "distanceSkatedEven": {
+        "imperial": 42.3565,
+        "metric": 68.166
+      },
+      "toiPP": 940,
+      "distanceSkatedPP": {
+        "imperial": 2.4597,
+        "metric": 3.9585
+      },
+      "toiPK": 752,
+      "distanceSkatedPK": {
+        "imperial": 1.3428,
+        "metric": 2.161
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Sharks"
+        },
+        "placeNameWithPreposition": {
+          "default": "San Jose",
+          "fr": "de San Jose"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/SJS_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Blues"
+        },
+        "placeNameWithPreposition": {
+          "default": "St. Louis",
+          "fr": "de St. Louis"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/STL_dark.svg?season=20252026"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/stl-vs-sea/2026/03/04/2025020974",
+      "gameDate": "2026-03-04",
+      "isHomeTeam": false,
+      "toiAll": 17520,
+      "distanceSkatedAll": {
+        "imperial": 44.4266,
+        "metric": 71.4974
+      },
+      "toiEven": 15192,
+      "distanceSkatedEven": {
+        "imperial": 39.672,
+        "metric": 63.8457
+      },
+      "toiPP": 760,
+      "distanceSkatedPP": {
+        "imperial": 1.6588,
+        "metric": 2.6696
+      },
+      "toiPK": 1568,
+      "distanceSkatedPK": {
+        "imperial": 3.0958,
+        "metric": 4.9822
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Kraken"
+        },
+        "placeNameWithPreposition": {
+          "default": "Seattle",
+          "fr": "de Seattle"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/SEA_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/SEA_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Blues"
+        },
+        "placeNameWithPreposition": {
+          "default": "St. Louis",
+          "fr": "de St. Louis"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/STL_dark.svg?season=20252026"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/stl-vs-min/2026/03/01/2025020951",
+      "gameDate": "2026-03-01",
+      "isHomeTeam": false,
+      "toiAll": 17833,
+      "distanceSkatedAll": {
+        "imperial": 46.5426,
+        "metric": 74.9029
+      },
+      "toiEven": 16565,
+      "distanceSkatedEven": {
+        "imperial": 43.5361,
+        "metric": 70.0645
+      },
+      "toiPP": 600,
+      "distanceSkatedPP": {
+        "imperial": 1.6816,
+        "metric": 2.7063
+      },
+      "toiPK": 668,
+      "distanceSkatedPK": {
+        "imperial": 1.3248,
+        "metric": 2.1321
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Wild"
+        },
+        "placeNameWithPreposition": {
+          "default": "Minnesota",
+          "fr": "du Minnesota"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/MIN_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/MIN_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Blues"
+        },
+        "placeNameWithPreposition": {
+          "default": "St. Louis",
+          "fr": "de St. Louis"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/STL_dark.svg?season=20252026"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/njd-vs-stl/2026/02/28/2025020943",
+      "gameDate": "2026-02-28",
+      "isHomeTeam": true,
+      "toiAll": 18073,
+      "distanceSkatedAll": {
+        "imperial": 46.8175,
+        "metric": 75.3453
+      },
+      "toiEven": 15669,
+      "distanceSkatedEven": {
+        "imperial": 40.4976,
+        "metric": 65.1745
+      },
+      "toiPP": 1800,
+      "distanceSkatedPP": {
+        "imperial": 4.9308,
+        "metric": 7.9354
+      },
+      "toiPK": 604,
+      "distanceSkatedPK": {
+        "imperial": 1.389,
+        "metric": 2.2354
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Blues"
+        },
+        "placeNameWithPreposition": {
+          "default": "St. Louis",
+          "fr": "de St. Louis"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/STL_dark.svg?season=20252026"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Devils"
+        },
+        "placeNameWithPreposition": {
+          "default": "New Jersey",
+          "fr": "du New Jersey"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/NJD_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/sea-vs-stl/2026/02/26/2025020925",
+      "gameDate": "2026-02-26",
+      "isHomeTeam": true,
+      "toiAll": 17640,
+      "distanceSkatedAll": {
+        "imperial": 46.0216,
+        "metric": 74.0644
+      },
+      "toiEven": 16200,
+      "distanceSkatedEven": {
+        "imperial": 43.704,
+        "metric": 70.3346
+      },
+      "toiPK": 1440,
+      "distanceSkatedPK": {
+        "imperial": 2.3176,
+        "metric": 3.7298
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Blues"
+        },
+        "placeNameWithPreposition": {
+          "default": "St. Louis",
+          "fr": "de St. Louis"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/STL_dark.svg?season=20252026"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Kraken"
+        },
+        "placeNameWithPreposition": {
+          "default": "Seattle",
+          "fr": "de Seattle"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/SEA_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/SEA_dark.svg"
+        }
+      }
+    },
+    {
+      "gameCenterLink": "/gamecenter/stl-vs-dal/2026/02/04/2025020899",
+      "gameDate": "2026-02-04",
+      "isHomeTeam": false,
+      "toiAll": 17663,
+      "distanceSkatedAll": {
+        "imperial": 43.8245,
+        "metric": 70.5286
+      },
+      "toiEven": 14198,
+      "distanceSkatedEven": {
+        "imperial": 36.9465,
+        "metric": 59.4595
+      },
+      "toiPP": 2025,
+      "distanceSkatedPP": {
+        "imperial": 4.2622,
+        "metric": 6.8593
+      },
+      "toiPK": 1440,
+      "distanceSkatedPK": {
+        "imperial": 2.6158,
+        "metric": 4.2097
+      },
+      "homeTeam": {
+        "commonName": {
+          "default": "Stars"
+        },
+        "placeNameWithPreposition": {
+          "default": "Dallas",
+          "fr": "de Dallas"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/DAL_light.svg",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/DAL_dark.svg"
+        }
+      },
+      "awayTeam": {
+        "commonName": {
+          "default": "Blues"
+        },
+        "placeNameWithPreposition": {
+          "default": "St. Louis",
+          "fr": "de St. Louis"
+        },
+        "teamLogo": {
+          "light": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg?season=20252026",
+          "dark": "https://assets.nhle.com/logos/nhl/svg/STL_dark.svg?season=20252026"
+        }
+      }
+    }
+  ],
+  "skatingDistanceDetails": [
+    {
+      "strengthCode": "all",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 3015.0539,
+        "metric": 4852.0221,
+        "rank": 3,
+        "leagueAvg": {
+          "imperial": 2960.3842,
+          "metric": 4764.044
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.215,
+        "metric": 14.8294,
+        "rank": 10,
+        "leagueAvg": {
+          "imperial": 9.1642,
+          "metric": 14.7476
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 49.8535,
+        "metric": 80.2275,
+        "rank": 8,
+        "leagueAvg": {
+          "imperial": 49.2616,
+          "metric": 79.275
+        },
+        "overlay": {
+          "gameDate": "2025-11-14",
+          "awayTeam": {
+            "abbrev": "PHI",
+            "score": 6
+          },
+          "homeTeam": {
+            "abbrev": "STL",
+            "score": 5
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 16.6365,
+        "metric": 26.7725,
+        "rank": 13,
+        "leagueAvg": {
+          "imperial": 16.5826,
+          "metric": 26.6859
+        },
+        "overlay": {
+          "gameDate": "2026-01-09",
+          "awayTeam": {
+            "abbrev": "STL",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "UTA",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "all",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 1908.9104,
+        "metric": 3071.9437,
+        "rank": 10,
+        "leagueAvg": {
+          "imperial": 1885.8298,
+          "metric": 3034.8007
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.6191,
+        "metric": 15.4797,
+        "rank": 14,
+        "leagueAvg": {
+          "imperial": 9.6025,
+          "metric": 15.453
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 31.3974,
+        "metric": 50.5268,
+        "rank": 19,
+        "leagueAvg": {
+          "imperial": 31.5585,
+          "metric": 50.7861
+        },
+        "overlay": {
+          "gameDate": "2025-11-14",
+          "awayTeam": {
+            "abbrev": "PHI",
+            "score": 6
+          },
+          "homeTeam": {
+            "abbrev": "STL",
+            "score": 5
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 10.6681,
+        "metric": 17.1678,
+        "rank": 21,
+        "leagueAvg": {
+          "imperial": 10.7563,
+          "metric": 17.3097
+        },
+        "overlay": {
+          "gameDate": "2026-01-09",
+          "awayTeam": {
+            "abbrev": "STL",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "UTA",
+            "score": 4
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "all",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 1106.1435,
+        "metric": 1780.0785,
+        "rank": 5,
+        "leagueAvg": {
+          "imperial": 1074.5544,
+          "metric": 1729.2433
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.5922,
+        "metric": 13.8271,
+        "rank": 8,
+        "leagueAvg": {
+          "imperial": 8.4844,
+          "metric": 13.6537
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 18.4561,
+        "metric": 29.7008,
+        "rank": 11,
+        "leagueAvg": {
+          "imperial": 18.2061,
+          "metric": 29.2985
+        },
+        "overlay": {
+          "gameDate": "2025-11-14",
+          "awayTeam": {
+            "abbrev": "PHI",
+            "score": 6
+          },
+          "homeTeam": {
+            "abbrev": "STL",
+            "score": 5
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 6.4351,
+        "metric": 10.3558,
+        "rank": 3,
+        "leagueAvg": {
+          "imperial": 6.2372,
+          "metric": 10.0373
+        },
+        "overlay": {
+          "gameDate": "2025-11-14",
+          "awayTeam": {
+            "abbrev": "PHI",
+            "score": 6
+          },
+          "homeTeam": {
+            "abbrev": "STL",
+            "score": 5
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 216.1664,
+        "metric": 347.8691,
+        "rank": 17,
+        "leagueAvg": {
+          "imperial": 218.4249,
+          "metric": 351.5036
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.6846,
+        "metric": 13.9758,
+        "rank": 5,
+        "leagueAvg": {
+          "imperial": 8.3805,
+          "metric": 13.4864
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 7.3893,
+        "metric": 11.8914,
+        "rank": 22,
+        "leagueAvg": {
+          "imperial": 8.2388,
+          "metric": 13.2585
+        },
+        "overlay": {
+          "gameDate": "2025-12-01",
+          "awayTeam": {
+            "abbrev": "ANA",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "STL",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 4.3449,
+        "metric": 6.9921,
+        "rank": 22,
+        "leagueAvg": {
+          "imperial": 4.8328,
+          "metric": 7.7772
+        },
+        "overlay": {
+          "gameDate": "2025-12-18",
+          "awayTeam": {
+            "abbrev": "NYR",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "STL",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 163.8001,
+        "metric": 263.5978,
+        "rank": 19,
+        "leagueAvg": {
+          "imperial": 167.4285,
+          "metric": 269.4368
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.5405,
+        "metric": 13.744,
+        "rank": 4,
+        "leagueAvg": {
+          "imperial": 8.2546,
+          "metric": 13.2838
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 5.783,
+        "metric": 9.3064,
+        "rank": 23,
+        "leagueAvg": {
+          "imperial": 6.3419,
+          "metric": 10.2058
+        },
+        "overlay": {
+          "gameDate": "2025-12-01",
+          "awayTeam": {
+            "abbrev": "ANA",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "STL",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 3.132,
+        "metric": 5.0403,
+        "rank": 30,
+        "leagueAvg": {
+          "imperial": 3.7113,
+          "metric": 5.9726
+        },
+        "overlay": {
+          "gameDate": "2025-12-18",
+          "awayTeam": {
+            "abbrev": "NYR",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "STL",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pp",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 52.3663,
+        "metric": 84.2712,
+        "rank": 16,
+        "leagueAvg": {
+          "imperial": 50.9964,
+          "metric": 82.0668
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.1683,
+        "metric": 14.7542,
+        "rank": 4,
+        "leagueAvg": {
+          "imperial": 8.8222,
+          "metric": 14.1973
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 1.6986,
+        "metric": 2.7335,
+        "rank": 24,
+        "leagueAvg": {
+          "imperial": 2.0456,
+          "metric": 3.2919
+        },
+        "overlay": {
+          "gameDate": "2026-01-31",
+          "awayTeam": {
+            "abbrev": "CBJ",
+            "score": 5
+          },
+          "homeTeam": {
+            "abbrev": "STL",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 1.2129,
+        "metric": 1.9518,
+        "rank": 15,
+        "leagueAvg": {
+          "imperial": 1.2345,
+          "metric": 1.9866
+        },
+        "overlay": {
+          "gameDate": "2025-12-18",
+          "awayTeam": {
+            "abbrev": "NYR",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "STL",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "OT",
+            "otPeriods": 1
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 2,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 145.2861,
+        "metric": 233.8039,
+        "rank": 26,
+        "leagueAvg": {
+          "imperial": 157.5591,
+          "metric": 253.5545
+        }
+      },
+      "distancePer60": {
+        "imperial": 7.3117,
+        "metric": 11.7665,
+        "rank": 25,
+        "leagueAvg": {
+          "imperial": 7.6069,
+          "metric": 12.2415
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 6.0594,
+        "metric": 9.7511,
+        "rank": 13,
+        "leagueAvg": {
+          "imperial": 5.954,
+          "metric": 9.5815
+        },
+        "overlay": {
+          "gameDate": "2025-12-06",
+          "awayTeam": {
+            "abbrev": "STL",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 4.0512,
+        "metric": 6.5194,
+        "rank": 5,
+        "leagueAvg": {
+          "imperial": 3.4461,
+          "metric": 5.5457
+        },
+        "overlay": {
+          "gameDate": "2025-12-06",
+          "awayTeam": {
+            "abbrev": "STL",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 81.6039,
+        "metric": 131.3223,
+        "rank": 24,
+        "leagueAvg": {
+          "imperial": 86.7002,
+          "metric": 139.5236
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.2488,
+        "metric": 13.2746,
+        "rank": 23,
+        "leagueAvg": {
+          "imperial": 8.4704,
+          "metric": 13.6311
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 3.4004,
+        "metric": 5.4721,
+        "rank": 11,
+        "leagueAvg": {
+          "imperial": 3.2616,
+          "metric": 5.2489
+        },
+        "overlay": {
+          "gameDate": "2025-10-11",
+          "awayTeam": {
+            "abbrev": "STL",
+            "score": 4
+          },
+          "homeTeam": {
+            "abbrev": "CGY",
+            "score": 2
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 2.2717,
+        "metric": 3.6557,
+        "rank": 4,
+        "leagueAvg": {
+          "imperial": 1.897,
+          "metric": 3.0528
+        },
+        "overlay": {
+          "gameDate": "2025-12-06",
+          "awayTeam": {
+            "abbrev": "STL",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "pk",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 63.6823,
+        "metric": 102.4817,
+        "rank": 27,
+        "leagueAvg": {
+          "imperial": 70.859,
+          "metric": 114.0309
+        }
+      },
+      "distancePer60": {
+        "imperial": 6.3826,
+        "metric": 10.2713,
+        "rank": 28,
+        "leagueAvg": {
+          "imperial": 6.7632,
+          "metric": 10.8838
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 2.6621,
+        "metric": 4.284,
+        "rank": 17,
+        "leagueAvg": {
+          "imperial": 2.7144,
+          "metric": 4.3682
+        },
+        "overlay": {
+          "gameDate": "2025-12-06",
+          "awayTeam": {
+            "abbrev": "STL",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 1.7795,
+        "metric": 2.8637,
+        "rank": 7,
+        "leagueAvg": {
+          "imperial": 1.5696,
+          "metric": 2.5259
+        },
+        "overlay": {
+          "gameDate": "2025-12-06",
+          "awayTeam": {
+            "abbrev": "STL",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "OTT",
+            "score": 1
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "all",
+      "distanceTotal": {
+        "imperial": 2653.6014,
+        "metric": 4270.3491,
+        "rank": 5,
+        "leagueAvg": {
+          "imperial": 2584.4001,
+          "metric": 4158.9859
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.3957,
+        "metric": 15.1202,
+        "rank": 11,
+        "leagueAvg": {
+          "imperial": 9.3549,
+          "metric": 15.0545
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 47.5618,
+        "metric": 76.5396,
+        "rank": 6,
+        "leagueAvg": {
+          "imperial": 46.7884,
+          "metric": 75.295
+        },
+        "overlay": {
+          "gameDate": "2025-11-14",
+          "awayTeam": {
+            "abbrev": "PHI",
+            "score": 6
+          },
+          "homeTeam": {
+            "abbrev": "STL",
+            "score": 5
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 16.6189,
+        "metric": 26.7443,
+        "rank": 9,
+        "leagueAvg": {
+          "imperial": 16.4956,
+          "metric": 26.5458
+        },
+        "overlay": {
+          "gameDate": "2025-11-14",
+          "awayTeam": {
+            "abbrev": "PHI",
+            "score": 6
+          },
+          "homeTeam": {
+            "abbrev": "STL",
+            "score": 5
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "F",
+      "distanceTotal": {
+        "imperial": 1663.5065,
+        "metric": 2677.0235,
+        "rank": 8,
+        "leagueAvg": {
+          "imperial": 1631.7012,
+          "metric": 2625.8403
+        }
+      },
+      "distancePer60": {
+        "imperial": 9.8212,
+        "metric": 15.805,
+        "rank": 17,
+        "leagueAvg": {
+          "imperial": 9.8372,
+          "metric": 15.8307
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 29.8466,
+        "metric": 48.0311,
+        "rank": 11,
+        "leagueAvg": {
+          "imperial": 29.5739,
+          "metric": 47.5923
+        },
+        "overlay": {
+          "gameDate": "2025-11-14",
+          "awayTeam": {
+            "abbrev": "PHI",
+            "score": 6
+          },
+          "homeTeam": {
+            "abbrev": "STL",
+            "score": 5
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 10.2851,
+        "metric": 16.5514,
+        "rank": 27,
+        "leagueAvg": {
+          "imperial": 10.4614,
+          "metric": 16.8352
+        },
+        "overlay": {
+          "gameDate": "2025-11-03",
+          "awayTeam": {
+            "abbrev": "EDM",
+            "score": 2
+          },
+          "homeTeam": {
+            "abbrev": "STL",
+            "score": 3
+          },
+          "gameOutcome": {
+            "lastPeriodType": "REG"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 3,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    },
+    {
+      "strengthCode": "es",
+      "positionCode": "D",
+      "distanceTotal": {
+        "imperial": 990.0949,
+        "metric": 1593.3256,
+        "rank": 2,
+        "leagueAvg": {
+          "imperial": 952.699,
+          "metric": 1533.1456
+        }
+      },
+      "distancePer60": {
+        "imperial": 8.7581,
+        "metric": 14.0941,
+        "rank": 6,
+        "leagueAvg": {
+          "imperial": 8.6301,
+          "metric": 13.8881
+        }
+      },
+      "distanceMaxGame": {
+        "imperial": 17.7152,
+        "metric": 28.5085,
+        "rank": 9,
+        "leagueAvg": {
+          "imperial": 17.3453,
+          "metric": 27.9132
+        },
+        "overlay": {
+          "gameDate": "2025-11-14",
+          "awayTeam": {
+            "abbrev": "PHI",
+            "score": 6
+          },
+          "homeTeam": {
+            "abbrev": "STL",
+            "score": 5
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      },
+      "distanceMaxPeriod": {
+        "imperial": 6.4351,
+        "metric": 10.3558,
+        "rank": 2,
+        "leagueAvg": {
+          "imperial": 6.1819,
+          "metric": 9.9483
+        },
+        "overlay": {
+          "gameDate": "2025-11-14",
+          "awayTeam": {
+            "abbrev": "PHI",
+            "score": 6
+          },
+          "homeTeam": {
+            "abbrev": "STL",
+            "score": 5
+          },
+          "gameOutcome": {
+            "lastPeriodType": "SO"
+          },
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "gameType": 2
+        }
+      }
+    }
+  ]
+}
