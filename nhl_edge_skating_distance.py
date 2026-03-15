@@ -94,44 +94,66 @@ METRIC_SPECS = [
 ]
 
 
-# ── Yesterday rank lookup ────────────────────────────────────────────────────
+# ── Yesterday data lookup ────────────────────────────────────────────────────
 
-def load_yesterday_ranks(outdir: str, run_date: str) -> Dict[str, int]:
+# Maps metric key → (dist field suffix, toi field suffix) in the wide CSV columns
+_METRIC_CSV_FIELDS = {
+    "all": ("distanceSkatedAll.metric", "toiAll"),
+    "pp":  ("distanceSkatedPP.metric",  "toiPP"),
+    "pk":  ("distanceSkatedPK.metric",  "toiPK"),
+}
+
+def _csv_pace(df, dist_suffix, toi_suffix, g_start, g_end):
+    """Compute km/60 pace from wide-CSV columns for games [g_start, g_end)."""
+    dist_cols = [c for c in df.columns
+                 if c.startswith("skatingDistanceLast10[") and dist_suffix in c
+                 and any(f"[{i}]" in c for i in range(g_start, g_end))]
+    toi_cols  = [c for c in df.columns
+                 if c.startswith("skatingDistanceLast10[") and c.endswith(f"].{toi_suffix}")
+                 and any(f"[{i}]" in c for i in range(g_start, g_end))]
+    if not dist_cols or not toi_cols:
+        return pd.Series([None] * len(df))
+    d = df[dist_cols].sum(axis=1)
+    t = df[toi_cols].sum(axis=1)
+    return (d / (t / 3600.0)).where(t > 0)
+
+def load_yesterday_data(outdir: str, run_date: str) -> Dict[str, Any]:
     """
-    Load yesterday's wide CSV and return a dict of {team_abbrev: rank}
-    ranked by All Situations km/60 (rank 1 = highest pace).
-    Returns empty dict if yesterday's file doesn't exist.
+    Load yesterday's wide CSV and return:
+      {
+        "pace_ranks":  {abbrev: rank},           # overall All Situations G1-5 pace rank
+        "tile_deltas": {metric_key: {abbrev: delta_per60}}  # delta km/60 per metric
+      }
+    Returns empty dicts if yesterday's file doesn't exist.
     """
     today = dt.date.fromisoformat(run_date)
     yesterday = (today - dt.timedelta(days=1)).isoformat()
     csv_path = os.path.join(outdir, f"team_skating_distance_detail_wide_{yesterday}.csv")
     if not os.path.exists(csv_path):
-        return {}
+        return {"pace_ranks": {}, "tile_deltas": {}}
     try:
         df = pd.read_csv(csv_path)
-        # The All Situations G1-5 pace isn't stored directly in the wide CSV —
-        # we stored raw sums. Re-derive it from distanceSkatedAll.metric and toiAll
-        # across the last10 games. Since the wide CSV flattens array fields as
-        # skatingDistanceLast10[0].distanceSkatedAll.metric etc., we sum those.
-        dist_cols = [c for c in df.columns
-                     if c.startswith("skatingDistanceLast10[") and "distanceSkatedAll.metric" in c]
-        toi_cols  = [c for c in df.columns
-                     if c.startswith("skatingDistanceLast10[") and c.endswith("].toiAll")]
-        # Limit to G1-5 (indices 0-4)
-        g15_dist = [c for c in dist_cols if any(f"[{i}]" in c for i in range(5))]
-        g15_toi  = [c for c in toi_cols  if any(f"[{i}]" in c for i in range(5))]
-        if not g15_dist or not g15_toi:
-            return {}
-        df["_dist"] = df[g15_dist].sum(axis=1)
-        df["_toi"]  = df[g15_toi].sum(axis=1)
-        df["_pace"] = df.apply(
-            lambda r: r["_dist"] / (r["_toi"] / 3600.0) if r["_toi"] > 0 else None, axis=1
-        )
-        df = df.dropna(subset=["_pace"]).sort_values("_pace", ascending=False).reset_index(drop=True)
-        return {row["team"]: int(idx + 1) for idx, row in df.iterrows()}
+        result: Dict[str, Any] = {"pace_ranks": {}, "tile_deltas": {}}
+
+        # Overall pace rank from All Situations G1-5
+        all_pace = _csv_pace(df, "distanceSkatedAll.metric", "toiAll", 0, 5)
+        df["_all_pace"] = all_pace
+        ranked = df.dropna(subset=["_all_pace"]).sort_values("_all_pace", ascending=False).reset_index(drop=True)
+        result["pace_ranks"] = {row["team"]: int(idx + 1) for idx, row in ranked.iterrows()}
+
+        # Per-metric delta km/60 (G1-5 pace minus G6-10 pace) for tile position ranking
+        for mk, (dist_suf, toi_suf) in _METRIC_CSV_FIELDS.items():
+            g15  = _csv_pace(df, dist_suf, toi_suf, 0, 5)
+            g610 = _csv_pace(df, dist_suf, toi_suf, 5, 10)
+            delta = g15 - g610
+            result["tile_deltas"][mk] = dict(
+                zip(df["team"], delta.where(g15.notna() & g610.notna()))
+            )
+
+        return result
     except Exception as e:
-        print(f"Warning: could not load yesterday ranks from {csv_path}: {e}", file=sys.stderr)
-        return {}
+        print(f"Warning: could not load yesterday data from {csv_path}: {e}", file=sys.stderr)
+        return {"pace_ranks": {}, "tile_deltas": {}}
 
 
 # ── HTTP + IO ────────────────────────────────────────────────────────────────
@@ -335,10 +357,14 @@ def movers_table(rows, rank_deltas: Dict[str, int] = None) -> str:
 
 # ── HTML page ────────────────────────────────────────────────────────────────
 
-def make_html_tight(run_date, teams, metrics_by_team, rank_deltas: Dict[str, int] = None,
+def make_html_tight(run_date, teams, metrics_by_team,
+                    rank_deltas: Dict[str, int] = None,
+                    tile_rank_deltas: Dict[str, Dict[str, int]] = None,
                     title="NHL EDGE — Team Skating Distance (Tight View)") -> str:
     if rank_deltas is None:
         rank_deltas = {}
+    if tile_rank_deltas is None:
+        tile_rank_deltas = {}
     keys   = [m["key"]   for m in METRIC_SPECS]
     labels = {m["key"]: m["label"] for m in METRIC_SPECS}
     descs  = {m["key"]: m["desc"]  for m in METRIC_SPECS}
@@ -483,14 +509,14 @@ def make_html_tight(run_date, teams, metrics_by_team, rank_deltas: Dict[str, int
   </div>
 
   <div class="grid two">
-    <div class="card"><div class="sub" style="margin-bottom:10px;"><b>Top 10 ↑</b> — All Situations</div>{movers_table(all_up, rank_deltas)}</div>
-    <div class="card"><div class="sub" style="margin-bottom:10px;"><b>Top 10 ↓</b> — All Situations</div>{movers_table(all_dn, rank_deltas)}</div>
+    <div class="card"><div class="sub" style="margin-bottom:10px;"><b>Top 10 ↑</b> — All Situations</div>{movers_table(all_up, tile_rank_deltas.get("all", {}))}</div>
+    <div class="card"><div class="sub" style="margin-bottom:10px;"><b>Top 10 ↓</b> — All Situations</div>{movers_table(all_dn, tile_rank_deltas.get("all", {}))}</div>
   </div>
   <div class="grid two">
-    <div class="card"><div class="sub" style="margin-bottom:10px;"><b>Top 10 ↑</b> — Power Play</div>{movers_table(pp_up, rank_deltas)}</div>
-    <div class="card"><div class="sub" style="margin-bottom:10px;"><b>Top 10 ↓</b> — Power Play</div>{movers_table(pp_dn, rank_deltas)}</div>
-    <div class="card"><div class="sub" style="margin-bottom:10px;"><b>Top 10 ↑</b> — Penalty Kill</div>{movers_table(pk_up, rank_deltas)}</div>
-    <div class="card"><div class="sub" style="margin-bottom:10px;"><b>Top 10 ↓</b> — Penalty Kill</div>{movers_table(pk_dn, rank_deltas)}</div>
+    <div class="card"><div class="sub" style="margin-bottom:10px;"><b>Top 10 ↑</b> — Power Play</div>{movers_table(pp_up, tile_rank_deltas.get("pp", {}))}</div>
+    <div class="card"><div class="sub" style="margin-bottom:10px;"><b>Top 10 ↓</b> — Power Play</div>{movers_table(pp_dn, tile_rank_deltas.get("pp", {}))}</div>
+    <div class="card"><div class="sub" style="margin-bottom:10px;"><b>Top 10 ↑</b> — Penalty Kill</div>{movers_table(pk_up, tile_rank_deltas.get("pk", {}))}</div>
+    <div class="card"><div class="sub" style="margin-bottom:10px;"><b>Top 10 ↓</b> — Penalty Kill</div>{movers_table(pk_dn, tile_rank_deltas.get("pk", {}))}</div>
   </div>
 
   <div class="card">
@@ -541,8 +567,10 @@ def main() -> int:
 
     teams = sorted([Team(t["id"], t["abbrev"], t["name"]) for t in NHL_TEAMS], key=lambda t: t.abbrev)
 
-    # Load yesterday's ranks for All Situations comparison
-    yesterday_ranks = load_yesterday_ranks(args.outdir, run_date)
+    # Load yesterday's data for rank comparisons
+    yesterday_data = load_yesterday_data(args.outdir, run_date)
+    yesterday_pace_ranks = yesterday_data["pace_ranks"]
+    yesterday_tile_deltas = yesterday_data["tile_deltas"]  # {metric_key: {abbrev: delta}}
 
     wide_rows: List[Dict[str, Any]] = []
     long_rows: List[Dict[str, Any]] = []
@@ -572,26 +600,57 @@ def main() -> int:
     df_w.to_csv(os.path.join(args.outdir, "latest_wide.csv"), index=False)
     df_l.to_csv(os.path.join(args.outdir, "latest_long.csv"), index=False)
 
-    # Compute today's All Situations rank (rank 1 = highest pace)
-    today_pace = []
-    for t in teams:
-        mv = metrics_by_team.get(t.abbrev, {}).get("all")
-        pace = mv.recent_km_per60 if mv else None
-        today_pace.append((t.abbrev, pace))
+    # Compute today's All Situations pace rank (rank 1 = highest pace) for main table badge
     today_pace_sorted = sorted(
-        [(abbr, p) for abbr, p in today_pace if p is not None],
+        [(t.abbrev, metrics_by_team[t.abbrev]["all"].recent_km_per60)
+         for t in teams
+         if metrics_by_team.get(t.abbrev, {}).get("all") and
+            metrics_by_team[t.abbrev]["all"].recent_km_per60 is not None],
         key=lambda x: x[1], reverse=True
     )
-    today_ranks = {abbr: idx + 1 for idx, (abbr, _) in enumerate(today_pace_sorted)}
+    today_pace_ranks = {abbr: idx + 1 for idx, (abbr, _) in enumerate(today_pace_sorted)}
 
-    # rank_delta: positive = moved UP (e.g. was 5th yesterday, 3rd today → +2)
+    # Main table badge: overall pace rank delta (positive = moved up)
     rank_deltas: Dict[str, int] = {}
-    if yesterday_ranks:
-        for abbr, today_rank in today_ranks.items():
-            if abbr in yesterday_ranks:
-                rank_deltas[abbr] = yesterday_ranks[abbr] - today_rank
+    if yesterday_pace_ranks:
+        for abbr, today_rank in today_pace_ranks.items():
+            if abbr in yesterday_pace_ranks:
+                rank_deltas[abbr] = yesterday_pace_ranks[abbr] - today_rank
 
-    html_doc = make_html_tight(run_date, teams, metrics_by_team, rank_deltas=rank_deltas)
+    # Tile-specific rank deltas: position in each movers tile vs yesterday
+    # For each metric, rank all teams by delta_per60 (up tile: descending, dn tile: ascending)
+    # Compare today's top-10 position to yesterday's position in the same ranking.
+    tile_rank_deltas: Dict[str, Dict[str, int]] = {}
+    for mk in ("all", "pp", "pk"):
+        yest_mk_deltas = yesterday_tile_deltas.get(mk, {})
+        if not yest_mk_deltas:
+            tile_rank_deltas[mk] = {}
+            continue
+        # Yesterday's full ranking by delta (descending for ↑ tile)
+        yest_sorted_up = sorted(
+            [(a, v) for a, v in yest_mk_deltas.items() if v is not None and not (isinstance(v, float) and __import__("math").isnan(v))],
+            key=lambda x: x[1], reverse=True
+        )
+        yest_ranks_up = {abbr: idx + 1 for idx, (abbr, _) in enumerate(yest_sorted_up)}
+        # Today's ranking for this metric
+        today_mk_deltas = {
+            t.abbrev: (metrics_by_team[t.abbrev][mk].delta_per60 or 0.0)
+            for t in teams
+            if metrics_by_team.get(t.abbrev, {}).get(mk) and
+               metrics_by_team[t.abbrev][mk].delta_per60 is not None
+        }
+        today_sorted_up = sorted(today_mk_deltas.items(), key=lambda x: x[1], reverse=True)
+        today_ranks_up = {abbr: idx + 1 for idx, (abbr, _) in enumerate(today_sorted_up)}
+        # Delta: positive = moved up in this tile's ranking
+        mk_tile_deltas = {}
+        for abbr, today_rank in today_ranks_up.items():
+            if abbr in yest_ranks_up:
+                mk_tile_deltas[abbr] = yest_ranks_up[abbr] - today_rank
+        tile_rank_deltas[mk] = mk_tile_deltas
+
+    html_doc = make_html_tight(run_date, teams, metrics_by_team,
+                               rank_deltas=rank_deltas,
+                               tile_rank_deltas=tile_rank_deltas)
     lat  = os.path.join(args.docsdir, "latest.html")
     arch = os.path.join(arch_dir, f"{run_date}.html")
     for p in [lat, arch]:
